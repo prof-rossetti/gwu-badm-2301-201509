@@ -3,7 +3,7 @@
 This repository contains resources for instructing a university-level course on [Management Information Systems](https://en.wikipedia.org/wiki/Management_information_system).
 
 university | school | semester | course | section | credits
--- | -- | -- | ---
+--- | --- | --- | --- | --- | ---
 The George Washington University (GWU) | School of Business (BADM) | Fall 2015 (201503)| Management Information Systems Technology (2301) | Monday Mornings (11) | 3
 
 Official Reference:
@@ -19,13 +19,13 @@ The Learning Community is comprised of a Professor, a Teaching Assistant, and ma
 ### Professor
 
 name | email | academic qualifications | professional experience
--- | -- | -- | -- | --
+--- | --- | --- | --- | ---
 Mike Rossetti | [rossetti@gwu.edu](mailto:rossetti@gwu.edu) | GWU BBA/MSIST 2010 | https://www.linkedin.com/in/mikerossetti
 
 ### Teaching Assistant
 
 name | email | academic qualifications | professional experience
--- | -- | -- | -- | --
+--- | --- | --- | --- | ---
 Morui Li | [limorui@gwmail.gwu.edu](mailto:limorui@gwmail.gwu.edu) | todo | todo
 
 ### Students
@@ -61,6 +61,7 @@ Calendar ID | XML | ICAL | HTML
 
 <iframe src="https://www.google.com/calendar/embed?src=2ckuqh5g8c38iif00qp8etavjo%40group.calendar.google.com&ctz=America/New_York" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
+
 ## How?
 
 ### Teaching Methods
@@ -71,7 +72,7 @@ todo: theory, practice, "emerging managerial issues"
 #### Accompanying Textbook
 
 title | author | edition | isbn | price range
---- | --- | --- | ---
+--- | --- | --- | --- | ---
 Intro to Information Systems | Rainer | 5th | 9781118674369 | $62.50 - $176.75
 
 ### Evaluation Methods
