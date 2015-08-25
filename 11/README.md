@@ -26,7 +26,7 @@ Mike Rossetti | [rossetti@gwu.edu](mailto:rossetti@gwu.edu) | GWU BBA/MSIST 2010
 
 name | email | academic qualifications | professional experience
 --- | --- | --- | --- | ---
-Morui Li | [limorui@gwmail.gwu.edu](mailto:limorui@gwmail.gwu.edu) | todo | todo
+Ademuyiwa Adesoye | [muadesoye@gwmail.gwu.edu](mailto:muadesoye@gwmail.gwu.edu) | todo | todo
 
 ### Students
 
