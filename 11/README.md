@@ -1,6 +1,6 @@
-# Management Information Systems
+# BADM 2301
 
-This repository contains resources for instructing an introductory university-level course on [Management Information Systems](https://en.wikipedia.org/wiki/Management_information_system).
+This repository contains resources for instructing a university-level course on [Management Information Systems](https://en.wikipedia.org/wiki/Management_information_system).
 
 university | school | semester | course | section | credits
 -- | -- | -- | ---
