@@ -6,14 +6,38 @@ university | school | semester | course | section | credits
 --- | --- | --- | --- | --- | ---
 The George Washington University (GWU) | School of Business (BADM) | Fall 2015 (201503)| Management Information Systems Technology (2301) | Monday Mornings (11) | 3
 
-Official Reference:
+University References:
 
  + [Course Description ](http://my.gwu.edu/mod/pws/courses.cfm?campId=1&termId=201503&subjId=BADM)
  + [Course Schedule](http://my.gwu.edu/mod/pws/courses.cfm?campId=1&termId=201503&subjId=BADM)
  + [Required Materials](http://www.bkstr.com/webapp/wcs/stores/servlet/booklookServlet?bookstore_id-1=122&term_id-1=201503&div-1=&dept-1=BADM&course-1=2301&section-1=11)
  + [Tentative Final Exam Schedule](https://registrar.gwu.edu/sites/registrar.gwu.edu/files/downloads/Fall2015TentativeExams.pdf)
 
-## Who?
+## Description
+
+This course is described as:
+
+> An introduction to data and information processing concepts and systems viewed from a contemporary management perspective. Emphasis on uses and applications as well as emerging managerial issues with the potential to reshape the form and function of information systems.
+
+## Location
+
+building name | room number | address
+--- | --- | ---
+Duques Hall |  351 | 2201 G Street NW, Washington DC 20052
+
+## Schedule
+
+The class meets on Monday mornings (9/31/15 through 12/9/15), from 11:10am to 1:40pm.
+
+### Calendar
+
+The course [Calendar](CALENDAR.md) reflects the most up-to-date scheduling information, including class times, instructor office hours, holidays, support sessions, and more.
+
+### Roadmap
+
+The course [Roadmap](ROADMAP.md) contains a tentative week-by-week mapping of when each topic will be covered in class and when each assignment is due. It is likely to change to reflect revised assignment deadlines as well as changes in the pace of instruction.
+
+## Learning Community
 
 The Learning Community is comprised of a Professor, a Teaching Assistant, and many Students.
 
@@ -33,54 +57,40 @@ Ademuyiwa Adesoye | [muadesoye@gwmail.gwu.edu](mailto:muadesoye@gwmail.gwu.edu) 
 
 ### Students
 
-This course is required for all undergraduate business students at the university. Currently,
-`X` students are registered for this offering. Most are Freshmen and Sophomores.
-
-Each student enrolled in this course should already have *basic knowlege of Microsoft Word, Excel, and PowerPoint*.
+This course is required for all undergraduate students in the Business School. Currently,
+**X** students are registered for this offering. Most are Freshmen and Sophomores.
 
 > NOTE: As of 8/24, this course is full. There is a waitlist available for students who would like to register but are not currently registered.
 
-## What?
+#### Prerequisites
 
-This course is described as:
+Each student enrolled in this course should already have *basic knowledge of Microsoft Word, Excel, and PowerPoint*, or their Mac OS or Google Drive equivalents.
 
-> An introduction to data and information processing concepts and systems viewed from a contemporary management perspective. Emphasis on uses and applications as well as emerging managerial issues with the potential to reshape the form and function of information systems.
+## Learning Objectives
 
-## Where?
+The Learning Community congregates and operates together with a shared purpose:
 
-building name | room number | address
---- | --- | ---
-Duques Hall |  351 | 2201 G Street NW, Washington DC 20052
+ 1. To acquire and expand subject matter knowledge.
+ * To acquire and hone technology skills.
+ * To improve communication and presentation skills.
+ * To improve the ability to collaborate and work in teams.
+ * To acquire and maintain a relevant understanding of industry practices and challenges.
 
-## When?
+> ... so all members of the learning community may succeed in their professional pursuits.
 
-Monday mornings between 9/31/15 and 12/9/15, from 11:10am to 1:40pm.
+## Operations
 
-### Google Calendar
+### Conduct
 
-attribute name | attribute value
---- | ---
-Calendar ID | 2ckuqh5g8c38iif00qp8etavjo@group.calendar.google.com
-XML | https://www.google.com/calendar/feeds/2ckuqh5g8c38iif00qp8etavjo%40group.calendar.google.com/public/basic
-ICAL | https://www.google.com/calendar/ical/2ckuqh5g8c38iif00qp8etavjo%40group.calendar.google.com/public/basic.ics
-HTML | https://www.google.com/calendar/embed?src=2ckuqh5g8c38iif00qp8etavjo%40group.calendar.google.com&ctz=America/New_York
+To foster and promote a positive and successful learning environment, each member of the Learning Community agrees to abide by the [Code of Conduct](CONDUCT.md).
 
-<iframe src="https://www.google.com/calendar/embed?src=2ckuqh5g8c38iif00qp8etavjo%40group.calendar.google.com&ctz=America/New_York" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+### Communications
 
-## Why?
-
-todo: teaching objectives, learning objectives
-
-## How?
-
-### Communication Methods
-
-todo: comms policy
+To ensure Students receive sufficient instructional support and equal access to the time and attention of instructors, Students are suggested to understand and practice the [Communications Policy](COMMUNICATIONS.md).
 
 ### Teaching Methods
 
-
-todo: theory, practice, "emerging managerial issues"
+todo: less theory, more practice, with  "emerging managerial issues" as a current theme.
 
 #### Accompanying Textbook
 
