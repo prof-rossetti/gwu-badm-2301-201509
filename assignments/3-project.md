@@ -1,4 +1,4 @@
-# Questionnaire
+# Project
 
 todo
 
@@ -6,6 +6,6 @@ todo
 
 todo
 
-## Evaluation Criteria
+## Evaluation Methodology
 
 todo
