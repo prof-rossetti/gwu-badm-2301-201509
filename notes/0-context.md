@@ -1,3 +1,3 @@
-# Context and Introduction
+# Introduction to this Course
 
 todo

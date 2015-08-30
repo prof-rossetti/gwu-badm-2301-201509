@@ -1,4 +1,4 @@
-# Information Systems
+# Introduction to Information Systems
 
 todo: definition
 
@@ -6,5 +6,8 @@ todo: info + system = info system
 
 todo: parts:
 
- + datastore
- + user interface
+ + hardware (and networking)
+ + software
+  + datastore
+  + user interface
+  + application framework and code

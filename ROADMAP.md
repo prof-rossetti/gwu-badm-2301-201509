@@ -1,21 +1,34 @@
 # Roadmap
 
-class number | date | topic | assignment(s) due
---- | --- | --- | ---
-0  | XX/XX/2015 | TOPIC | ASSIGNMENTS
-1  | XX/XX/2015 | TOPIC | ASSIGNMENTS
-2  | XX/XX/2015 | TOPIC | ASSIGNMENTS
-3  | XX/XX/2015 | TOPIC | ASSIGNMENTS
-4  | XX/XX/2015 | TOPIC | ASSIGNMENTS
-5  | XX/XX/2015 | TOPIC | ASSIGNMENTS
-6  | XX/XX/2015 | TOPIC | ASSIGNMENTS
-7  | XX/XX/2015 | TOPIC | ASSIGNMENTS
-8  | XX/XX/2015 | TOPIC | ASSIGNMENTS
-9  | XX/XX/2015 | TOPIC | ASSIGNMENTS
-10 | XX/XX/2015 | TOPIC | ASSIGNMENTS
-11 | XX/XX/2015 | TOPIC | ASSIGNMENTS
-12 | XX/XX/2015 | TOPIC | ASSIGNMENTS
-13 | XX/XX/2015 | TOPIC | ASSIGNMENTS
-14 | XX/XX/2015 | TOPIC | ASSIGNMENTS
-15 | XX/XX/2015 | TOPIC | ASSIGNMENTS
-16 | XX/XX/2015 | TOPIC | ASSIGNMENTS
+date | session identifier | title | session format (lab, lecture, or hybrid) | description | technologies
+--- | --- | --- | --- | --- | ---
+08/31/2015 | 1-1 | Into to this Course                  | lecture   | Course participants are introduced and course policies are discussed. | [Google Forms](https://www.google.com/forms/about/), [Slack](https://slack.com/)
+08/31/2015 | 1-2 | Into to Information Systems          | lecture   | What are information systems and how are they relevant in business?   | n/a
+~~09/7/2015~~  | ~~2-1~~ | ~~No Class (LABOR DAY)~~     | ~~n/a~~   | ~~n/a~~ | ~~n/a~~
+~~09/7/2015~~  | ~~2-2~~ | ~~No Class (LABOR DAY)~~     | ~~n/a~~   | ~~n/a~~ | ~~n/a~~
+09/14/2015 | 3-1 | Professional Documents               | hybrid    | Word processing and presentation best practices are demonstrated and applied. Document collaboration and sharing techniques are discussed and applied. | [MS Word](https://products.office.com/en-us/word), [Google Documents](https://www.google.com/docs/about/), [MS PowerPoint](https://products.office.com/en-us/powerpoint), [Google Slides](https://www.google.com/slides/about/)
+09/14/2015 | 3-2 | Business Processes                   | hybrid    | Business process analysis is introduced and discussed; processes are identified and diagrammed. | [MS Visio](https://products.office.com/en-us/visio/flowchart-software), [Lucidchart](https://www.lucidchart.com/)
+09/21/2015 | 4-1 | Data Entry and Organization          | lab       | Spreadsheet best practices (i.e. filtering), formulae, and functions (e.g. `VLOOKUP`, `MAX`, `MIN`, `SUM`, `IF`) are introduced and applied. | [MS Excel](https://products.office.com/en-us/excel), [Google Sheets](https://www.google.com/sheets/about/)
+09/21/2015 | 4-2 | Data Reporting                       | hybrid    | Information design and visualization best practices are introduced. Spreadsheet-based reporting and charting techniques are demonstrated and applied. | [MS Excel](https://products.office.com/en-us/excel), [Google Sheets](https://www.google.com/sheets/about/)
+09/28/2015 | 5-1 | Relational Databases                 | lecture   | Database concepts are introduced. Database management software (DBMS) is introduced. | n/a
+09/28/2015 | 5-2 | Basic Data Analysis                  | lab       | Basic SQL techniques (e.g. `SELECT`, `FROM`, `WHERE`, and `ORDER BY` clauses; string and date functions; `IF` and `CASE` statements) are introduced and applied. | [SQL](https://en.wikipedia.org/wiki/SQL) and Variants: [MS Access querying](https://products.office.com/en-us/access), [MySQL](https://www.mysql.com/), [PostgreSQL](http://www.postgresql.org/)
+10/5/2015 | 6-1 | Database Design                       | lecture   | Relational database design principles and best practices are shared. Database infrastructure and hosting options are contrasted.
+10/5/2015 | 6-2 | Advanced Data Analysis                | lab       | Advanced SQL techniques (e.g. `JOIN`, `GROUP BY`, `HAVING`, and `UNION` clauses) are introduced and applied. | [SQL](https://en.wikipedia.org/wiki/SQL) and Variants: [MS Access querying](https://products.office.com/en-us/access), [MySQL](https://www.mysql.com/), [PostgreSQL](http://www.postgresql.org/)
+10/12/2015 | 7-1 | Group Project Pitches                | n/a       | Group projects are introduced and pitched. | [MS PowerPoint](https://products.office.com/en-us/powerpoint), [Google Slides](https://www.google.com/slides/about/)
+10/12/2015 | 7-2 | Group Project Support                | support   | Group project feedback and support is provided. Time is allotted for in-class project planning and design revisions. | n/a
+10/19/2015 | 8-1 | Networking, Hardware, and the Internet | lecture | Networking, hardware, and Internet computing concepts are introduced. | [HTTP](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol)
+10/19/2015 | 8-2 | The Command Line                     | lab       | Command line computing is introduced and applied. Scripting languages are introduced and applied. | [Bash](http://www.gnu.org/software/bash/), [Cron](https://en.wikipedia.org/wiki/Cron), [cURL](http://curl.haxx.se/), [Secure Shell, SSH, and Public/Private Keys](https://en.wikipedia.org/wiki/Secure_Shell), [Ruby](https://www.ruby-lang.org/en/), [Python](https://www.python.org/), [R](https://www.r-project.org/)
+10/26/2015 | 9-1 | Websites                             | hybrid    | Web design principles and techniques are introduced and applied. | [HTML](https://en.wikipedia.org/wiki/HTML), [CSS](https://en.wikipedia.org/wiki/Cascading_Style_Sheets), [Twitter Bootstrap](http://getbootstrap.com/)
+10/26/2015 | 9-2 | Web Applications                     | hybrid    | Contemporary web application technologies and frameworks are surveyed and contrasted. | [JavaScript](https://www.javascript.com/), [jQuery](https://jquery.com/), [d3.js](http://d3js.org/), [Ruby on Rails](http://rubyonrails.org/), [Angular]()
+11/2/2015 | 10-1 | Systems Planning and Management      | lecture   | System procurement and planning decisions are discussed. System development methodologies are introduced and contrasted. The software development lifecycle is introduced. | [Trello](https://trello.com/), [Pivotal](http://www.pivotaltracker.com/)
+11/2/2015 | 10-2 | Software Version Control             | lab       | Software version control concepts and techniques are introduced and applied. | [Git](https://git-scm.com/) and providers: [GitHub](https://github.com/), [BitBucket](https://bitbucket.org/)
+11/9/2015 | 11-1 | MS Access Applications               | lab       | MS Access application functionality is introduced and applied. | [MS Access forms and reports](https://products.office.com/en-us/access)
+11/9/2015 | 11-2 | Group Project Support                | support   | Class time and instructor support is provided for group project work. | n/a
+11/16/2015 | 12-1 | Group Project Support               | support   | Class time and instructor support is provided for group project work. | n/a
+11/16/2015 | 12-2 | Group Project Support               | support   | Class time and instructor support is provided for group project work. | n/a
+11/23/2015 | 13-1 | Group Project Support               | support   | Class time and instructor support is provided for group project work. | n/a
+11/23/2015 | 13-2 | Group Project Support               | support   | Class time and instructor support is provided for group project work. | n/a
+11/30/2015 | 14-1 | Group Project Support               | support   | Class time and instructor support is provided for group project work. | n/a
+11/30/2015 | 14-2 | Group Project Support               | support   | Class time and instructor support is provided for group project work. | n/a
+12/7/2015 | 15-1 | Group Project Presentations          | n/a       | Project groups deliver final deliverables and presentations. | n/a
+12/7/2015 | 15-2 | Group Project Presentations          | n/a       | Project groups deliver final deliverables and presentations. | n/a

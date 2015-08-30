@@ -1,4 +1,4 @@
-# Data
+# Introduction to Relational Databases
 
 todo
 
