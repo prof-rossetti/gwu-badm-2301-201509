@@ -42,3 +42,9 @@ Tech Roles in Business:
  + Business Analyst
  + Quantitative Analyst
  + User Interface Researcher and Designer
+
+<hr>
+
+Additional Reference:
+
++ textbook chapters: 1,6
