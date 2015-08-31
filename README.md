@@ -17,7 +17,16 @@ University References:
 
 This course is described as:
 
-> An introduction to data and information processing concepts and systems viewed from a contemporary management perspective. Emphasis on uses and applications as well as emerging managerial issues with the potential to reshape the form and function of information systems.
+> An introduction to data and information processing concepts and systems
+ viewed from a contemporary management perspective.
+ Emphasis on uses and applications as well as
+ emerging managerial issues with the potential to reshape the form and function of information systems.
+
+Subject matter is traditionally organized into three general themes:
+
+ 1. Business Problems And Information System Solutions
+ * Information Technology Overview
+ * Information System Implementation Strategy
 
 ## Location
 
@@ -27,15 +36,27 @@ Duques Hall |  351 | 2201 G Street NW, Washington DC 20052
 
 ## Schedule
 
-The class meets on Monday mornings (9/31/15 through 12/9/15), from 11:10am to 1:40pm.
+The class meets on Monday mornings from 11:10am to 1:40pm.
+ Class time will include two sessions or roughly equal length (70 minutes)
+ separated by a short (10 minute) break.
+
+time range | usage
+--- | ---
+11:10am to 12:20pm | Session I
+12:20pm to 12:30pm | Break
+12:30pm to 1:40pm | Session II
 
 ### Calendar
 
-The course [Calendar](CALENDAR.md) reflects the most up-to-date scheduling information, including class times, instructor office hours, holidays, support sessions, and more.
+The class meets from 9/31/15 through 12/9/15.
+ The course [Calendar](CALENDAR.md) reflects the most up-to-date scheduling information,
+ including class times, instructor office hours, holidays, support sessions, and more.
 
 ### Roadmap
 
-The course [Roadmap](ROADMAP.md) contains a tentative week-by-week mapping of when each topic will be covered in class and when each assignment is due. It is likely to change to reflect revised assignment deadlines as well as changes in the pace of instruction.
+The course [Roadmap](ROADMAP.md) contains a tentative
+ week-by-week description of the topics and technologies covered in each class.
+ It is likely to change to reflect the pace of instruction.
 
 ## Learning Community
 
@@ -43,24 +64,25 @@ The Learning Community is comprised of a Professor, a Teaching Assistant, and ma
 
 ### Professor
 
-name | email | academic qualifications | professional experience
---- | --- | --- | ---
-Mike Rossetti | [rossetti@gwu.edu](mailto:rossetti@gwu.edu) | MS in Information Systems, GWU 2010 | https://www.linkedin.com/in/mikerossetti
+name | email | academic qualifications | professional experience | email preferences
+--- | --- | --- | --- | ---
+Mike Rossetti | [rossetti@gwu.edu](mailto:rossetti@gwu.edu) | MS in Information Systems, GWU 2010 | [LinkedIn Profile](https://www.linkedin.com/in/mikerossetti) | 48-72 hour response grace period
 
 > Please wait until end of semester to connect with the professor on LinkedIn, and include the course number (BADM 2301) in your invitation message.
 
 ### Teaching Assistant
 
-name | email | academic qualifications
---- | --- | ---
-Ademuyiwa Adesoye | [muadesoye@gwmail.gwu.edu](mailto:muadesoye@gwmail.gwu.edu) | MS in Information Systems, GWU 2016
+name | email | academic qualifications | email preferences
+--- | --- | --- | ---
+Ademuyiwa Adesoye | [muadesoye@gwmail.gwu.edu](mailto:muadesoye@gwmail.gwu.edu) | MS in Information Systems, GWU 2016 | 24 hour response grace period
 
 ### Students
 
-This course is required for all undergraduate students in the Business School. Currently,
-**X** students are registered for this offering. Most are Freshmen and Sophomores.
+This course is required for all undergraduate students in the Business School. Currently, **40** undergraduates are registered for this offering.
 
-> NOTE: As of 8/24, this course is full. There is a waitlist available for students who would like to register but are not currently registered.
+> As of 8/24, this course is full.
+ There is a waitlist available for students who
+ would like to register but are not currently registered.
 
 #### Prerequisites
 
@@ -68,36 +90,64 @@ Each student enrolled in this course should already have *basic knowledge of Mic
 
 ## Learning Objectives
 
-The Learning Community congregates and operates together with a shared purpose:
+The Learning Community operates for the following purposes:
 
  1. To acquire and expand subject matter knowledge.
  * To acquire and hone technology skills.
  * To improve communication and presentation skills.
- * To improve the ability to collaborate and work in teams.
- * To acquire and maintain a relevant understanding of industry practices and challenges.
+ * To improve the ability to work in teams.
+ * To acquire and maintain a relevant understanding of contemporary industry practices and challenges.
+ * To leverage technology as an outlet for creativity.
 
-> ... so all members of the learning community may succeed in their professional pursuits.
+Class assignments are designed to reflect and measure performance against
+ these stated learning objectives.
 
 ## Operations
 
-### Conduct
-
-To foster and promote a positive and successful learning environment, each member of the Learning Community agrees to abide by the [Code of Conduct](CONDUCT.md).
-
-### Communications
-
-To ensure Students receive sufficient instructional support and equal access to the time and attention of instructors, Students are suggested to understand and practice the [Communications Policy](COMMUNICATIONS.md).
-
 ### Teaching Methods
 
-todo: less theory, more practice, with  "emerging managerial issues" as a current theme.
+#### More Practice than Theory
+
+This course calls for a required lab component to ensure students acquire relevant technical skills.
+
+Emphasis will be placed on providing students with experiential and active learning opportunities.
+
+Accordingly, instruction will more often take the form of lab sessions and support sessions than lecture sessions.
 
 #### Accompanying Textbook
+
+The following text book has been assigned to accompany this course:
 
 title | author | edition | isbn | price range
 --- | --- | --- | --- | ---
 Intro to Information Systems | Rainer | 5th | 9781118674369 | $62.50 - $176.75
 
+Relevant material from the textbook will be covered during lectures.
+
+Students may optionally choose to purchase, borrow, or loan the book
+ for a more in-depth experience.
+
 ### Evaluation Methods
 
-todo: testing, grading
+There are no exams for this course.
+ Student learning will be evaluated through the submission of assignments.
+
+#### Assignments
+
+All [Assignments](ASSIGNMENTS.md) must be delivered
+ before the end of the last day of the semester (midnight concluding 12/9).
+
+Each assignment carries a suggested delivery date to help students manage their time.
+ In some cases, assignment delivery dates are not flexible.
+
+### Communication and Collaboration
+
+To ensure students receive sufficient instructional support
+ and equal access to the time and attention of instructors,
+ and to provide students with hands-on experience using [contemporary business collaboration tools](http://www.theatlantic.com/technology/archive/2015/07/the-secret-startup-saved-healthcare-gov-the-worst-website-in-america/397784/),
+ students must understand and practice the [Communications Policy](COMMUNICATIONS.md).
+
+### Conduct
+
+To foster and promote a positive and successful learning environment,
+ each member of the Learning Community agrees to abide by the [Code of Conduct](CONDUCT.md).
