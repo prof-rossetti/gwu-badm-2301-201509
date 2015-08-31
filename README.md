@@ -142,6 +142,9 @@ All [Assignments](ASSIGNMENTS.md) must be delivered
 Each assignment carries a suggested delivery date to help students manage their time.
  In some cases, assignment delivery dates are not flexible.
 
+Assignments submitted by the delivery date will receive instructor feedback
+ within a reasonable amount of time (roughly one or two weeks following the delivery date).
+
 ### Communication and Collaboration
 
 To ensure students receive sufficient instructional support
