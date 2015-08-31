@@ -1,3 +1,3 @@
 # Information Systems Planning and Management
 
-todo
+todo: build vs buy, development methodologies - waterfall vs agile, systems development lifecycle.

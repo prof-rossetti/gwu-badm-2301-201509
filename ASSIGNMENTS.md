@@ -25,7 +25,7 @@ assignment weight | assignment name | suggested delivery date | relevant learnin
 
 Three assignments comprise the lab portion of your final grade.
 
-### [Professional Documents and Diagrams](assignments/lab/systems-analysis.md)
+### [Professional Documents and Diagrams](assignments/lab/docs.md)
 
 ### [Data Processing](assignments/lab/data-processing.md)
 
@@ -38,8 +38,8 @@ Three assignments comprise the group project portion of your final grade.
 Students will work in small teams to propose an idea for a new Information System,
  design it, and implement and demonstrate a working system prototype.
 
-### [Mid-term Pitch](assignments/lab/group-project/midterm-pitch.md)
+### [Mid-term Pitch](assignments/group-project/midterm-pitch.md)
 
-### [Final Deliverable](assignments/lab/group-project/final-deliverable.md)
+### [Final Deliverable](assignments/group-project/final-deliverable.md)
 
-### [Final Presentation](assignments/lab/group-project/final-presentation.md)
+### [Final Presentation](assignments/group-project/final-presentation.md)

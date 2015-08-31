@@ -20,10 +20,9 @@ Write a short (1-2 page) summary of your experiences, to address the following q
 
  + Which events did you attend, which groups hosted them, and what happend at each?
  + What, if anything did you learn about contemporary industry challenges and practices?
- + For each meetup group, have you returned to attend subsequent events, and
-  would you recommend to a friend?
+ + For each meetup group... Have you returned to attend subsequent events hosted by this group? Would you recommend the group to a friend? Why or why not?
 
-You may attach or embed photos to your writeup to provide further evidence of attendance.
+You may attach or embed photos to your writeup to provide further evidence of event attendance.
 
 ## Submission Instructions
 
@@ -34,7 +33,9 @@ Submit your writeup via blackboard.
 Full credit for submitting a thoughtful response that demonstrates
  evidence of event attendance and
  insights into contemporary business and technology issues and practices.
+
 Half credit for submitting a response.
+
 Else no credit.
 
 <hr>
@@ -43,7 +44,6 @@ Else no credit.
 
 If the idea of attending business and technology community events frightens you
  or makes you uncomfortable,
- you have another option to fulfill the requirements of this assignment.
+ you have another option.
 
-In order to obtain insight into contemporary industry practices and issues,
- find three news articles from credible news outlets.
+You may propose a custom assignment that demonstrates the same learning objectives as the meetup assignment. The custom assignment may or mat not necessarily involve analyzing news articles.

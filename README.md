@@ -22,7 +22,7 @@ This course is described as:
  Emphasis on uses and applications as well as
  emerging managerial issues with the potential to reshape the form and function of information systems.
 
-The course is traditionally comprised of three general themes:
+Subject matter is traditionally organized into three general themes:
 
  1. Business Problems And Information System Solutions
  * Information Technology Overview
@@ -64,17 +64,17 @@ The Learning Community is comprised of a Professor, a Teaching Assistant, and ma
 
 ### Professor
 
-name | email | academic qualifications | professional experience | email grace period preference
+name | email | academic qualifications | professional experience | email preferences
 --- | --- | --- | --- | ---
-Mike Rossetti | [rossetti@gwu.edu](mailto:rossetti@gwu.edu) | MS in Information Systems, GWU 2010 | https://www.linkedin.com/in/mikerossetti | 48-72 hours
+Mike Rossetti | [rossetti@gwu.edu](mailto:rossetti@gwu.edu) | MS in Information Systems, GWU 2010 | [LinkedIn Profile](https://www.linkedin.com/in/mikerossetti) | 48-72 hour response grace period
 
 > Please wait until end of semester to connect with the professor on LinkedIn, and include the course number (BADM 2301) in your invitation message.
 
 ### Teaching Assistant
 
-name | email | academic qualifications | communication preferences
+name | email | academic qualifications | email preferences
 --- | --- | --- | ---
-Ademuyiwa Adesoye | [muadesoye@gwmail.gwu.edu](mailto:muadesoye@gwmail.gwu.edu) | MS in Information Systems, GWU 2016 | 24 hours
+Ademuyiwa Adesoye | [muadesoye@gwmail.gwu.edu](mailto:muadesoye@gwmail.gwu.edu) | MS in Information Systems, GWU 2016 | 24 hour response grace period
 
 ### Students
 
@@ -90,7 +90,7 @@ Each student enrolled in this course should already have *basic knowledge of Mic
 
 ## Learning Objectives
 
-The Learning Community congregates and collaborates with a set of shared purposes:
+The Learning Community operates for the following purposes:
 
  1. To acquire and expand subject matter knowledge.
  * To acquire and hone technology skills.
@@ -98,8 +98,6 @@ The Learning Community congregates and collaborates with a set of shared purpose
  * To improve the ability to work in teams.
  * To acquire and maintain a relevant understanding of contemporary industry practices and challenges.
  * To leverage technology as an outlet for creativity.
-
-> ... so all members of the learning community may succeed in their professional pursuits.
 
 Class assignments are designed to reflect and measure performance against
  these stated learning objectives.
