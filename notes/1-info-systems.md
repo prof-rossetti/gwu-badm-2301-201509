@@ -46,8 +46,7 @@ system type | general functions | example(s)
 --- | --- | ---
 Operational (e.g. Transaction Processing, Office Support) | send and receive data | online food ordering, payroll processing
 Managerial (e.g. Business Intelligence, Decision Support) | process and synthesize data into information | business performance tracking dashboards
-Executive | (e.g. Decision Support, Expert) | process and synthesize data and information into knowledge; emulate human decision-making processes | language processing and translation, predictive modeling
-
+Executive (e.g. Decision Support, Expert) | process and synthesize data and information into knowledge; emulate human decision-making processes | language processing and translation, predictive modeling
 
 ## Advantages
 

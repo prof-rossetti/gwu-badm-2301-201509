@@ -46,4 +46,4 @@ If the idea of attending business and technology community events frightens you
  or makes you uncomfortable,
  you have another option.
 
-You may propose a custom assignment that demonstrates the same learning objectives as the meetup assignment. The custom assignment may or mat not necessarily involve analyzing news articles.
+You may propose a custom assignment that demonstrates the same learning objectives as the meetup assignment. For example, a custom assignment may involve analyzing five news articles.

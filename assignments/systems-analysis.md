@@ -20,12 +20,11 @@ Upload to blackboard.
 
 ## Evaluation Methodology
 
-Max points for on-time attempts is 100. Max points decreases for late attempts by 10 points per day.
-
 points | criteria
 --- | ---
 100 | thoughtful, thorough, and careful identification and analysis
 87 | sufficient identification and analysis
 75 | attempted identification and analysis
+0 | not attempted
 
 Kudos to the lowest-tech systems.

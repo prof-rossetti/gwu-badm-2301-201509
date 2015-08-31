@@ -10,18 +10,29 @@ Reference:
 
  + [how to emoji](https://slack.zendesk.com/hc/en-us/articles/202931348-Emoji-and-emoticons)
 
-## Documents
+## Instructional Materials
 
-All class documents and instructions are available online in a public
+All class documents and instructional materials are available online in a public
 [GitHub](https://github.com/) repository.
 
 > bookmark this: https://github.com/gwu-business/badm-2301
+
+At any given time, documents in the repository may be
+at different stages of ideation and completion.
+The word `todo` signifies intention of updating a document.
+
+If you see a typo, or would like to contribute to the materials, feel free to edit any of the documents
+(requires a GitHub account; ask an instructor how to "commit").
+
+For convenience, some instructional materials, like the Syllabus,
+ will be posted to Blackboard as well.
+ These documents will be versioned, and may be out-of-date at some times.
 
 ## Email
 
 All members of the Learning Community have **GWU-issued email addresses**, which may be used for email communications. If emailing an instructor, include `BADM-2301` in the subject.
 
-## Blackboard
+## Assignment Submission
 
 Most assignments will be submitted through [Blackboard](http://www.blackboard.com/), mostly for privacy reasons.
 

@@ -1,10 +1,12 @@
 # Introduction to this Course
 
-todo: personal intoductions,
- its a good time to be in tech,
- its a good time to be a GW business student,
- where this course fits in relation to others offered,
- objectives and policies, etc
+Personal Introductions
+
+Objectives and Policies
+
+"Its a good time to be in tech"
+
+"Its a good time to be a GW business student"
 
 The Intersection of Technology and Business
 

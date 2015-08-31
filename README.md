@@ -64,21 +64,22 @@ The Learning Community is comprised of a Professor, a Teaching Assistant, and ma
 
 ### Professor
 
-name | email | academic qualifications | professional experience | email preferences
+name | nickname | email | academic qualifications | professional experience | email preferences
 --- | --- | --- | --- | ---
-Mike Rossetti | [rossetti@gwu.edu](mailto:rossetti@gwu.edu) | MS in Information Systems, GWU 2010 | [LinkedIn Profile](https://www.linkedin.com/in/mikerossetti) | 48-72 hour response grace period
+Michael Rossetti | Mike | [rossetti@gwu.edu](mailto:rossetti@gwu.edu) | MS in Information Systems, GWU 2010 | [LinkedIn Profile](https://www.linkedin.com/in/mikerossetti) | 48-72 hour response grace period
 
 > Please wait until end of semester to connect with the professor on LinkedIn, and include the course number (BADM 2301) in your invitation message.
 
 ### Teaching Assistant
 
-name | email | academic qualifications | email preferences
+name | nickname | email | academic qualifications | email preferences
 --- | --- | --- | ---
-Ademuyiwa Adesoye | [muadesoye@gwmail.gwu.edu](mailto:muadesoye@gwmail.gwu.edu) | MS in Information Systems, GWU 2016 | 24 hour response grace period
+Ademuyiwa Adesoye | Ade | [muadesoye@gwmail.gwu.edu](mailto:muadesoye@gwmail.gwu.edu) | MS in Information Systems, GWU 2016 | 24 hour response grace period
 
 ### Students
 
-This course is required for all undergraduate students in the Business School. Currently, **40** undergraduates are registered for this offering.
+This course is required for all undergraduate students in the Business School.
+ Currently, **40** undergraduates are registered for this offering.
 
 > As of 8/24, this course is full.
  There is a waitlist available for students who
@@ -151,4 +152,4 @@ To ensure students receive sufficient instructional support
 ### Conduct
 
 To foster and promote a positive and successful learning environment,
- each member of the Learning Community agrees to abide by the [Code of Conduct](CONDUCT.md).
+ each member of the Learning Community agrees to abide by University [Codes of Conduct](CONDUCT.md).
