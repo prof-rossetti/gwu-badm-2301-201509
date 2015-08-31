@@ -2,20 +2,18 @@
 
 assignment weight | assignment name | suggested delivery date | relevant learning objectives
 --- | --- | --- | ---
- 5% | Student Questionnaire                           | 8/31 (not flexible) | _________
-10% | Tech Community Meetup Attendance and Analysis   | 9/1 through 11/23 (some meetups are held on a monthly frequency, so don't wait until the end of the semester)           | contemporary
-15% | Information System Analysis Paper               | 9/14                | _________
- 5% | Professional Documents and Diagrams             | TBD                 | _________
-10% | Data Organization, Management, and Reporting    | TBD                 | _________
-10% | Data Analysis and Information Synthesis         | TBD                 | _________
- 5% | Group Project Midterm Pitch                     | 10/12 (not flexible) | _________
-15% | Personal Website                                | 11/23               | _________
-15% | Group Project Deliverable                       | 12/7                | _________
-10% | Group Project Final Presentation                | 12/7 (not flexible) | _________
+ 5% | Student Questionnaire                           | 8/31 (not flexible) | n/a (for instruction purposes)
+10% | Tech Community Meetup Attendance and Analysis   | 9/1 through 11/23 (some meetups are held on a monthly frequency, so don't wait until the end of the semester)           | contemporary industry issues and practices; working in teams
+15% | Information System Analysis Paper               | 9/14                | subject matter knowledge
+ 5% | Professional Documents and Diagrams             | TBD                 | technology skills
+10% | Data Organization, Management, and Reporting    | TBD                 | technology skills
+10% | Data Analysis and Information Synthesis         | TBD                 | technology skills, subject matter
+ 5% | Group Project Midterm Pitch                     | 10/12 (not flexible) | presentation and communication skills, subject matter
+15% | Personal Website                                | 11/23               | technology skills
+15% | Group Project Deliverable                       | 12/7                | subject matter
+10% | Group Project Final Presentation                | 12/7 (not flexible) | presentation and communication skills; technology skills
 
-## Questionnaire
-
-todo
+## [Questionnaire](assignments/questionnaire.md)
 
 ## Meetups Writeup
 
