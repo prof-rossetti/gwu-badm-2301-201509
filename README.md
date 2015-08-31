@@ -95,6 +95,7 @@ The Learning Community operates for the following purposes:
  1. To acquire and expand subject matter knowledge.
  * To acquire and hone technology skills.
  * To improve communication and presentation skills.
+ * To improve writing skills.
  * To improve the ability to work in teams.
  * To acquire and maintain a relevant understanding of contemporary industry practices and challenges.
  * To leverage technology as an outlet for creativity.
@@ -145,7 +146,7 @@ Each assignment carries a suggested delivery date to help students manage their 
 To ensure students receive sufficient instructional support
  and equal access to the time and attention of instructors,
  and to provide students with hands-on experience using [contemporary business collaboration tools](http://www.theatlantic.com/technology/archive/2015/07/the-secret-startup-saved-healthcare-gov-the-worst-website-in-america/397784/),
- students must understand and practice the [Communications Policy](COMMUNICATIONS.md).
+ members of the Learning Community will communicate and collaborate according to a specified set of [tools and guidelines](COMMUNICATIONS.md).
 
 ### Conduct
 
