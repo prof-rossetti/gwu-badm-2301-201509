@@ -1,6 +1,6 @@
-# Project
+# Data Analysis
 
-todo
+todo: Access / SQL skills assignment
 
 ## Submission Instructions
 

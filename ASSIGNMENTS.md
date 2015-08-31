@@ -7,53 +7,39 @@ assignment weight | assignment name | suggested delivery date | relevant learnin
 15% | Information System Analysis Paper               | 9/14                | subject matter knowledge
  5% | Professional Documents and Diagrams             | TBD                 | technology skills
 10% | Data Organization, Management, and Reporting    | TBD                 | technology skills
-10% | Data Analysis and Information Synthesis         | TBD                 | technology skills, subject matter
- 5% | Group Project Midterm Pitch                     | 10/12 (not flexible) | presentation and communication skills, subject matter
-15% | Personal Website                                | 11/23               | technology skills
-15% | Group Project Deliverable                       | 12/7                | subject matter
-10% | Group Project Final Presentation                | 12/7 (not flexible) | presentation and communication skills; technology skills
+10% | Data Analysis and Information Synthesis         | TBD                 | technology skills, subject matter knowledge, writing skills
+ 5% | Group Project Midterm Pitch                     | 10/12 (not flexible) | presentation and communication skills, subject matter knowledge, creativity
+15% | Personal Website                                | 11/23               | technology skills, subject matter knowledge, creativity
+15% | Group Project Deliverable                       | 12/7                | subject matter knowledge, writing skills, creativity
+10% | Group Project Final Presentation                | 12/7 (not flexible) | presentation and communication skills; technology skills, creativity
 
 ## [Questionnaire](assignments/questionnaire.md)
 
-## Meetups Writeup
+## [Meetups Writeup](assignments/meetups.md)
 
-todo
+## [Systems Analysis Paper](assignments/systems-analysis.md)
 
-## IS Analysis Paper
-
-todo: identify some info systems and
+## [Personal Website](assignments/personal-website.md)
 
 ## Lab Assignments
 
-### Documents and Diagrams
+Three assignments comprise the lab portion of your final grade.
 
-todo: Word, Visio skills assignment
+### [Professional Documents and Diagrams](assignments/lab/systems-analysis.md)
 
-### Data Processing
+### [Data Processing](assignments/lab/data-processing.md)
 
-todo: MS Excel skills assignment
+### [Data Analysis](assignments/lab/data-analysis.md)
 
-### Data Analysis
+## Group Project Assignments
 
-todo: Access skills assignment
+Three assignments comprise the group project portion of your final grade.
 
-## Personal Website
+Students will work in small teams to propose an idea for a new Information System,
+ design it, and implement and demonstrate a working system prototype.
 
-todo: design a website using one or more of the technologies surveyed in class.
- provide a short writeup stating the site's intended purpose and your reflections on the implementation process. is your site an information system? why or why not?
+### [Mid-term Pitch](assignments/lab/group-project/midterm-pitch.md)
 
-## Group Projects
+### [Final Deliverable](assignments/lab/group-project/final-deliverable.md)
 
-todo: design an information system, and develop a working prototype
-
-### Mid-term Pitch
-
-todo: introduce your idea and initial design plans. describe the purpose, info inputs, info outputs, and design plans.
-
-### Final Deliverable
-
-todo: revise and implement your initial idea.
-
-### Final Demonstration
-
-todo: demonstrate your working system prototype in front of the class and guest judges.
+### [Final Presentation](assignments/lab/group-project/final-presentation.md)

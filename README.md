@@ -97,6 +97,7 @@ The Learning Community congregates and collaborates with a set of shared purpose
  * To improve communication and presentation skills.
  * To improve the ability to work in teams.
  * To acquire and maintain a relevant understanding of contemporary industry practices and challenges.
+ * To leverage technology as an outlet for creativity.
 
 > ... so all members of the learning community may succeed in their professional pursuits.
 
