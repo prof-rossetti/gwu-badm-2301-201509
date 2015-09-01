@@ -52,4 +52,4 @@ Tech Roles in Business:
 
 Additional Reference:
 
-+ textbook chapters: 1,6
++ [textbook](README.md#accompanying-textbook) chapters: 1,6

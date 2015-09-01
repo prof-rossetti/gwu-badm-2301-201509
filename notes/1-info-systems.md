@@ -82,6 +82,6 @@ Development Methodologies:
 
 Additional Reference:
 
- + textbook chapters: 1,2
+ + [textbook](README.md#accompanying-textbook) chapters: 1,2
  + http://www.chris-kimble.com/Courses/World_Med_MBA/Types-of-Information-System.html
  + http://fortune.com/2015/06/12/business-use-ai/

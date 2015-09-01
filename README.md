@@ -72,7 +72,7 @@ Michael Rossetti | Mike | [rossetti@gwu.edu](mailto:rossetti@gwu.edu) | MS in In
 ### Teaching Assistant
 
 name | nickname | email | academic qualifications | email preferences
---- | --- | --- | ---
+--- | --- | --- | --- | ---
 Ademuyiwa Adesoye | Ade | [muadesoye@gwmail.gwu.edu](mailto:muadesoye@gwmail.gwu.edu) | MS in Information Systems, GWU 2016 | 24 hour response grace period
 
 ### Students

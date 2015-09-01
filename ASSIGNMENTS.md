@@ -1,23 +1,29 @@
 # Assignments
 
-[Questionnaire](assignments/questionnaire.md) (5%)
+name | weight | comments
+--- | --- | ---
+[Questionnaire](assignments/questionnaire.md) | 5% |
+[Meetups](assignments/meetups.md) | 10% |
+[Systems Analysis](assignments/systems-analysis.md) | 15% |
+Lab Assignments | 30% | see below for break-down
+Group Project Assignments | 40% | see below for break-down
 
-[Meetups](assignments/meetups.md) (10%)
+## Lab Assignments
 
-[Systems Analysis](assignments/systems-analysis.md) (15%)
+name | weight | comments
+--- | --- | ---
+[Documents](assignments/lab/docs.md) | (30% * 10%) | in-class
+[Diagrams](assignments/lab/diagrams.md) | (30% * 10%) | in-class
+[Data Processing (Spreadsheets)](assignments/lab/data-processing.md) | (30% * 20%) | take-home
+[Data Analysis (SQL)](assignments/lab/data-analysis.md) | (30% * 20%) | in-class
+[MS Access](assignments/lab/ms-access.md) | (30% * 10%) | take-home
+[Tableau](assignments/lab/tableau.md) | (30% * 10%) | take-home
+[Personal Website](assignments/lab/personal-website.md) | (30% * 20%) | take-home
 
-Lab Assignments (30%)
+## Group Project Assignments
 
- + [Documents](assignments/lab/docs.md) (30% * 10%)
- + [Diagrams](assignments/lab/diagrams.md) (30% * 10%)
- + [Data Processing (Spreadsheets)](assignments/lab/data-processing.md) (30% * 20%)
- + [Data Analysis (SQL)](assignments/lab/data-analysis.md) (30% * 20%)
- + [MS Access](assignments/lab/ms-access.md) (30% * 10%)
- + [Tableau](assignments/lab/tableau.md) (30% * 10%)
- + [Personal Website](assignments/lab/personal-website.md) (30% * 20%)
-
-Group Project Assignments (40%)
-
- + [Mid-term Pitch](assignments/group-project/midterm-pitch.md)
- + [Final Deliverable](assignments/group-project/final-deliverable.md)
- + [Final Presentation](assignments/group-project/final-presentation.md)
+name | weight | comments
+--- | --- | ---
+[Mid-term Pitch](assignments/group-project/midterm-pitch.md) | (40% * 20%) |
+[Final Deliverable](assignments/group-project/final-deliverable.md) | (40% * 50%) |
+[Final Presentation](assignments/group-project/final-presentation.md) | (40% * 30%) |
