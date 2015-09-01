@@ -18,7 +18,7 @@ Finally, contrast the three different systems in terms of their inputs, outputs,
 
 ## Submission Instructions
 
-Upload to blackboard.
+[Upload to Blackboard](https://blackboard.gwu.edu/webapps/assignment/uploadAssignment?content_id=_6831068_1&course_id=_260292_1&assign_group_id=&mode=cpview).
 
 ## Evaluation Methodology
 
