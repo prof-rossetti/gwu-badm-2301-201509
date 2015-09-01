@@ -1,6 +1,8 @@
-# Data Processing
+# Data Analysis Lab Assignment
 
-todo: MS Excel skills assignment
+## Description
+
+todo
 
 ## Submission Instructions
 

@@ -14,7 +14,7 @@ The university policy regarding religious holidays is that it is the student’s
 
 ## Disabilities
 
-Any student who needs an accommodation based on the impact of a disability should contact the Office of Disability Support Services (Marvin Center 242) at 202-994-8250.  The DSS will contact the professor. You must inform both your BADM64 lab and lecture professor about any accommodations that DSS recommends.
+Any student who needs an accommodation based on the impact of a disability should contact the Office of Disability Support Services (Marvin Center 242) at 202-994-8250.  The DSS will contact the professor. You must inform both your BADM 2301 lab and lecture professor about any accommodations that DSS recommends.
 
 ## Sexual Harassment
 

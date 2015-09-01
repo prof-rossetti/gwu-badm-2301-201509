@@ -10,9 +10,11 @@ Identify and analyze a few processes employed by each system. Which processes wo
 
 Describe the user interface of each system. How do humans interact with the system?
 
-If possible, infer as to the data storage  mechanisms for each system. Does the system discard its data or does it retain it?
+If possible, describe the data storage mechanisms for each system. Does the system discard its data or does it retain it?
 
-Finally, contrast the three different systems in terms of their inputs, outputs, processes, user interfaces, and datastores. How are the systems alike? How do they differ?
+If possible and applicable, describe the hardware and software that power each system.
+
+Finally, contrast the three different systems in terms of their inputs, outputs, processes, user interfaces, datastores, hardware, and software. How are the systems alike? How do they differ?
 
 ## Submission Instructions
 
@@ -27,4 +29,4 @@ points | criteria
 75 | attempted identification and analysis
 0 | not attempted
 
-Kudos to the lowest-tech systems.
+Kudos for identifying the lowest-tech and most-unique systems.

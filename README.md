@@ -46,17 +46,16 @@ time range | usage
 12:20pm to 12:30pm | Break
 12:30pm to 1:40pm | Session II
 
+The class [Schedule](SCHEDULE.md) contains a tentative
+ week-by-week description of the topics and technologies covered in each class,
+ as well as assignments given and due.
+ It may change to reflect the pace of instruction.
+
 ### Calendar
 
 The class meets from 9/31/15 through 12/9/15.
  The course [Calendar](CALENDAR.md) reflects the most up-to-date scheduling information,
  including class times, instructor office hours, holidays, support sessions, and more.
-
-### Roadmap
-
-The course [Roadmap](ROADMAP.md) contains a tentative
- week-by-week description of the topics and technologies covered in each class.
- It is likely to change to reflect the pace of instruction.
 
 ## Learning Community
 

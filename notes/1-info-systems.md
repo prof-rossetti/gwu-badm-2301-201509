@@ -59,6 +59,25 @@ Businesses use Information Systems to create and maintain a **competitive advant
  + accuracy
  + scale
 
+## Planning and Management
+
+Build vs Buy
+
+Development Methodologies:
+
+ + Waterfall/Traditional
+ + Agile
+
+### Systems Development Lifecycle:
+
+ 1. Requirements Gathering and Investigation
+ * Analysis
+ * Planning
+ * Design
+ * Programming and Testing
+ * Implementation
+ * Operation and Maintenance
+
 <hr>
 
 Additional Reference:

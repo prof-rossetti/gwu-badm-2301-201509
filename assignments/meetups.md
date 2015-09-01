@@ -31,7 +31,10 @@ Submit your writeup via blackboard.
 ## Evaluation Methodology
 
 Full credit for submitting a thoughtful response that demonstrates
- evidence of event attendance and
+ evidence of event attendance AND
+ insights into contemporary business and technology issues and practices.
+
+3/4 credit for submitting a response that demonstrates evidence of event attendance OR
  insights into contemporary business and technology issues and practices.
 
 Half credit for submitting a response.

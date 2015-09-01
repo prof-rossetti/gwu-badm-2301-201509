@@ -1,6 +1,8 @@
 # Final Presentation
 
-todo: demonstrate your working system prototype in front of the class and guest judges.
+## Description
+
+todo
 
 ## Submission Instructions
 
