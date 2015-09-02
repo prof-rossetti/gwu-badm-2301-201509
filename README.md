@@ -53,7 +53,7 @@ The class [Schedule](SCHEDULE.md) contains a tentative
 
 ### Calendar
 
-The class meets from 9/31/15 through 12/9/15.
+The class meets from 8/31/15 through 12/9/15.
  The course [Calendar](CALENDAR.md) reflects the most up-to-date scheduling information,
  including class times, instructor office hours, holidays, support sessions, and more.
 
