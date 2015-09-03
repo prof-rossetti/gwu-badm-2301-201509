@@ -18,7 +18,7 @@ Use caution when choosing a meetup to attend. If you're stuck or not sure where 
 
 Write a short (1-2 page) summary of your experiences, to address the following questions:
 
- + Which events did you attend, which groups hosted them, and what happend at each?
+ + Which events did you attend, which groups hosted them, and what happened at each?
  + What, if anything did you learn about contemporary industry challenges and practices?
  + For each meetup group... Have you returned to attend subsequent events hosted by this group? Would you recommend the group to a friend? Why or why not?
 

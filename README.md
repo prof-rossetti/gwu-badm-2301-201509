@@ -92,13 +92,14 @@ Each student enrolled in this course should already have *basic knowledge of Mic
 
 The Learning Community operates for the following purposes:
 
- 1. To acquire and expand subject matter knowledge.
- * To acquire and hone technology skills.
- * To improve communication and presentation skills.
- * To improve writing skills.
- * To improve the ability to work in teams.
- * To acquire and maintain a relevant understanding of contemporary industry practices and challenges.
- * To leverage technology as an outlet for creativity.
+ 1. To acquire and expand subject matter knowledge
+ * To acquire and hone technology skills
+ * To improve communication and presentation skills
+ * To improve writing skills
+ * To improve technology skills
+ * To improve the ability to work in teams
+ * To acquire and maintain a relevant understanding of contemporary industry practices and challenges
+ * To leverage technology as an outlet for creativity
 
 Class assignments are designed to reflect and measure performance against
  these stated learning objectives.

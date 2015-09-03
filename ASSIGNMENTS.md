@@ -27,3 +27,5 @@ name | weight | comments
 [Mid-term Pitch](assignments/group-project/1-midterm-pitch.md) | (40% * 20%) |
 [Final Deliverable](assignments/group-project/2-final-deliverable.md) | (40% * 50%) |
 [Final Presentation](assignments/group-project/3-final-presentation.md) | (40% * 30%) |
+
+> NOTE: The project will be assigned no later than October 4th, earlier if possible.
