@@ -3,7 +3,7 @@
 This repository contains resources for instructing a university-level course on [Management Information Systems](https://en.wikipedia.org/wiki/Management_information_system).
 
 university | school | department | semester | course | section | credits
---- | --- | --- | --- | --- | ---
+--- | --- | --- | --- | --- | --- | ---
 The George Washington University (GWU) | School of Business | Business Administration (BADM) | Fall 2015 (201503)| Management Information Systems Technology (2301) | Monday Mornings (11) | 3
 
 University References:
