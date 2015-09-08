@@ -8,7 +8,7 @@ The George Washington University (GWU) | School of Business | Business Administr
 
 University References:
 
- + [Course Description ](http://my.gwu.edu/mod/pws/courses.cfm?campId=1&termId=201503&subjId=BADM)
+ + [Course Description](http://bulletin.gwu.edu/search/?P=BADM+2301)
  + [Course Schedule](http://my.gwu.edu/mod/pws/courses.cfm?campId=1&termId=201503&subjId=BADM)
  + [Required Materials](http://www.bkstr.com/webapp/wcs/stores/servlet/booklookServlet?bookstore_id-1=122&term_id-1=201503&div-1=&dept-1=BADM&course-1=2301&section-1=11)
  + [Tentative Final Exam Schedule](https://registrar.gwu.edu/sites/registrar.gwu.edu/files/downloads/Fall2015TentativeExams.pdf)
@@ -24,7 +24,7 @@ This course is described as:
 
 Subject matter is traditionally organized into three general themes:
 
- 1. Business Problems And Information System Solutions
+ 1. Business Problems and Information System Solutions
  * Information Technology Overview
  * Information System Implementation Strategy
 
@@ -93,13 +93,13 @@ Each student enrolled in this course should already have *basic knowledge of Mic
 The Learning Community operates for the following purposes:
 
  1. To acquire and expand subject matter knowledge
- * To acquire and hone technology skills
- * To improve communication and presentation skills
- * To improve writing skills
  * To improve technology skills
- * To improve the ability to work in teams
  * To acquire and maintain a relevant understanding of contemporary industry practices and challenges
  * To leverage technology as an outlet for creativity
+ * To improve communication and presentation skills
+ * To improve writing skills
+ * To improve the ability to work in teams
+
 
 Class assignments are designed to reflect and measure performance against
  these stated learning objectives.

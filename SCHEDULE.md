@@ -8,14 +8,11 @@ duration (mins) | usage
 10 | Break
 70 | Information Systems Lecture
 
-Assignment(s) Due:
+Assignment(s):
 
- + [Questionnaire](assignments/questionnaire.md)
-
-Assignment(s) Given:
-
- + [IS Analysis Paper](assignments/systems-analysis.md)
- + [Meetups Writeup](assignments/meetups.md)
+ + [Questionnaire](assignments/questionnaire.md) (Given and Due)
+ + [IS Analysis Paper](assignments/systems-analysis.md) (Given)
+ + [Meetups Writeup](assignments/meetups.md) (Given)
 
 ## Week 2 - 9/7/15
 
@@ -25,33 +22,30 @@ Labor Day - No Class
 
 duration (mins) | usage
 --- | ---
-30 | assignment review
-40 | Documents Lab (Part I)
+70 | Documents Lab (Part I)
 10 | Break
 70 | Documents Lab (Part II), including in-class assignment
 
-Assignment(s) Due:
+Assignment(s):
 
- + [IS Analysis Paper](assignments/systems-analysis.md)
- + [Documents Lab Assignment](assignments/lab/1-docs.md)
-
-Assignment(s) Given:
- + [Group Project Mid-term Pitch](assignments/group-project/1-midterm-pitch.md)
- + [Group Project Final Deliverable](assignments/group-project/2-final-deliverable.md)
- + [Group Project Final Presentation](assignments/group-project/3-final-presentation.md)
+ + [IS Analysis Paper](assignments/systems-analysis.md) (Due)
+ + [Documents Lab Assignment](assignments/lab/1-docs.md) (Given and Due)
+ + [Group Project Mid-term Pitch](assignments/group-project/1-midterm-pitch.md) (Given)
+ + [Group Project Final Deliverable](assignments/group-project/2-final-deliverable.md) (Given)
+ + [Group Project Final Presentation](assignments/group-project/3-final-presentation.md) (Given)
 
 ## Week 4 - 9/21/15
 
 duration (mins) | usage
 --- | ---
-20 | intro/relevance
+20 | Identifying Business Processes Lecture
 50 | Diagrams Lab (Part I)
 10 | Break
 70 | Diagrams Lab (Part II), including in-class assignment
 
-Assignment(s) Due:
+Assignment(s):
 
- + [Diagrams Lab Assignment](assignments/lab/2-diagrams.md)
+ + [Diagrams Lab Assignment](assignments/lab/2-diagrams.md) (Given and Due)
 
 ## Week 5 - 9/28/15
 
@@ -61,9 +55,9 @@ duration (mins) | usage
 10 | Break
 70 | Spreadsheets Lab (Part II)
 
-Assignment(s) Given:
+Assignment(s):
 
- + [Data Processing (Spreadsheets) Lab Assignment](assignments/lab/3-data-processing.md)
+ + [Data Processing (Spreadsheets) Lab Assignment](assignments/lab/3-data-processing.md) (Given)
 
 ## Week 6 - 10/5/15
 
@@ -73,10 +67,10 @@ duration (mins) | usage
 10 | Break
 70 | Support for Group Projects and Spreadsheets
 
-Assignment(s) Due:
+Assignment(s):
 
- + [Group Project Pitches](assignments/group-project/1-midterm-pitch.md)
- + [Spreadsheets Lab Assignment](assignments/lab/3-data-processing.md)
+ + [Group Project Pitches](assignments/group-project/1-midterm-pitch.md) (Due)
+ + [Spreadsheets Lab Assignment](assignments/lab/3-data-processing.md) (Due)
 
 ## Week 7 - 10/12/15
 
@@ -86,9 +80,9 @@ duration (mins) | usage
 10 | Break
 70 | Databases Lab (Part I), including in-class assignment
 
-Assignment(s) Due:
+Assignment(s):
 
- + [Data Analysis (SQL) Lab Assignment](assignments/lab/4-data-analysis.md)
+ + [Data Analysis (SQL) Lab Assignment](assignments/lab/4-data-analysis.md) (Given and Due)
 
 ## Week 8 - 10/19/15
 
@@ -98,9 +92,9 @@ duration (mins) | usage
 10 | Break
 70 | SQL and MS Access Application Functionality Support
 
-Assignment(s) Given:
+Assignment(s):
 
- + [MS Access Application Functionality Lab Assignment](assignments/lab/5-ms-access.md)
+ + [MS Access Application Functionality Lab Assignment](assignments/lab/5-ms-access.md) (Given)
 
 ## Week 9 - 10/26/15
 
@@ -110,13 +104,10 @@ duration (mins) | usage
 10 | Break
 70 | SQL and Tableau Support
 
-Assignment(s) Due:
+Assignment(s):
 
- + [MS Access Application Functionality Lab Assignment](assignments/lab/5-ms-access.md)
-
-Assignment(s) Given:
-
- + [Tableau Lab Assignment](assignments/lab/6-tableau.md)
+ + [MS Access Application Functionality Lab Assignment](assignments/lab/5-ms-access.md) (Due)
+ + [Tableau Lab Assignment](assignments/lab/6-tableau.md) (Given)
 
 ## Week 10 - 11/2/15
 
@@ -127,13 +118,10 @@ duration (mins) | usage
 10 | Break
 70 | CSS and JavaScript Lab
 
-Assignment(s) Due:
+Assignment(s):
 
- + [Tableau Lab Assignment](assignments/lab/6-tableau.md)
-
-Assignment(s) Given:
-
- + [Personal Website](assignments/lab/7-personal-website.md)
+ + [Tableau Lab Assignment](assignments/lab/6-tableau.md) (Due)
+ + [Personal Website](assignments/lab/7-personal-website.md) (Given)
 
 ## Week 11 - 11/9/15
 
@@ -141,7 +129,7 @@ duration (mins) | usage
 --- | ---
 70 | Hosting, Networks, and Hardware Lecture
 10 | Break
-70 | AWS Lab
+70 | Hosting, Networks, and Hardware Lab
 
 ## Week 12 - 11/16/15
 
@@ -173,10 +161,10 @@ duration (mins) | usage
 --- | ---
 90-120 | Group Project Final Presentations
 
-Assignment(s) Due:
+Assignment(s):
 
- + [Group Project Final Deliverable](assignments/group-project/2-final-deliverable.md)
- + [Group Project Final Presentations](assignments/group-project/3-final-presentation.md)
+ + [Group Project Final Deliverable](assignments/group-project/2-final-deliverable.md) (Due)
+ + [Group Project Final Presentations](assignments/group-project/3-final-presentation.md) (Due)
 
 ## 12/9/15
 
