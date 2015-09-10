@@ -6,7 +6,7 @@ GW Email Address,email,string,the student's gw-issued email address,Personnally-
 First Name,first_name,string,the student's first name,Personnally-Identifiable Information (PII)
 Last Name,last_name,string,the student's last name,Personnally-Identifiable Information (PII)
 Nickname (if applicable),nickname,string,the student's nickname,Personnally-Identifiable Information (PII)
-Graduation Class,Possible Private Nature,string,the student's graduation class,Possible PII
+Graduation Class,graduation_class,string,the student's graduation class,Possible PII
 Hometown,hometown,string,the student's hometown,Possible PII
 Major(s) and Concentration(s) of Study,majors,string,the student's academic major or concentraion,Possible PII
 Class Scheduling,scheduling,string,whether the student is taking any other classes scheduled either before and/or after this class,N/A
