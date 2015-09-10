@@ -30,9 +30,9 @@ Assignment(s):
 
  + [IS Analysis Paper](assignments/systems-analysis.md) (Due)
  + [Documents Lab Assignment](assignments/lab/1-docs.md) (Given and Due)
- + [Group Project Mid-term Pitch](assignments/group-project/1-midterm-pitch.md) (Given)
- + [Group Project Final Deliverable](assignments/group-project/2-final-deliverable.md) (Given)
- + [Group Project Final Presentation](assignments/group-project/3-final-presentation.md) (Given)
+ + [Group Project Mid-term Pitch](assignments/group-project/midterm-pitch.md) (Given)
+ + [Group Project Final Deliverable](assignments/group-project/final-deliverable.md) (Given)
+ + [Group Project Final Presentation](assignments/group-project/final-presentation.md) (Given)
 
 ## Week 4 - 9/21/15
 
@@ -45,7 +45,7 @@ duration (mins) | usage
 
 Assignment(s):
 
- + [Diagrams Lab Assignment](assignments/lab/2-diagrams.md) (Given and Due)
+ + [Diagrams Lab Assignment](assignments/lab/diagrams.md) (Given and Due)
 
 ## Week 5 - 9/28/15
 
@@ -57,7 +57,7 @@ duration (mins) | usage
 
 Assignment(s):
 
- + [Data Processing (Spreadsheets) Lab Assignment](assignments/lab/3-data-processing.md) (Given)
+ + [Data Processing (Spreadsheets) Lab Assignment](assignments/lab/data-processing.md) (Given)
 
 ## Week 6 - 10/5/15
 
@@ -69,8 +69,8 @@ duration (mins) | usage
 
 Assignment(s):
 
- + [Group Project Pitches](assignments/group-project/1-midterm-pitch.md) (Due)
- + [Spreadsheets Lab Assignment](assignments/lab/3-data-processing.md) (Due)
+ + [Group Project Pitches](assignments/group-project/midterm-pitch.md) (Due)
+ + [Spreadsheets Lab Assignment](assignments/lab/data-processing.md) (Due)
 
 ## Week 7 - 10/12/15
 
@@ -82,7 +82,7 @@ duration (mins) | usage
 
 Assignment(s):
 
- + [Data Analysis (SQL) Lab Assignment](assignments/lab/4-data-analysis.md) (Given and Due)
+ + [Data Analysis (SQL) Lab Assignment](assignments/lab/data-analysis.md) (Given and Due)
 
 ## Week 8 - 10/19/15
 
@@ -94,7 +94,7 @@ duration (mins) | usage
 
 Assignment(s):
 
- + [MS Access Application Functionality Lab Assignment](assignments/lab/5-ms-access.md) (Given)
+ + [MS Access Application Functionality Lab Assignment](assignments/lab/ms-access.md) (Given)
 
 ## Week 9 - 10/26/15
 
@@ -106,8 +106,8 @@ duration (mins) | usage
 
 Assignment(s):
 
- + [MS Access Application Functionality Lab Assignment](assignments/lab/5-ms-access.md) (Due)
- + [Tableau Lab Assignment](assignments/lab/6-tableau.md) (Given)
+ + [MS Access Application Functionality Lab Assignment](assignments/lab/ms-access.md) (Due)
+ + [Data Reporting Lab Assignment](assignments/lab/reporting.md) (Given)
 
 ## Week 10 - 11/2/15
 
@@ -120,8 +120,8 @@ duration (mins) | usage
 
 Assignment(s):
 
- + [Tableau Lab Assignment](assignments/lab/6-tableau.md) (Due)
- + [Personal Website](assignments/lab/7-personal-website.md) (Given)
+ + [Tableau Lab Assignment](assignments/lab/reporting.md) (Due)
+ + [Personal Website](assignments/lab/personal-website.md) (Given)
 
 ## Week 11 - 11/9/15
 
@@ -163,8 +163,8 @@ duration (mins) | usage
 
 Assignment(s):
 
- + [Group Project Final Deliverable](assignments/group-project/2-final-deliverable.md) (Due)
- + [Group Project Final Presentations](assignments/group-project/3-final-presentation.md) (Due)
+ + [Group Project Final Deliverable](assignments/group-project/final-deliverable.md) (Due)
+ + [Group Project Final Presentations](assignments/group-project/final-presentation.md) (Due)
 
 ## 12/9/15
 

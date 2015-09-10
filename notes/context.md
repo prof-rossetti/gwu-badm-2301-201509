@@ -11,6 +11,7 @@ Objectives and Policies
  + [Masters in Information Systems (MSIST)](http://business.gwu.edu/programs/specialized-masters/m-s-information-systems-technology/)
  + [Masters in Business Analytics](http://business.gwu.edu/programs/specialized-masters/m-s-in-business-analytics/)
  + [ISTM 6205 - Internet Computing](http://bulletin.gwu.edu/search/?P=ISTM+6205)
+ + ISTM 4900 - Web and Social Analytics
  + ISTM 6290 - Python Programming with Database Applications
 
 The Intersection of Technology and Business
