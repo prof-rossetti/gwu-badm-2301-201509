@@ -83,6 +83,7 @@ This course is required for all undergraduate students in the Business School.
 > As of 8/24, this course is full.
  There is a waitlist available for students who
  would like to register but are not currently registered.
+ The professor has no control over the waitlist or enrollments.
 
 #### Prerequisites
 
@@ -99,7 +100,6 @@ The Learning Community operates for the following purposes:
  * To improve communication and presentation skills
  * To improve writing skills
  * To improve the ability to work in teams
-
 
 Class assignments are designed to reflect and measure performance against
  these stated learning objectives.

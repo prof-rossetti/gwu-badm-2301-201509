@@ -11,7 +11,7 @@ Objectives and Policies
  + [Masters in Information Systems (MSIST)](http://business.gwu.edu/programs/specialized-masters/m-s-information-systems-technology/)
  + [Masters in Business Analytics](http://business.gwu.edu/programs/specialized-masters/m-s-in-business-analytics/)
  + [ISTM 6205 - Internet Computing](http://bulletin.gwu.edu/search/?P=ISTM+6205)
- + ISTM 6290 - Python & SQL
+ + ISTM 6290 - Python Programming with Database Applications
 
 The Intersection of Technology and Business
 
@@ -40,13 +40,15 @@ Tech Roles in Business:
  + Chief Technology Officer
  + Technology Project Manager
  + Software Engineer
+ + Quantitative Analyst
  + Data Engineer
  + Network/Systems Administrator
  + Database Administrator
  + Systems Analyst
  + Business Analyst
- + Quantitative Analyst
- + User Interface Researcher and Designer
+ + Systems Security Analyst/Administrator
+ + User Experience (UX) Researcher
+ + User Interface (UI) Designer
 
 <hr>
 

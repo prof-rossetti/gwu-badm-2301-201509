@@ -57,9 +57,12 @@ You may propose and submit a custom assignment
 
 If proposing a custom assignment,
  please compose a brief assignment description (including evaluation criteria),
- and send it to the professor for approval.
+ and send it to the professor for approval no later than
+ the beginning of class on 10/5.
 
 See below for examples of alternative assignments proposed by students.
+
+<hr>
 
 ### Informational Interviews Assignment
 
@@ -68,10 +71,10 @@ Perform informational interviews with two active members of the business and tec
 After the interviews, write a short (2-3 page) summary of your experiences,
 to address at least the following questions:
 
-+ Which professionals did you interview? Include their contact info.
++ Which professionals did you interview? Include their contact info and a description of their professional roles/duties.
 + How are their professions relevant to the business/technology community?
 + What happened during each interview? What relevant topics were discussed?
 + How did your discussions relate to your own skills and interests?
-+ What, if anything, did you learn about contemporary industry challenges and practices?
++ What did you learn about contemporary industry challenges and practices?
 
 You may attach or embed photos to your writeup to provide further evidence of interview participation.
