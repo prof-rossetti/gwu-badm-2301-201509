@@ -167,6 +167,8 @@ duration (mins) | usage
 10 | Break
 70 | Group Project Support
 
+> No assignments given or due.
+
 ## Week 15 - 12/7/15
 
 duration (mins) | usage
