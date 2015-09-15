@@ -8,7 +8,7 @@ Each group may submit one assignment on behalf of all members.
 
 Identify three to five real-world business problems
  that have the opportunity to be solved with technology solutions,
- specifically with the implementation of one or more Information Systems.
+ specifically the implementation of one or more Information Systems.
  Weigh the merits of each problem, and choose one to address.
 
 Research and analyze your chosen business problem,
@@ -22,10 +22,12 @@ Weigh the merits and feasibility of each potential solution.
 Choose one as your proposed solution to address the business problem.
 
 Describe your proposed information system solution, in terms of its
- purpose
+ purpose,
  information inputs,
  information outputs, and
  user interface.
+
+> Refer to the Documents, Diagrams, and IS Analysis lab assignments for additional preparation
 
 ### Suggested Presentation Elements and Structure
 

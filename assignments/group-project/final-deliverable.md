@@ -12,6 +12,8 @@ Revise and expand initial system planning and analysis to include
 Write a detailed (i.e. greater than 10-15 pages) paper
  which describes and documents your proposed Information System solution.
 
+> Refer to Documents, Diagrams, and IS Analysis lab assignments for additional preparation
+
 ### Suggested Structure
 
 TBA

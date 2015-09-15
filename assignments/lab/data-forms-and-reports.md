@@ -2,12 +2,12 @@
 
 ## Description
 
-TBA
+See Blackboard.
 
 ## Submission Instructions
 
-TBA
+Submit via Blackboard.
 
-## Evaluation Criteria
+## Evaluation Methodology
 
-TBA
+See Blackboard.

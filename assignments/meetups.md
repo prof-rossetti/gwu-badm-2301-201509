@@ -29,7 +29,7 @@ You may attach or embed photos to your writeup to provide further evidence of ev
 
 ## Submission Instructions
 
-Submit a .pdf file via [blackboard](https://blackboard.gwu.edu/webapps/assignment/uploadAssignment?content_id=_6845047_1&course_id=_260292_1&assign_group_id=&mode=cpview).
+Submit a .pdf file via [Blackboard](https://blackboard.gwu.edu/webapps/assignment/uploadAssignment?content_id=_6845047_1&course_id=_260292_1&assign_group_id=&mode=cpview).
 
 ## Evaluation Methodology
 
@@ -37,10 +37,10 @@ Full credit for submitting a thoughtful response that demonstrates
  evidence of event attendance AND
  insights into contemporary business and technology issues and practices.
 
-3/4 credit for submitting a response that demonstrates evidence of event attendance OR
+Else 3/4 credit for submitting a response that demonstrates evidence of event attendance OR
  insights into contemporary business and technology issues and practices.
 
-Half credit for submitting a relevant response.
+Else 1/2 credit for submitting a relevant response.
 
 Else no credit.
 

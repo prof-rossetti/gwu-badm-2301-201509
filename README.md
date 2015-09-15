@@ -79,7 +79,7 @@ Ademuyiwa Adesoye | Ade | [muadesoye@gwmail.gwu.edu](mailto:muadesoye@gwmail.gwu
 ### Students
 
 This course is required for all undergraduate students in the Business School.
- Around **40** undergraduates are registered for this offering.
+ Around **40** undergraduates are enrolled in this section.
 
 #### Prerequisites
 

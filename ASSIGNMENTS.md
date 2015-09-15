@@ -20,12 +20,12 @@ name | weight | comments
 [Relational Data Analysis](assignments/lab/relational-data-analysis.md) | (30% * 10%) | in-class
 [Data Forms and Reports](assignments/lab/data-forms-and-reports.md) | (30% * 10%) | take-home
 [Data Dashboards](assignments/lab/data-dashboards.md)| (30% * 5%) | take-home
-[Personal Website](assignments/lab/7-personal-website.md) | (30% * 30%) | take-home
+[Personal Website](assignments/lab/personal-website.md) | (30% * 25%) | take-home
 
 ## Group Project Assignments
 
-name | weight | comments
---- | --- | ---
-[Mid-term Pitch](assignments/group-project/midterm-pitch.md) | (40% * 20%) |
-[Final Deliverable](assignments/group-project/final-deliverable.md) | (40% * 50%) |
-[Final Presentation](assignments/group-project/final-presentation.md) | (40% * 30%) |
+name | weight
+--- | ---
+[Mid-term Pitch](assignments/group-project/midterm-pitch.md) | (40% * 20%)
+[Final Deliverable](assignments/group-project/final-deliverable.md) | (40% * 50%)
+[Final Presentation](assignments/group-project/final-presentation.md) | (40% * 30%)
