@@ -31,20 +31,19 @@ Describe your proposed information system solution, in terms of its
 
 ### Suggested Presentation Elements and Structure
 
- + **Group-member Introductions**
- + **Overview of Potential Business Problems** (three to five)
+ + Group-member Introductions
+ + Overview of Potential Business Problems (three to five)
  + Identification of one Business Problem to address:
-   +  **Business Problem/Opportunity Statement**
-   +  **As-Is Process Diagram**
- + **Overview of Potential Tech/IS Solutions** (three to five)
+   +  Business Problem/Opportunity Statement
+   +  As-Is Process Diagram
+ + Overview of Potential Tech/IS Solutions (three to five)
  + Identification of one Proposed Tech/IS Solution
-   + **Information System Justification**
-   + **To-Be Process Diagram**
+   + Information System Justification
+   + To-Be Process Diagram
    + Information System Analysis:
-     + **System Description and Purpose**
-     + **Information Inputs**
-     + **Information Outputs**
-     + **Interface Design Mock-Up(s)**
+     + System Description and Purpose
+     + Information Inputs
+     + Information Outputs
 
 ## Submission Instructions
 
@@ -54,12 +53,14 @@ Present in class to to the learning community during an allotted fifteen-minute 
 
 ## Evaluation Methodology
 
-Full credit for addressing at least all of the suggested presentation elements
- in a thoughtful and creative way.
+Full credit for
+ addressing at least all of the suggested presentation elements
+  in a thoughtful and creative way;
+ and for an effective presentation.
 
 Else 4/5 credit for addressing most-to-all of the suggested presentation elements
- in an adequate way.
+ in an adequate way; or for an ineffective presentation.
 
-Else 2/3 credit for addressing some of the suggested presentation elements, or addressing some-to-all elements in a sub-par way.
+Else 2/3 credit for addressing some of the suggested presentation elements, or addressing some-to-all elements in a sub-par way; or for an ineffective presentation.
 
 Else no credit.
