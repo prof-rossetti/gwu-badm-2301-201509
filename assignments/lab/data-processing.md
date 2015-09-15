@@ -1,4 +1,4 @@
-# Personal Website Lab Assignment
+# Data Processing Lab Assignment
 
 ## Description
 

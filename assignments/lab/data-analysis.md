@@ -1,4 +1,4 @@
-# Personal Website Lab Assignment
+# Data Analysis Lab Assignment
 
 ## Description
 

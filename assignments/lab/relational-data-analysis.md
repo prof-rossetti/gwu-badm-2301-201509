@@ -1,4 +1,4 @@
-# Personal Website Lab Assignment
+# Relational Data Analysis Lab Assignment
 
 ## Description
 

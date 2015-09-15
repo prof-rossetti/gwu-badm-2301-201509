@@ -22,11 +22,12 @@ This course is described as:
  Emphasis on uses and applications as well as
  emerging managerial issues with the potential to reshape the form and function of information systems.
 
-Subject matter is traditionally organized into three general themes:
+Subject matter includes:
 
- 1. Business Problems and Information System Solutions
- * Information Technology Overview
- * Information System Implementation Strategy
+ 1. The Role of Technology in Business
+ * Identification and Communication of Business Processes and Problems
+ * Professional Business Technology Skills
+ * Information System Analysis, Planning, Design, and Implementation
 
 ## Location
 
@@ -78,12 +79,7 @@ Ademuyiwa Adesoye | Ade | [muadesoye@gwmail.gwu.edu](mailto:muadesoye@gwmail.gwu
 ### Students
 
 This course is required for all undergraduate students in the Business School.
- Currently, **40** undergraduates are registered for this offering.
-
-> As of 8/24, this course is full.
- There is a waitlist available for students who
- would like to register but are not currently registered.
- The professor has no control over the waitlist or enrollments.
+ Around **40** undergraduates are registered for this offering.
 
 #### Prerequisites
 
@@ -127,7 +123,7 @@ Intro to Information Systems | Rainer | 5th | 9781118674369 | $62.50 - $176.75
 Relevant material from the textbook will be covered during lectures.
 
 Students may optionally choose to purchase, borrow, or loan the book
- for a more in-depth experience.
+ for additional context.
 
 ### Evaluation Methods
 
@@ -140,10 +136,14 @@ All [Assignments](ASSIGNMENTS.md) must be delivered
  before the end of the last day of the semester (midnight concluding 12/9).
 
 Each assignment carries a suggested delivery date to help students manage their time.
- In some cases, assignment delivery dates are not flexible.
+ In some cases, assignment delivery dates are not flexible (e.g. in-class lab assignments).
 
-Assignments submitted by the delivery date will receive instructor feedback
+Assignments submitted by the delivery date
+ will be evaluated/graded by an instructor
  within a reasonable amount of time (roughly one or two weeks following the delivery date).
+
+Often, evaluation will contain
+ feedback on how to improve the submission.
 
 ### Communication and Collaboration
 

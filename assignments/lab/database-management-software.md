@@ -1,4 +1,4 @@
-# Personal Website Lab Assignment
+# Database Management Software (DBMS) Lab Assignment
 
 ## Description
 

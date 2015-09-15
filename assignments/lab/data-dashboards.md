@@ -1,4 +1,4 @@
-# Personal Website Lab Assignment
+# Data Dashboards (Tableau) Lab Assignment
 
 ## Description
 

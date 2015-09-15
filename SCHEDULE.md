@@ -29,7 +29,7 @@ duration (mins) | usage
 Assignment(s):
 
  + [IS Analysis Paper](assignments/systems-analysis.md) (Due)
- + [Documents Lab Assignment](assignments/lab/1-docs.md) (Given and Due)
+ + [Documents Lab Assignment](assignments/lab/docs.md) (Given and Due)
  + [Group Project Mid-term Pitch](assignments/group-project/midterm-pitch.md) (Given)
  + [Group Project Final Deliverable](assignments/group-project/final-deliverable.md) (Given)
  + [Group Project Final Presentation](assignments/group-project/final-presentation.md) (Given)
@@ -63,95 +63,107 @@ Assignment(s):
 
 duration (mins) | usage
 --- | ---
-70 | Group Project Pitches (Part I)
+90 | Group Project Midterm Pitches
 10 | Break
-70 | Support for Group Projects and Spreadsheets
+50 | Support for Documents, Diagrams, Spreadsheets, Group Projects
 
 Assignment(s):
 
- + [Group Project Pitches](assignments/group-project/midterm-pitch.md) (Due)
- + [Spreadsheets Lab Assignment](assignments/lab/data-processing.md) (Due)
+ + [Data Processing Lab Assignment](assignments/lab/data-processing.md) (Due)
+ + [Group Project Midterm Pitches](assignments/group-project/midterm-pitch.md) (Due)
 
 ## Week 7 - 10/12/15
 
 duration (mins) | usage
 --- | ---
-70 | Databases Lecture
+50 | Databases and Database Management Software Lecture
 10 | Break
-70 | Databases Lab (Part I), including in-class assignment
+90 | Database Management Software (DBMS) Lab, including in-class assignment
 
 Assignment(s):
 
- + [Data Analysis (SQL) Lab Assignment](assignments/lab/data-analysis.md) (Given and Due)
+ + [Database Management Software (DBMS) Lab Assignment](assignments/lab/database-management-software.md) (Given and Due)
 
 ## Week 8 - 10/19/15
 
 duration (mins) | usage
 --- | ---
-70 | MS Access Application Functionality Lab
+70 | Data Analysis (SQL) Lab, including in-class assignment
 10 | Break
-70 | SQL and MS Access Application Functionality Support
+40 | Relational Databases (Normalization, Architecture and Design) Lecture
+30 | Relational Data Analysis Lab, including in-class assignment
 
 Assignment(s):
 
- + [MS Access Application Functionality Lab Assignment](assignments/lab/ms-access.md) (Given)
+ + [Data Analysis (SQL) Lab Assignment](assignments/lab/data-analysis.md) (Given and Due)
+ + [Relational Data Analysis Lab Assignment](assignments/lab/relational-data-analysis.md) (Given and Due)
 
 ## Week 9 - 10/26/15
 
-duration (mins) | usage
---- | ---
-70 | Tableau Lab
-10 | Break
-70 | SQL and Tableau Support
+ duration (mins) | usage
+ --- | ---
+ 20 | Data Integrity Lecture
+ 50 | Data Forms and Reports (MS Access) Lab Part I
+ 10 | Break
+ 70 | Data Forms and Reports (MS Access) Lab Part II
 
-Assignment(s):
+ Assignment(s):
 
- + [MS Access Application Functionality Lab Assignment](assignments/lab/ms-access.md) (Due)
- + [Data Reporting Lab Assignment](assignments/lab/reporting.md) (Given)
++ [Data Forms and Reports Assignment](assignments/lab/data-forms-and-reports.md) (Given)
 
 ## Week 10 - 11/2/15
 
 duration (mins) | usage
 --- | ---
-10 | Web Interfaces Intro
-60 | HTML Lab
+50 | Data Dashboards Lecture
 10 | Break
-70 | CSS and JavaScript Lab
+90 | Data Dashboards (Tableau) Lab
 
 Assignment(s):
 
- + [Tableau Lab Assignment](assignments/lab/reporting.md) (Due)
- + [Personal Website](assignments/lab/personal-website.md) (Given)
+ + [Data Forms and Reports Assignment](assignments/lab/data-forms-and-reports.md) (Due)
+ + [Data Dashboards Lab Assignment](assignments/lab/data-dashboards.md) (Given)
 
 ## Week 11 - 11/9/15
 
 duration (mins) | usage
 --- | ---
-70 | Hosting, Networks, and Hardware Lecture
+70 | Websites (HTML and CSS) Lecture
 10 | Break
-70 | Hosting, Networks, and Hardware Lab
+70 | Websites Lab
+
+Assignment(s):
+
+ + [Data Dashboards Assignment](assignments/lab/data-dashboards.md) (Due)
+ + [Personal Website](assignments/lab/personal-website.md) (Given)
 
 ## Week 12 - 11/16/15
 
 duration (mins) | usage
 --- | ---
-70 | Security, Privacy, and Ethics Lecture
+10 | Web Forms (JavaScript) Lecture
 10 | Break
-70 | Group Project Support
+70 | Web Forms Lab
+
+> No assignments given or due.
 
 ## Week 13 - 11/23/15
 
 duration (mins) | usage
 --- | ---
-70 | Group Project Support
+70 | Networks and Hardware Lecture
 10 | Break
-70 | Group Project Support
+70 | Networks and Hardware Lab, including in-class assignment
+
+Assignment(s):
+
+ + [Networks and Hardware Assignment](assignments/lab/networks-and-hardware.md) (Given and Due)
 
 ## Week 14 - 11/30/15
 
 duration (mins) | usage
 --- | ---
-70 | Group Project Support
+70 | Security, Privacy, and Ethics Lecture
 10 | Break
 70 | Group Project Support
 

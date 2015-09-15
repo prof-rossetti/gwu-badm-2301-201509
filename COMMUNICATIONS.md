@@ -19,7 +19,7 @@ All class documents and instructional materials are available online in a public
 
 At any given time, documents in the repository may be
 at different stages of ideation and completion.
-The word `todo` signifies intention of updating a document.
+The words `todo` and `TBA` signify intention of updating a document.
 
 If you see a typo, or would like to contribute to the materials, feel free to edit any of the documents
 (requires a GitHub account; ask an instructor how to "commit").

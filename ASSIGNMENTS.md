@@ -14,11 +14,13 @@ name | weight | comments
 --- | --- | ---
 [Documents](assignments/lab/docs.md) | (30% * 10%) | in-class
 [Diagrams](assignments/lab/diagrams.md) | (30% * 10%) | in-class
-Data Processing (Spreadsheets) | (30% * 20%) | take-home
-Data Analysis (SQL) | (30% * 20%) | in-class
-Data Reporting | (30% * 10%) | take-home
-TBA | (30% * 10%) | take-home
-[Personal Website](assignments/lab/7-personal-website.md) | (30% * 20%) | take-home
+[Data Processing](assignments/lab/data-processing.md) | (30% * 15%) | take-home
+[Database Management Software](assignments/lab/database-management-software.md) | (30% * 5%) | in-class
+[Data Analysis](assignments/lab/data-analysis.md) | (30% * 10%) | in-class
+[Relational Data Analysis](assignments/lab/relational-data-analysis.md) | (30% * 10%) | in-class
+[Data Forms and Reports](assignments/lab/data-forms-and-reports.md) | (30% * 10%) | take-home
+[Data Dashboards](assignments/lab/data-dashboards.md)| (30% * 5%) | take-home
+[Personal Website](assignments/lab/7-personal-website.md) | (30% * 30%) | take-home
 
 ## Group Project Assignments
 
@@ -27,5 +29,3 @@ name | weight | comments
 [Mid-term Pitch](assignments/group-project/midterm-pitch.md) | (40% * 20%) |
 [Final Deliverable](assignments/group-project/final-deliverable.md) | (40% * 50%) |
 [Final Presentation](assignments/group-project/final-presentation.md) | (40% * 30%) |
-
-> NOTE: The project will be assigned no later than September 14th.

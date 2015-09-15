@@ -1,4 +1,4 @@
-# Personal Website Lab Assignment
+# Networks and Hardware Lab Assignment
 
 ## Description
 
