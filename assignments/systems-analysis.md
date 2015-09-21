@@ -7,6 +7,8 @@ Identify **three** real-world information systems by name.
 
 > Avoid using generic system classifications like TPS, MIS, DSS, health record management system, etc.
 
+> Avoid using business names in favor of specific applications or systems employed by the business.
+
 Explicitly identify the information inputs and outputs of each system.
 
 Identify the purpose of each system. What business value or advantage does it bring to its creator? What value does it bring to its users?
