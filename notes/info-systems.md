@@ -4,13 +4,17 @@
 
 An Information System processes information inputs into outputs for a specific purpose.
 
+> Information Systems need **information** inputs and outputs. Processing of inputs and outputs does not necessarily qualify a system as an IS
+
 A system may process different kinds of information, according into the following hierarchy:
 
 information term | meaning | example
 --- | --- | ---
 **Data** | A description of something, not necessarily organized or synthesized to provide meaning. | numbers, words, dates, images, files
-**Information** | Data that has been organized or interpreted to provide meaning and value. | a chart depicting sales over time
+**Information** | Data that has been organized or interpreted to provide meaning and value. | a chart of datapoints over time depicting an upward trend in sales
 **Knowledge** | Data and/or Information that has been organized, processed and interpreted to convey understanding, experience, accumulated learning, expertise, etc. | an informed decision to raise marketing expenditure levels
+
+> Presence of information does not necessarily constitute an IS
 
 Information Systems may or may not leverage technology.
 
@@ -30,6 +34,8 @@ Components of a computer-based IS generally include:
  + people
  + procedures/instructions
 
+> Presence of one or more IS components does not necessarily constitute an IS
+
 ### Capabilities
 
 Information Systems can perform numeric computations,
@@ -43,11 +49,11 @@ An Information System may be classified into one or more general types
  as well as the type of information it processes,
  and the audience it serves.
 
-system type | general functions | example(s)
---- | --- | ---
-Operational | Sends and receives data. | Online Ordering, Payroll Processing, ATMs, Transaction Processing, Office Support
-Managerial | Processes and synthesizes data into information. | Performance Dashboard, Business Intelligence, Decision Support
-Executive | Processes and synthesizes information into knowledge; emulates **human** decision-making and judgement processes. | Decision Support, Expert, Machine Learning, GW Housing Selection
+system type | general functions | system sub-classes | specific example(s)
+--- | --- | --- | ---
+Operational | Sends and receives data. | Transaction Processing, Office Support, online ordering systems, payroll processing | an ATM, GW Bulletin Web Service (because of url params),
+Managerial | Processes and synthesizes data into information. | Business Intelligence, Decision Support, library management systems | A proprietary Google Elections info system responsible for producing real-time election result maps
+Executive | Processes and synthesizes information into knowledge; emulates **human** decision-making and judgement processes. | Decision Support, Expert, Machine Learning, self-driving cars | GW Housing Selection System, IBM Watson
 
 ## Advantages
 
@@ -69,7 +75,7 @@ Development Methodologies:
  + Waterfall/Traditional
  + Agile
 
-### Systems Development Lifecycle:
+### Traditional Systems Development Lifecycle (SDLC):
 
  1. Requirements Gathering and Investigation
  * Analysis
