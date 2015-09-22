@@ -38,28 +38,27 @@ Assignment(s):
 
 duration (mins) | usage
 --- | ---
-30 | Diagrams Lab (Part I)
+70 | Diagrams Lab, including in-class assignment
 10 | Break
-30 | Diagrams Lab (Part II), including in-class assignment
-10 | Break
-70 | Spreadsheets Lab (Part I)
+70 | Spreadsheets Lab (Part I - Basic)
 
 Assignment(s):
 
  + [Diagrams Lab Assignment](assignments/lab/diagrams.md) (Given and Due)
- + [Data Processing (Spreadsheets) Lab Assignment](assignments/lab/data-processing.md) (Given)
+ + [Basic Data Processing (Spreadsheets) Lab Assignment](assignments/lab/data-processing.md) (Given)
 
 ## Week 5 - 9/28/15
 
 duration (mins) | usage
 --- | ---
-90 | Spreadsheets Lab (Part II)
+90 | Spreadsheets Lab (Part II - Advanced), including in-class assignment
 10 | Break
 50 | Support for Documents, Diagrams, Spreadsheets, Group Projects
 
 Assignment(s):
 
- + [Data Processing (Spreadsheets) Lab Assignment](assignments/lab/data-processing.md) (Due)
+ + [Basic Data Processing (Spreadsheets) Lab Assignment](assignments/lab/data-processing.md) (Due)
+ + [Advanced Data Processing (Spreadsheets) Lab Assignment](assignments/lab/advanced-data-processing.md) (Given and Due)
 
 ## Week 6 - 10/5/15
 

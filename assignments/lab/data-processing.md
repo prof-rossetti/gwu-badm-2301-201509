@@ -1,4 +1,4 @@
-# Data Processing (Spreadsheets) Lab Assignment
+# Basic Data Processing (Spreadsheets) Lab Assignment
 
 ## Description
 

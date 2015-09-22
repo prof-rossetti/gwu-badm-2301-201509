@@ -13,8 +13,9 @@ Group Project Assignments | 40% | see below for break-down
 name | weight | comments
 --- | --- | ---
 [Documents](assignments/lab/docs.md) | (30% * 10%) | in-class
-[Diagrams](assignments/lab/diagrams.md) | (30% * 10%) | in-class
-[Data Processing](assignments/lab/data-processing.md) | (30% * 15%) | take-home
+[Diagrams](assignments/lab/diagrams.md) | (30% * 5%) | in-class
+[Basic Data Processing (Spreadhsheets) Assignment](assignments/lab/data-processing.md) | (30% * 10%) | take-home
+[Advanced Data Processing (Spreadhsheets) Assignment](assignments/lab/advanced-data-processing.md) | (30% * 10%) | in-class
 [Database Management Software](assignments/lab/database-management-software.md) | (30% * 5%) | in-class
 [Data Analysis](assignments/lab/data-analysis.md) | (30% * 10%) | in-class
 [Relational Data Analysis](assignments/lab/relational-data-analysis.md) | (30% * 10%) | in-class
