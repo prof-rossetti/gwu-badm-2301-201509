@@ -38,38 +38,37 @@ Assignment(s):
 
 duration (mins) | usage
 --- | ---
-20 | Identifying Business Processes Lecture
-50 | Diagrams Lab (Part I)
+30 | Diagrams Lab (Part I)
 10 | Break
-70 | Diagrams Lab (Part II), including in-class assignment
+30 | Diagrams Lab (Part II), including in-class assignment
+10 | Break
+70 | Spreadsheets Lab (Part I)
 
 Assignment(s):
 
  + [Diagrams Lab Assignment](assignments/lab/diagrams.md) (Given and Due)
+ + [Data Processing (Spreadsheets) Lab Assignment](assignments/lab/data-processing.md) (Given)
 
 ## Week 5 - 9/28/15
 
 duration (mins) | usage
 --- | ---
-70 | Spreadsheets Lab (Part I)
-10 | Break
-70 | Spreadsheets Lab (Part II)
-
-Assignment(s):
-
- + [Data Processing (Spreadsheets) Lab Assignment](assignments/lab/data-processing.md) (Given)
-
-## Week 6 - 10/5/15
-
-duration (mins) | usage
---- | ---
-90 | Group Project Midterm Pitches
+90 | Spreadsheets Lab (Part II)
 10 | Break
 50 | Support for Documents, Diagrams, Spreadsheets, Group Projects
 
 Assignment(s):
 
- + [Data Processing Lab Assignment](assignments/lab/data-processing.md) (Due)
+ + [Data Processing (Spreadsheets) Lab Assignment](assignments/lab/data-processing.md) (Due)
+
+## Week 6 - 10/5/15
+
+duration (mins) | usage
+--- | ---
+150 | Group Project Midterm Pitches
+
+Assignment(s):
+
  + [Group Project Midterm Pitches](assignments/group-project/midterm-pitch.md) (Due)
 
 ## Week 7 - 10/12/15
