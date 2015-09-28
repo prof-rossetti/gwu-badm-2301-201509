@@ -1,14 +1,12 @@
 # Midterm Pitch
 
-Each enrolled student should be assigned into groups of two, three, or four.
-
-Each group may submit one assignment on behalf of all members.
+Refer to the [Group Project Description](/PROJECT.md).
 
 ## Description
 
 Identify three to five real-world business problems
  that have the opportunity to be solved with technology solutions,
- specifically the implementation of one or more Information Systems.
+ specifically the implementation of an information system which contains a relational database component.
  Weigh the merits of each problem, and choose one to address.
 
 Research and analyze your chosen business problem,

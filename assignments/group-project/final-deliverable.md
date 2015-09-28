@@ -1,8 +1,6 @@
 # Group Project Final Deliverable
 
-Refer to the [midterm pitch](assignments/group-project/midterm-pitch.md) assignment description.
-
-Groups may submit one assignment on behalf of all members.
+Refer to the [Group Project Description](/PROJECT.md).
 
 ## Description
 
@@ -16,7 +14,7 @@ Write a detailed (i.e. greater than 10-15 pages) paper
 
  + Executive Summary
  + Business Problem Identification
-  + As-Is Process Description and Diagram
+   + As-Is Process Description and Diagram
  + Description of three potential solutions
  + Identification of a single IS solution
    + To-be Process Description, including Diagram
@@ -28,18 +26,18 @@ Write a detailed (i.e. greater than 10-15 pages) paper
        + Hardware
        + Software
        + Networks
-        + Network Diagram
+         + Network Diagram
        + Datastore
-        + Logical Database Design:
-          + Entity-Relationship Diagram (ERD) and Description
-          + Table Descriptions
+          + Logical Database Design:
+            + Entity-Relationship Diagram (ERD) and Description
+            + Table Descriptions
        + Interface, including System Prototype Screenshots/ Mock-ups
-    + Implementation and Adoption Plan
+     + Implementation and Adoption Plan
 
 ## Submission Instructions
 
-Upload .pdf file to Blackboard before the beginning of class.
+Upload a .pdf file to [Blackboard](https://blackboard.gwu.edu/webapps/assignment/uploadAssignment?content_id=_6869960_1&course_id=_260292_1&assign_group_id=&mode=cpview) before the beginning of class.
 
 ## Evaluation Methodology
 
-TBA
+Each submission will be graded in terms of its content, organizational structure, and ability to address the requirements.

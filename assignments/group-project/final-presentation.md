@@ -1,8 +1,6 @@
 # Final Presentation
 
-Refer to the [final deliverable](assignments/group-project/final-deliverable.md) assignment description.
-
-Groups may submit one assignment on behalf of all members.
+Refer to the [Group Project Description](/PROJECT.md).
 
 ## Description
 
@@ -12,7 +10,6 @@ Summarize your final deliverable
  > NOTE: Your working prototype/demo need not be built with the same tools described in your final deliverable.
 
 ### Suggested Presentation Structure
-
 
  + Group-member Introductions
  + Business Problem/Opportunity Statement
@@ -29,8 +26,14 @@ Summarize your final deliverable
 
 ## Submission Instructions
 
-Submit presentation .pdf to Blackboard before the beginning of class.
+Submit presentation .pdf to [Blackboard](https://blackboard.gwu.edu/webapps/assignment/uploadAssignment?content_id=_6869963_1&course_id=_260292_1&assign_group_id=&mode=cpview) before the beginning of class.
 
 ## Evaluation Methodology
 
-todo
+Students, instructors, and possible guest judges will evaluate each presentation in terms of content and delivery. Students may not evaluate their own presentations.
+
+Evaluators will assign each presentation an integer grade from 0 to 100.
+
+Evaluations will be averaged to produce a single group grade for each presentation. This provides a baseline for the final grade.
+
+Group grades will be compared, sorted, and ranked. Group rank may contribute to the final grade, as necessary.
