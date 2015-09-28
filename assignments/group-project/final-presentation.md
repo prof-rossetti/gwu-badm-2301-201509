@@ -11,18 +11,18 @@ Summarize your final deliverable
 
 ### Suggested Presentation Structure
 
- + Group-member Introductions
- + Business Problem/Opportunity Statement
- + Proposed IS Solution:
-   + Business Process Revisions/Improvements
-   + Information System Analysis:
-     + System Description and Purpose
-     + Information Inputs and Outputs
-     + Components:
-       + Hardware, Software, and Networks
-       + Datastore, including ERD
-       + Interface, including Functional Working System Demonstration
-   + Implementation and Adoption Plan
+  + Group-member Introductions
+  + Business Problem/Opportunity Statement
+  + Proposed IS Solution:
+    + Business Process Revisions/Improvements
+    + Information System Analysis:
+      + System Description and Purpose
+      + Information Inputs and Outputs
+    + System Components:
+      + Hardware, Software, and Networks
+      + Datastore, including ERD
+      + Interface, including Screenshots/Mock-ups
+    + Implementation and Adoption Plan
 
 ## Submission Instructions
 
