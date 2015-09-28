@@ -3,7 +3,7 @@
 ## Description
 
 Students will work together in instructor-assigned teams of two, three, or four
- to design
+ to plan and design
  a **relational database-backed information system**
  which fulfills the component assignment requirements.
 
@@ -15,7 +15,7 @@ The [Midterm Pitch](assignments/group-project/midterm-pitch.md) evaluates studen
  and describe system objectives and information requirements.
  Systems with the demonstrated ability or possible potential to provide real-world impact are desirable.
 
-The [Final Deliverable](assignments/group-project/final-documentation.md) evaluates student ability to
+The [Final Deliverable](assignments/group-project/final-deliverable.md) evaluates student ability to
  describe in detail
    system objectives and design. The final deliverable should include information about system components like hardware, software, networks, and database.
 
