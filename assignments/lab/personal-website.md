@@ -2,12 +2,12 @@
 
 ## Description
 
-TBA
+TBA - Make a website for any productive personal or business purpose.
 
 ## Submission Instructions
 
-TBA
+TBA - Submit a link to your website through Blackboard.
 
 ## Evaluation Criteria
 
-TBA
+TBA - hosted/deployed, at least three main pages, navigation links to all main pages, creative content and design, simple/usable design

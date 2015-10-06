@@ -16,11 +16,9 @@ name | weight | comments
 [Diagrams](assignments/lab/diagrams.md) | (30% * 5%) | in-class
 [Basic Data Processing (Spreadhsheets) Assignment](assignments/lab/data-processing.md) | (30% * 10%) | take-home
 [Advanced Data Processing (Spreadhsheets) Assignment](assignments/lab/advanced-data-processing.md) | (30% * 10%) | in-class
-[Database Management Software](assignments/lab/database-management-software.md) | (30% * 5%) | in-class
-[Data Analysis](assignments/lab/data-analysis.md) | (30% * 10%) | in-class
-[Relational Data Analysis](assignments/lab/relational-data-analysis.md) | (30% * 10%) | in-class
-[Data Forms and Reports](assignments/lab/data-forms-and-reports.md) | (30% * 10%) | take-home
-[Data Dashboards](assignments/lab/data-dashboards.md)| (30% * 5%) | take-home
+[Database Management Software (DBMS)](assignments/lab/database-management-software.md) | (30% * 10%) | in-class
+[Basic Data Analysis (SQL)](assignments/lab/data-analysis.md) | (30% * 15%) | take-home
+[Advanced/Relational Data Analysis (SQL)](assignments/lab/relational-data-analysis.md) | (30% * 15%) | take-home
 [Personal Website](assignments/lab/personal-website.md) | (30% * 25%) | take-home
 
 ## Group Project Assignments
