@@ -6,7 +6,7 @@ TBA - Make a website for any productive personal or business purpose.
 
 ## Submission Instructions
 
-TBA - Submit a link to your website through Blackboard.
+Submit a link to your website through Blackboard.
 
 ## Evaluation Criteria
 

@@ -113,9 +113,10 @@ Assignment(s):
 
 duration (mins) | usage
 --- | ---
-70 | Data Analysis (SQL) Lecture
+30 | Physical Database Design Lecture
+50 | Data Analysis (SQL) Lecture
 10 | Break
-70 | Data Analysis Lab
+50 | Data Analysis Lab
 
 Assignment(s):
 
@@ -139,14 +140,14 @@ Assignment(s):
 
 duration (mins) | usage
 --- | ---
-90 | Relational Database Design Lecture
+70 | Conceptual and Logical Database Design Lecture
 10 | Break
-50 | Entity Relationship Diagramming (ERD) Lab, including in-class assignment
+70 | Entity Relationship Diagramming (ERD) Lab, including in-class assignment
 
 Assignment(s):
 
  + [Relational Data Analysis Lab Assignment](assignments/lab/relational-data-analysis.md) (Due)
- + [ERD Lab Assignment](assignments/lab/relational-data-analysis.md) (Given and Due)
+ + [ERD Lab Assignment](assignments/lab/entity-relationship-diagram.md) (Given and Due)
 
 
 
