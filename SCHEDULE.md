@@ -113,10 +113,10 @@ Assignment(s):
 
 duration (mins) | usage
 --- | ---
-30 | Physical Database Design Lecture
-50 | Data Analysis (SQL) Lecture
-10 | Break
-50 | Data Analysis Lab
+70 | Data Analysis (SQL) Lecture
+15 | Group Project Resources Guest Lecture by representative from GW Office of Entrepreneurship
+15 | Break
+40 | Data Analysis Lab combined with SQL Aggregates Lecture
 
 Assignment(s):
 
@@ -140,7 +140,8 @@ Assignment(s):
 
 duration (mins) | usage
 --- | ---
-70 | Conceptual and Logical Database Design Lecture
+10 | Physical Database Design Lecture
+60 | Conceptual and Logical Database Design Lecture
 10 | Break
 70 | Entity Relationship Diagramming (ERD) Lab, including in-class assignment
 
