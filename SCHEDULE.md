@@ -126,24 +126,25 @@ Assignment(s):
 
 duration (mins) | usage
 --- | ---
-70 | Relational Data Analysis (SQL) Lecture
+30 | Relational Data Analysis (SQL) Lecture
+60 | Relational Data Analysis Lab
+50 | Group Project and Assignment Support
 10 | Break
-70 | Relational Data Analysis Lab
 
 Assignment(s):
 
  + [Data Analysis (SQL) Lab Assignment](assignments/lab/data-analysis.md) (Due)
  + [Relational Data Analysis Lab Assignment](assignments/lab/relational-data-analysis.md) (Given)
 
-
 ### Week 10 - 11/2/15
 
 duration (mins) | usage
 --- | ---
-10 | Physical Database Design Lecture
-60 | Conceptual and Logical Database Design Lecture
+20 | Physical Database Design Lecture
+25 | Conceptual Database Design Lecture
+25 | Logical Database Design Lecture
 10 | Break
-70 | Entity Relationship Diagramming (ERD) Lab, including in-class assignment
+70 | Group Project Support - Data Modeling and Entity Relationship Diagramming (group assignment)
 
 Assignment(s):
 
