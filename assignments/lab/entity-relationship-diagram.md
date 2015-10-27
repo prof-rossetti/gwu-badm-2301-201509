@@ -6,10 +6,8 @@ Reference [Database Design notes](https://github.com/gwu-business/istm-4121/blob
 
 Work in project groups. Choose a [business prompt example](https://github.com/gwu-business/istm-4121/tree/master/resources/group-project/examples),
  or use the content of your [midterm pitch](/assignments/group-project/midterm-pitch.md).
-
-Given existing information system planning and analysis, design a database to store system data.
-
-Translate business logic and information requirements into database concepts. Identify Entities and Relationships within the scope of your system, then draw an Entity Relationship Diagram (ERD) to communicate the concepts in visual form.
+  Given this existing information system planning and analysis, design a database to store system data.
+  Translate business logic and system information requirements into database concepts. Identify Entities and Relationships within the scope of your system, then draw an Entity Relationship Diagram (ERD) to communicate the concepts in visual form.
 
 ### Expectations
 
