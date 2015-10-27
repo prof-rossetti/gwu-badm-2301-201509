@@ -56,33 +56,32 @@ How does the system capture and store data, and how does the system process data
 Use the organizational structure
 
 
- + Executive Summary
- + Business Problem Identification
-   + As-Is Process Description and Diagram
- + Description of three potential solutions
- + Identification of a single IS solution
-   + To-be Process Description, including Diagram
-   + Information System Analysis:
-     + System Description
-     + System Purpose and
-     + System Justification (quantifiable)
-     + Information Requirements
-       + Information Inputs
-       + Information Outputs
-     + Privacy and Security Concerns
-     + Implementation and Adoption Plan
-     + Components (description and estimated costs of each):
-       + Interface and User Considerations
-         + System Prototype Screenshots/ Mock-ups
-       + Hardware
-       + Software
-       + Networks
-         + Network Diagram
-       + Datastore
-         + Relational Database Design:
-            + Entity Descriptions
-            + Relationship Descriptions
-            + Entity-Relationship Diagram (ERD)
+  + Executive Summary
+  + Business Problem Identification
+    + As-Is Process Description and Diagram
+  + Description of three potential solutions
+  + Identification of a single information system solution
+    + To-be Process Description, including Diagram
+    + Information System Analysis:
+      + System Description
+      + System Purpose and
+      + System Justification (quantifiable)
+      + Information Requirements
+        + Information Inputs
+        + Information Outputs
+      + Privacy and Security Concerns
+      + Implementation and Adoption Plan
+      + Components (description and estimated costs of each):
+         + Interface and User Considerations
+           + System Prototype Screenshots/ Mock-ups
+         + Hardware
+         + Software
+         + Networks
+           + Network Diagram
+         + Datastore and Relational Database Design
+           + Entity Descriptions
+           + Relationship Descriptions
+           + Entity-Relationship Diagram (ERD)
 
 Provide any additional information pertinent to describing your information system solution and demonstrating its ability to solve the business problem and provide value.
 
