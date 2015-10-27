@@ -38,8 +38,8 @@ What hardware (e.g. personal computers, web servers, mobile phones, tablets, sen
 
 #### Software
 
-What software (e.g. proprietary applications, software as a service, etc.) will provide the operating logic for the system,
- and what programming languages and frameworks, if any, are involved?
+What software (e.g. proprietary applications, software as a service, etc.) will instruct system logic,
+ and what operating systems and programming languages and frameworks, if any, are involved?
 
 #### Networks
 
