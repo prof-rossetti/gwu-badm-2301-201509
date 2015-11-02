@@ -4,7 +4,7 @@ Reference [Database Design notes](https://github.com/gwu-business/istm-4121/blob
 
 ## Description
 
-Reference this [example relational dataset](https://github.com/gwu-business/radio-data/tree/master/data).
+Reference this [example relational dataset](https://github.com/gwu-business/radio-data/tree/master/data) and a simplified version of its [table design](https://github.com/gwu-business/istm-4121/blob/master/resources/exams/midterm/tables.md).
 
 List all entities and relationships.
 
