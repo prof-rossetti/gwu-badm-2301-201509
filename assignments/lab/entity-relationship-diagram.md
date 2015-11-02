@@ -34,7 +34,7 @@ Your ERD should:
 
 ## Submission Instructions
 
-Submit a .pdf diagram to [Blackboard](https://blackboard.gwu.edu/webapps/assignment/uploadAssignment?content_id=_6900022_1&course_id=_260292_1&assign_group_id=&mode=cpview).
+Submit a .pdf diagram to [Blackboard](https://blackboard.gwu.edu/webapps/assignment/uploadAssignment?content_id=_6904763_1&course_id=_260292_1&assign_group_id=&mode=cpview).
 
 ## Evaluation Criteria
 

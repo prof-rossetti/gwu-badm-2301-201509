@@ -140,58 +140,67 @@ Assignment(s):
 
 duration (mins) | usage
 --- | ---
-30 | Data Analysis Exercises
-10 | Physical Database Design Lecture
-10 | Conceptual Database Design Lecture
+30 | Physical Database Design Lecture
+30 | Conceptual Database Design Lecture
 10 | Database Diagramming Lecture
-20 | Logical Database Design Lecture
 10 | Break
-60 | Database Design Exercise
+70 | Database Diagramming Support
 
 Assignment(s):
 
  + [Relational Data Analysis Lab Assignment](assignments/lab/relational-data-analysis.md) (Due)
  + [ERD Assignment](assignments/lab/entity-relationship-diagram.md) (Given)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## Module III - Websites
-
 ### Week 11 - 11/9/15
 
 duration (mins) | usage
 --- | ---
-50 | Networks Lecture
+40 | Logical Database Design Lecture
+40 | Database Design Exercise
 10 | Break
-90 | HTML Lab
+60 | Group Project Database Design Support
 
 Assignment(s):
 
  + [ERD Assignment](assignments/lab/entity-relationship-diagram.md) (Due)
- + [Personal Website Lab Assignment](assignments/lab/personal-website.md) (Given)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Module III - Internet Computing
 
 ### Week 12 - 11/16/15
 
 duration (mins) | usage
 --- | ---
-50 | Software Lecture
+20 | Networks and Protocols Lecture
+30 | Software Lecture
 10 | Break
-90 | Javascript Lab
+90 | HTML, CSS, and JavaScript Lab
 
-Assignment(s): TBA
+Assignment(s):
+
+ + [Personal Website Lab Assignment](assignments/lab/personal-website.md) (Given)
+
 
 ### Week 13 - 11/23/15
 

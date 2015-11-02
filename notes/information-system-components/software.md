@@ -2,9 +2,29 @@
 
 proprietary applications, software as a service, operating systems, etc.
 
-version control
+## Native
 
-project management
+## Client-server
+
+
+
+
+
+## Other Considerations
+
+### Programming Languages
+
+
+### Application Frameworks
+
+### Source Code Version Control
+
+### Project Management
+
+
+
+
+<br>
 
 Additional Resources:
 
