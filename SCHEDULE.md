@@ -140,16 +140,18 @@ Assignment(s):
 
 duration (mins) | usage
 --- | ---
-20 | Physical Database Design Lecture
-25 | Conceptual Database Design Lecture
-25 | Logical Database Design Lecture
+30 | Data Analysis Exercises
+10 | Physical Database Design Lecture
+10 | Conceptual Database Design Lecture
+10 | Database Diagramming Lecture
+20 | Logical Database Design Lecture
 10 | Break
-70 | Group Project Support - Data Modeling and Entity Relationship Diagramming (group assignment)
+60 | Database Design Exercise
 
 Assignment(s):
 
  + [Relational Data Analysis Lab Assignment](assignments/lab/relational-data-analysis.md) (Due)
- + [ERD Lab Assignment](assignments/lab/entity-relationship-diagram.md) (Given and Due)
+ + [ERD Assignment](assignments/lab/entity-relationship-diagram.md) (Given)
 
 
 
@@ -172,44 +174,50 @@ Assignment(s):
 
 duration (mins) | usage
 --- | ---
-70 | Websites I (HTML) Lecture
+50 | Networks Lecture
 10 | Break
-70 | HTML Lab
+90 | HTML Lab
 
 Assignment(s):
 
+ + [ERD Assignment](assignments/lab/entity-relationship-diagram.md) (Due)
  + [Personal Website Lab Assignment](assignments/lab/personal-website.md) (Given)
 
 ### Week 12 - 11/16/15
 
 duration (mins) | usage
 --- | ---
-70 | Websites II (CSS and JavaScript) Lecture
+50 | Software Lecture
 10 | Break
-70 | Javascript and CSS Lab
+90 | Javascript Lab
 
-> No assignments given or due.
+Assignment(s): TBA
 
 ### Week 13 - 11/23/15
 
 duration (mins) | usage
 --- | ---
-70 | Websites III (Version Control, Deployment, Hosting, Networks, Hardware) Lecture
+50 | Hardware Lecture (including Security and Privacy)
 10 | Break
-70 | Website Deployment Lab
+45 | Command-line Computing Lab
+45 | SSH Lab
 
-> No assignments given or due.
+Assignment(s): TBA
+
+
+
 
 
 ### Week 14 - 11/30/15
 
 duration (mins) | usage
 --- | ---
-70 | TBA - Security, Privacy, and Ethics Lecture
+70 | TBA - Interfaces or Data Visualization
 10 | Break
 70 | Group Project Support
 
-> No assignments given or due.
+Assignment(s): TBA
+
 
 
 

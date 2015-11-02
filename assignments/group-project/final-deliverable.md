@@ -43,7 +43,7 @@ What software (e.g. proprietary applications, software as a service, etc.) will 
 
 ##### Networks
 
-What networking and communications technologies and protocols (e.g. HTTP, SSH, FTP, SMTP, WiFi, Bluetooth, WAN, LAN, VPN, broadband, fiber, etc.) does the system require?
+What networking and communications technologies and protocols (e.g. HTTP, SSH, FTP, SMTP, WiFi, Bluetooth, WAN, LAN, VPN, etc.) does the system require?
 
 ##### Datastore
 
