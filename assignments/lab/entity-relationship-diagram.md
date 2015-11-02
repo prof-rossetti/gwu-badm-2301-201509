@@ -4,10 +4,18 @@ Reference [Database Design notes](https://github.com/gwu-business/istm-4121/blob
 
 ## Description
 
-Work in project groups. Choose a [business prompt example](https://github.com/gwu-business/istm-4121/tree/master/resources/group-project/examples),
- or use the content of your [midterm pitch](/assignments/group-project/midterm-pitch.md).
-  Given this existing information system planning and analysis, design a database to store system data.
-  Translate business logic and system information requirements into database concepts. Identify Entities and Relationships within the scope of your system, then draw an Entity Relationship Diagram (ERD) to communicate the concepts in visual form.
+Reference this [example relational dataset](https://github.com/gwu-business/radio-data/tree/master/data).
+
+List all entities and relationships.
+
+Describe in English
+    any relationships,
+    desired/observed data characteristics,
+    and business assumptions.
+
+Sketch/draw by hand an ERD on paper or a whiteboard.
+
+Leverage a digital diagramming tool of choice to convert your ERD to electronic form.
 
 ### Expectations
 
@@ -26,12 +34,12 @@ Your ERD should:
 
 ## Submission Instructions
 
-Submit a single .pdf diagram per group to [Blackboard](https://blackboard.gwu.edu/webapps/assignment/uploadAssignment?content_id=_6900022_1&course_id=_260292_1&assign_group_id=&mode=cpview).
+Submit a .pdf diagram to [Blackboard](https://blackboard.gwu.edu/webapps/assignment/uploadAssignment?content_id=_6900022_1&course_id=_260292_1&assign_group_id=&mode=cpview).
 
 ## Evaluation Criteria
 
 Full credit for a clear and comprehensive visual database design representation which fulfills the assignment expectations.
 
-Else partial credit may be given to reflect areas of improvement.
+Else partial credit may be given to reflect areas needing improvement.
 
 Else no credit.
