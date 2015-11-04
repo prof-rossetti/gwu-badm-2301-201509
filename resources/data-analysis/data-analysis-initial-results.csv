@@ -1,0 +1,41 @@
+criteria:,1 for summary of analytical findings at the top; else 0.7 for summary at the bottom;  else 0.7 for factual findings presented but not summarized; else 0.7 for want of thoroughness; else 0.5 for dataset description or other summary;,1 for description of manual processes as well as accompanying error-free SQL which directly produces justification for factual findings; else 0.8 for errors; else 0.8 for minor want of additional link between SQL results and factual findings; else 0.5 for gaps between SQL results and factual findings; else 0.5 for major errors; else 0.5 for unidentified dataset,"1 for all clauses (SELECT, FROM, WHERE, GROUP BY, ORDER BY, and either LIMIT or TOP); else 0.9 for missing a TOP or LIMIT; else 0.8 for missing a GROUP BY; else 0.6 for missing GROUP BY and TOP/LIMIT); else 0.5 for missing GROUP BY, ORDER BY, and TOP/LIMIT",,
+student_id,exec_summary,repeatable,all_clauses,dba_grade,dba_comment
+16,1,0.9,1,96.7%,great exec summary; great job overall; nice HAVING clause; good use of functions
+28,1,0.8,1,93.3%,"great exec summary - feel free to provide more detail in some places, for example, what is the name of that one park that has volleyball?; be careful what you count; use TOP in conjunction with ORDER BY for more value;"
+23,1,0.8,1,93.3%,be careful what you count; nice HAVING clause; use TOP in conjunction with ORDER BY; do all these queries execute without error?; good use of functions
+38,1,1,0.6,86.7%,good clarity of language; good exec summary; description of SQL topics is not necessary; translate your manual sorting and filtering into SQL - demonstrate use of GROUP BY and ORDER BY and TOP
+32,0.7,0.8,1,83.3%,"organize factual findings into exec summary; translate manual actions like filtering into repeatable SQL; good grouping and counting, but is count() the right function to use when summing monetary values?"
+25,1,0.7,0.8,83.3%,"cool dataset, although it does not respond well to grouping; be careful about bringing in outside information to your analysis without citations;  demonstrate GROUP BY clause; be careful about what you are counting and double check to make sure the SQL results correspond directly with your findings."
+30,1,0.7,0.8,83.3%,good exec summary; using TOP does not work the way you think it does unless you also ORDER BY a **numeric** field; demonstrate use of a GROUP BY clause; practice using multiple WHERE clause conditions
+14,1,0.8,0.6,80.0%,good exec summary; demonstrate use of GROUP BY and TOP/LIMIT; strengthen repeatable support of factual findings
+7,0.7,1,0.6,76.7%,organize factual findings into a summary at the beginning; demonstrate use of GROUP BY as well as TOP/LIMIT
+39,0.5,0.9,0.9,76.7%,"awesome dataset; summarize findings in exec summary - what was the result/outcome of your analysis?; can use equality operator instead of LIKE operator (e.g. `WHERE state = 'DC'`); be careful about what question you are answering - you need to use a count() function to answer questions of 'how many'; show division, averaging, and other calculations in SQL form to enhance repeatable-ness of this submission; using TOP like that doesn't do what you describe unless you order by date descending (unless you included this and the text got cut off on the bottom of page 2?);"
+15,1,0.8,0.5,76.7%,good exec summary; demonstrate GROUP BY and ORDER BY and TOP
+34,1,0.5,0.8,76.7%,good inquisitive instincts - more SQL practice can expand the scope and value of the findings you present; demonstrate GROUP BY; 
+21,0.9,0.5,0.9,76.7%,"good exec summary, but where did you get that population information? - you may have to cite external source(s)... what is the degree to which the populations of those states differ and how does that compare to the differences in complaint volumes you describe?; demonstrate use of either TOP or LIMIT clause; be careful what you are counting; you can translate those manual filtering activities into SQL!; see if you can remove some unnecessary parentheses from your queries; does the counting query Q3.1 run without error and produce the result you are expecting?"
+2,0.7,0.8,0.8,76.7%,be careful about expecting strings to behave like numbers; where did you find that info about the meaning of each service_type?; strengthen the link between factual findings and SQL results which produce those findings; be careful about bringing in outside information without citation - for example how do you know what the population of each state is?; demonstrate use of GROUP BY
+31,0.7,0.5,1,73.3%,"where did the data come from? - please include URL;  good grouping and counting, but be careful what you count; use TOP in conjunction with ORDER BY for additional value"
+26,0.7,0.5,0.9,70.0%,"where did the data come from? - please include URL; see if you can remove some unnecessary parentheses from your queries; see if you can make your exec summary more succinct by moving elsewhere the discussion of analytical methodologies; practice using a WHERE clause with multiple conditions to update the first query such that it directly produces an answer to the question you pose; if your queries are answering questions of quantity, you need to use a count() function; demonstrate use of LIMIT or TOP clause, perhaps most appropriately in Q3; the blurry images detract from the quality of the submission; be careful what you count;"
+33,0.5,1,0.5,66.7%,cool dataset; present factual findings in exec summary; demonstrate use of additional clauses
+11,1,0.5,0.5,66.7%,"good exec summary; demonstrate use of additional clauses; strengthen link between SQL queries and factual findings - for example use a count() function to produce a repeatable result, instead of using eyeballs"
+8,0,1,0.9,63.3%,summarize the outcomes/results of what you learned instead of the virtues of SQL vs spreadsheets in an exec summary; be careful what you count; it would be more useful to find the maximum purchase amount than the maximum object identifier; TOP is more useful in conjunction with an ORDER BY clause to find the most or least X records given some condition...
+5,0.7,0.5,0.6,60.0%,demonstrate proper use of GROUP BY and TOP
+12,0.7,0.5,0.5,56.7%,use SQL to directly answer the questions and provide justifications for factual conclusions; demonstrate grouping and sorting
+3,0,0.8,0.8,53.3%,be careful not to make sweeping statements or generalizations; present factual findings in the exec summary; be careful not to use outside information without citations; demonstrate use of GROUP BY
+35,0,1,0.5,50.0%,"summarize results/outcomes of factual findings in an executive summary; demonstrate GROUP BY, ORDER BY, and either LIMIT/TOP clauses;"
+29,0,0.8,0.5,43.3%,present factual findings in an exec summary; demonstrate use of additional clauses; does the query run without error?
+1,0,0.5,0.5,33.3%,"cool dataset; summarize results/outcomes of factual findings in an executive summary; demonstrate GROUP BY, ORDER BY, and either LIMIT/TOP clauses; be careful about assuming the definitions of the different risk categories - how can you tell what the categories mean?; does the query you wrote run without error and does it do what you say it does? - you might have to use string functions to parse the risk category number from that text field..."
+27,0.5,0,0,16.7%,small image size detracts from submission quality - SQL is unreadable
+20,0,0,0.5,16.7%,"small query text size detracts from submission, although it is possible to see existence of SELECT, FROM, and WHERE clauses; organize factual findings into an exec summary"
+10,0,0,0,0.0%,assignment not submitted
+18,0,0,0,0.0%,assignment not submitted
+24,0,0,0,0.0%,assignment not submitted
+17,0,0,0,0.0%,assignment not submitted
+6,0,0,0,0.0%,assignment not submitted
+13,0,0,0,0.0%,assignment not submitted
+4,0,0,0,0.0%,assignment not submitted
+19,0,0,0,0.0%,assignment not submitted
+37,0,0,0,0.0%,assignment not submitted
+9,0,0,0,0.0%,assignment not submitted
+36,0,0,0,0.0%,assignment not submitted
+22,0,0,0,0.0%,assignment not submitted
