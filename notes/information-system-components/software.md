@@ -1,6 +1,6 @@
 # Software
 
-**Software** refers to one or more programs which "enable the hardware to process data" ([1, TG2](/README.md/#accompanying-textbook)).
+**Software** refers to one or more programs which "enable the hardware to process data" ([1, TG-2](/README.md/#accompanying-textbook)).
 
 Software provides the logic, or set of instructions, by which computers operate.
 
@@ -19,11 +19,11 @@ my-program/
 
 ### Systems Software
 
-A computer **operating System (OS)** "... supervises overall operations of the computer, allocates CPU time and main memory to programs, and provides an interface between the user and the hardware" ([TG2](/README.md/#accompanying-textbook)).
+A computer **operating System (OS)** "... supervises overall operations of the computer, allocates CPU time and main memory to programs, and provides an interface between the user and the hardware" ([TG-2](/README.md/#accompanying-textbook)).
 
 ### Application Software
 
-**Application software** "... directs a computer system to perform specific processing activities and provides functionality for users" ([TG2](/README.md/#accompanying-textbook)).
+**Application software** "... directs a computer system to perform specific processing activities and provides functionality for users" ([TG-2](/README.md/#accompanying-textbook)).
 
 Contrasted against the general purpose OS, application software often plays a more specific purpose with narrower scope.
 
@@ -31,7 +31,7 @@ Contrasted against the general purpose OS, application software often plays a mo
 
 ### Licensing
 
-**Proprietary software** has "... restrictions on its use, copy, and modification" ([TG2](/README.md/#accompanying-textbook)).
+**Proprietary software** has "... restrictions on its use, copy, and modification" ([TG-2](/README.md/#accompanying-textbook)).
 
 Whereas **Open source software (OSS)** is generally made available to developers for no cost under "a license in which the copyright holder provides the rights to study, change, and distribute the software to anyone and for any purpose" ([St Laurent](https://en.wikipedia.org/wiki/Open-source_software#cite_note-1)).
 
