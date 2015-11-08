@@ -75,13 +75,14 @@ Additional Resources:
  + https://en.wikipedia.org/wiki/Threat_(computer)
  + http://www.techrepublic.com/blog/it-security/understanding-risk-threat-and-vulnerability/
 
-Recent Hacks in the News:
+Notable and Recent Hacks in the News:
 
- + https://en.wikipedia.org/wiki/Sarah_Palin_email_hack
+ + http://www.informationisbeautiful.net/visualizations/worlds-biggest-data-breaches-hacks/
+ + https://en.wikipedia.org/wiki/Data_breach#Major_incidents
+ + https://en.wikipedia.org/wiki/Ashley_Madison_data_breach
+ + https://en.wikipedia.org/wiki/Office_of_Personnel_Management_data_breach
  + https://en.wikipedia.org/wiki/Sony_Pictures_Entertainment_hack
- + https://www.washingtonpost.com/news/federal-eye/wp/2015/07/09/what-you-need-to-know-about-the-hack-of-government-background-investigations/
- + http://www.theguardian.com/technology/2015/sep/23/us-government-hack-stole-fingerprints
-
+ + https://en.wikipedia.org/wiki/Sarah_Palin_email_hack
 
 Protect your accounts with MFA:
 
