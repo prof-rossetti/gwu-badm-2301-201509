@@ -30,14 +30,14 @@ Ultimately, information security and privacy practitioners rely on principles of
 
 ### Access Controls
 
-**Access controls** "restrict unauthorized individuals' (access to and) use of information resources ([Rainer 4.5](/README.md/#accompanying-textbook)).
+**Access controls** "restrict unauthorized individuals' (access to and) use of information resources" ([Rainer 4.5](/README.md/#accompanying-textbook)).
 
 #### Authentication
 
 **Authentication** is "a process which determines the identity of the person requesting access" ([Rainer 4.5](/README.md/#accompanying-textbook)).
 
 Multi-Factor Authentication (MFA), or two-step authentication, is
- "a simple best practice that adds an extra layer of protection on top of your user name and password. With MFA enabled, when a user signs in ..., they will be prompted for their user name and password (the first factor—what they know), as well as for an authentication code from their ... MFA device (the second factor—what they have). Taken together, these multiple factors provide increased security... ([Amazon](https://aws.amazon.com/iam/details/mfa/)).
+ "a simple best practice that adds an extra layer of protection on top of your user name and password. With MFA enabled, when a user signs in, ... they will be prompted for their user name and password (the first factor — what they know), as well as for an authentication code from their ... MFA device (the second factor — what they have). Taken together, these multiple factors provide increased security... ([Amazon](https://aws.amazon.com/iam/details/mfa/)).
 
 
 
@@ -62,11 +62,16 @@ A **firewall** "prevents unauthorized users from accessing private networks ... 
 
 #### Encryption
 
-Public Key Encryption
+##### Public Key Encryption
 
-Certificate Authorities
+A **key pair** consists of a **public key** file often named `id_rsa.pub`
+ which may be shared or otherwise transmitted over computer networks, as well as
+ a **private key** file often named `id_rsa` which should NEVER be shared or otherwise transmitted over computer networks.
 
-End-to-end Encryption - SSL/TLS
+#### Certificate Authorities
+
+#### End-to-end Encryption - SSL/TLS
+
 
 <hr>
 
@@ -88,3 +93,7 @@ Protect your accounts with MFA:
 
  + https://support.google.com/accounts/answer/1066447?hl=en
  + https://aws.amazon.com/iam/details/mfa/
+
+Generate a public/private key pair:
+
+ + https://help.github.com/articles/generating-ssh-keys/

@@ -2,13 +2,12 @@
 
 A **computer network** is a "system (of) connect(ed) computers and (computer hardware)"
  which use "communications media" to transmit data
-  to other computers in the network ([6.1](/README.md/#accompanying-textbook)).
+  to other members in the network ([Rainer 6.1](/README.md/#accompanying-textbook)).
 
 ## Communications Media
 
-**Communications media** refer to the "pathways or (methods)" by which data are transmitted.
-
-Cable media transmit information over physical wires or cables, whereas broadcast media transmit information through electromagnetic waves.
+**Communications media** refer to the pathways, or methods, by which data are transmitted.
+ Cable media transmit information over physical wires or cables, whereas broadcast media transmit information through electromagnetic waves.
 
 ### Cable Media
 
@@ -38,7 +37,7 @@ Computer networks are often described in terms of size:
 
 network size | description | example(s)
 --- | --- | ---
-Personal Area Network (PAN) | two ore more devices in a very limited geographical region, usually within the same room | bluetooth connection between headphones and mobile phone
+Personal Area Network (PAN) | Two ore more devices in a very limited geographical region, usually within the same room | a bluetooth connection between headphones and mobile phone
 Local Area Network (LAN) | "two or more devices in a limited geographical region, usually within the same building" ([Rainer 6.1](/README.md/#accompanying-textbook)) | a home WiFi network
 Wide Area Network (WAN) | "covers a large geographic region; typically connects multiple LANs" ([Rainer 6.1](/README.md/#accompanying-textbook)) | a university network (e.g. GWireless); the Internet
 
@@ -46,7 +45,7 @@ The **Internet** is a very very large computer network.
 
 ## Network Protocols
 
-Computers connected to the Internet communicate according to a "common set of rules and procedures", or [protocols](protocols.md) ([6.1](/README.md/#accompanying-textbook)).
+Computers connected to the Internet communicate according to a "common set of rules and procedures", or [protocols](protocols.md) ([Rainer 6.1](/README.md/#accompanying-textbook)).
 
 ## Network Security
 

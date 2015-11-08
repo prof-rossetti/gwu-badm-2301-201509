@@ -1,6 +1,6 @@
 # Protocols
 
-## HTTP
+## HTTP/HTTPS
 
 ## FTP
 
@@ -8,19 +8,7 @@
 
 ## SSH
 
-### Key Pairs
 
-#### Public Key
-
-Often named `id_rsa.pub`.
-
-You may share your public key online.
-
-#### Private Key
-
-Often named `id_rsa`.
-
-Never share your private key or transmit over a computer network.
 
 <hr>
 
