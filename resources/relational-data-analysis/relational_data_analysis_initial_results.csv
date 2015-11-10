@@ -1,0 +1,41 @@
+,"0.8 for findings which could benefit from quantification; 0.7 for summary at the bottom or sprinkled around and/or presence of factual findings, and/or sparse findings and/or findings needing quantification",0.8 for minor repeatability concerns; else 0.6 for gap between factual findings and query results; else 0.4 for major repeatability concerns,1 for demonstrations of inner join and outer join; else 0.8 for improper join syntax or conditions; else 0.7 for multiple instances of improper syntax or conditions; else 0.5 for either; else 0.4 for both joins but each with improper syntax; else 0.3 for lacking one type of join and the other having improper syntax,,
+student_id,exec_summary,repeatable,inner_and_outer_join,rdba_grade,rdba_comment
+16,1,1,1,100.0%,nice grouping and counting
+38,1,0.8,1,93.3%,"if answering a questions of quantity, perform SQL count() in favor of eyeball counting"
+28,1,0.8,1,93.3%,cool dataset; good exec summary; please paste SQL text or increase screenshot zoom level; improve repeatability by using WHERE clause for filtering instead of eyeball-filtering
+15,1,0.8,1,93.3%,"good demonstration of selecting distinct - try using it in conjunction with a group by statement to maximize confidence in the result; can use equality operator in where clause ... WHERE score = 100; if answering a questions of quantity, perform SQL count() in favor of eyeball counting; check your from clause in query 3;"
+33,1,0.8,1,93.3%,good use of LIKE to parse that violation code attribute; can you replicate in SQL your manual math (like counting and finding percentages) to make your findings more repeatable?
+32,1,0.8,1,93.3%,good exec summary; can you replicate in SQL your manual math (like counting and finding percentages) to make your findings more repeatable?
+39,0.7,0.9,1,86.7%,"summarize factual findings in an exec summary at the beginning; if answering a questions of quantity, perform SQL count() in favor of eyeball counting;"
+21,0.8,0.8,1,86.7%,"good exec summary - can you add specific numbers to quantify your findings?; good counting - make sure to do so for all questions of quantity, for example you might be able to use a subquery to fully connect query 3 with your finding about '223 businesses receiving a perfect score from the commission'"
+25,1,0.6,1,86.7%,"not all businesses have been inspected?; if answering a questions of quantity, perform SQL count() in favor of eyeball counting to improve repeatability;"
+2,1,0.6,1,86.7%,be careful what you count; strengthen SQL support for factual findings (e.g. finding averages)
+7,0.7,0.8,1,83.3%,"all businesses don't have names?; if answering a questions of quantity, perform SQL count() in favor of eyeball counting; summarize findings at the beginning;"
+26,1,0.9,0.5,80.0%,"cool dataset; use precise language - ton means 2000 lbs; do you assume all businesses in the city are represented in this dataset?; if answering a questions of quantity, perform SQL count() in favor of eyeball counting; good demonstration of the outer join with null checking; demonstrate use of an inner join;"
+30,1,0.6,0.5,70.0%,"regarding the computer freeze - make sure you are adding indexes to speed performance as necessary; good narrative; demonstrate use of an outer join; if answering a questions of quantity, perform SQL count() in favor of eyeball counting to improve repeatability"
+14,1,0.4,0.7,70.0%,"check all queries for where clause redundancy; join on a foreign key = a primary key, not on a primary key = another primary key; fix join conditions to improve repeatability"
+23,0,1,1,66.7%,summarize factual findings in an exec summary at the beginning; good demonstration of understanding the concept of an inner join; try grouping by business_id in and averaging their scores to find the unique businesses which are the lowest (some thoughts in response to your last query)
+1,0,1,1,66.7%,summarize factual findings in an exec summary at the beginning; 
+35,0,1,1,66.7%,summarize factual findings in an exec summary at the beginning - what information did you process from the data?
+11,0.7,0.8,0.5,66.7%,summarize factual findings at the beginning; demonstrate an outer join; use the SQL count() function in favor of eyeball counting
+5,1,0.6,0.4,66.7%,strengthen SQL support for factual findings - can you create an SQL query to perform the calculations you cite in your exec summary?; check your query syntax and join syntax - do your queries execute without error?
+29,0,1,1,66.7%,summarize factual findings in an executive summary; fyi - attribute names do not directly affect the ability to use them in a join; 
+34,0.8,0.6,0.5,63.3%,good analytical instincts to turn information into knowledge; demonstrate use of an outer join; strengthen connection between SQL and summary of findings - can you write a query to produce the min and max score change for each business? and count those matching some criteria?; good repeatability otherwise; expand factual findings to include more quantifiable analysis
+31,0.7,0.4,0.7,60.0%,"organize factual findings into an exec summary which is separate from the SQL; check your counting and grouping - if you're going to count ids, group by another attribute else you will get a count of one id per each id; check query syntax - does each execute without error?; check your join from inspections to violations - do you need a different join condition?;"
+12,0.7,0.4,0.3,46.7%,practice join conditions; demonstrate use of outer join; summarize factual findings at the beginning;
+20,0,0.4,0.7,36.7%,summarize factual findings in an exec summary; check your join conditions and syntax; fix syntax and make sure your queries run to improve repeatability
+27,0.7,0,0,23.3%,please paste SQL text or increase screenshot zoom level (I cannot see your queries);
+10,0,0,0,0.0%,assignment not yet submitted
+18,0,0,0,0.0%,assignment not yet submitted
+24,0,0,0,0.0%,assignment not yet submitted
+17,0,0,0,0.0%,assignment not yet submitted
+6,0,0,0,0.0%,assignment not yet submitted
+13,0,0,0,0.0%,assignment not yet submitted
+3,0,0,0,0.0%,assignment not yet submitted
+8,0,0,0,0.0%,assignment not yet submitted
+4,0,0,0,0.0%,assignment not yet submitted
+19,0,0,0,0.0%,assignment not yet submitted
+37,0,0,0,0.0%,assignment not yet submitted
+9,0,0,0,0.0%,assignment not yet submitted
+36,0,0,0,0.0%,assignment not yet submitted
+22,0,0,0,0.0%,assignment not yet submitted
