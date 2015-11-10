@@ -1,9 +1,9 @@
 # Information Security and Privacy
 
 **Security** refers to protection from
- "unauthorized access, use, disclosure, disruption, modification, or destruction" of information resources ([Rainer 4.1](/README.md/#accompanying-textbook)).
+ "unauthorized access, use, disclosure, disruption, modification, or destruction" of information resources.
 
-**Privacy** is "the right to be left alone and to be free of unreasonable personal intrusion" ([Rainer 4.5](/README.md/#accompanying-textbook)).
+**Privacy** is "the right to be left alone and to be free of unreasonable personal intrusion".
 
 Threats, or dangers, to information resource security and privacy
  generally include intentional or unintentional actions like
@@ -22,7 +22,7 @@ Ultimately, information security and privacy practitioners rely on principles of
 
 ### Physical Controls
 
-**Physical controls** "prevent unauthorized individuals from gaining access" ([Rainer 4.5](/README.md/#accompanying-textbook)), e.g. locks, walls, guards, alarm systems, login attempt limiting, etc.
+**Physical controls** "prevent unauthorized individuals from gaining access", e.g. locks, walls, guards, alarm systems, login attempt limiting, etc.
 
 
 
@@ -30,11 +30,11 @@ Ultimately, information security and privacy practitioners rely on principles of
 
 ### Access Controls
 
-**Access controls** "restrict unauthorized individuals' (access to and) use of information resources" ([Rainer 4.5](/README.md/#accompanying-textbook)).
+**Access controls** "restrict unauthorized individuals' (access to and) use of information resources".
 
 #### Authentication
 
-**Authentication** is "a process which determines the identity of the person requesting access" ([Rainer 4.5](/README.md/#accompanying-textbook)).
+**Authentication** is "a process which determines the identity of the person requesting access".
 
 Multi-Factor Authentication (MFA), or two-step authentication, is
  "a simple best practice that adds an extra layer of protection on top of your user name and password. With MFA enabled, when a user signs in, ... they will be prompted for their user name and password (the first factor — what they know), as well as for an authentication code from their ... MFA device (the second factor — what they have). Taken together, these multiple factors provide increased security... ([Amazon](https://aws.amazon.com/iam/details/mfa/)).
@@ -44,7 +44,7 @@ Multi-Factor Authentication (MFA), or two-step authentication, is
 
 #### Authorization
 
-**Authorization** "determines (the permissable) actions, rights, or privileges (of an individual who has verified his/her) identity" ([Rainer 4.5](/README.md/#accompanying-textbook)).
+**Authorization** "determines (the permissable) actions, rights, or privileges (of an individual who has verified his/her) identity".
 
 The **Principle of Least Privilege** calls for granting a privilege to an individual only if the individual's need is justified. In other words, start from a situation in which no one has any privileges, and add them one-by-one as necessary. Contrast this against an open permission structure by which everyone starts with all privileges and they are revoked one-by-one as necessary.
 
@@ -58,7 +58,7 @@ Role-based Permissions
 
 #### Firewalls
 
-A **firewall** "prevents unauthorized users from accessing private networks ... or certain parts of private networks" ([Rainer 4.5](/README.md/#accompanying-textbook)).
+A **firewall** "prevents unauthorized users from accessing private networks ... or certain parts of private networks".
 
 #### Encryption
 
@@ -74,6 +74,11 @@ A **key pair** consists of a **public key** file often named `id_rsa.pub`
 
 
 <hr>
+
+Reference:
+
+ +  Quotes based on [Rainer 4.1, 4.5](/README.md/#accompanying-textbook) unless otherwise noted
+
 
 Additional Resources:
 

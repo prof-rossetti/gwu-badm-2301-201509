@@ -1,6 +1,6 @@
 # Software
 
-**Software** refers to one or more programs which "enable the hardware to process data" ([Rainer 1, TG-2](/README.md/#accompanying-textbook)).
+**Software** refers to one or more programs which "enable the hardware to process data".
 
 Software provides the logic, or set of instructions, by which computers operate.
 
@@ -19,11 +19,11 @@ my-program/
 
 ### Systems Software
 
-A computer **Operating System (OS)** "... supervises overall operations of the computer, allocates CPU time and main memory to programs, and provides an interface between the user and the hardware" ([Rainer TG-2](/README.md/#accompanying-textbook)).
+A computer **Operating System (OS)** "... supervises overall operations of the computer, allocates CPU time and main memory to programs, and provides an interface between the user and the hardware".
 
 ### Application Software
 
-**Application software** "... directs a computer system to perform specific processing activities and provides functionality for users" ([Rainer TG-2](/README.md/#accompanying-textbook)).
+**Application software** "... directs a computer system to perform specific processing activities and provides functionality for users".
 
 Contrasted against the general purpose OS, application software often plays a more specific purpose with narrower scope.
 
@@ -31,7 +31,7 @@ Contrasted against the general purpose OS, application software often plays a mo
 
 ### Licensing
 
-**Proprietary software** has "... restrictions on its use, copy, and modification" ([Rainer TG-2](/README.md/#accompanying-textbook)).
+**Proprietary software** has "... restrictions on its use, copy, and modification".
 
 Whereas **Open source software (OSS)** is generally made available to developers for no cost under "a license in which the copyright holder provides the rights to study, change, and distribute the software to anyone and for any purpose" ([St Laurent](https://en.wikipedia.org/wiki/Open-source_software#cite_note-1)).
 
@@ -59,6 +59,10 @@ When developing your own software, [choose a license](http://choosealicense.com/
 
 
 <br>
+
+Reference:
+
+  + Quotes based on [Rainer TG-2](/README.md/#accompanying-textbook) unless otherwise noted
 
 Additional Resources:
 
