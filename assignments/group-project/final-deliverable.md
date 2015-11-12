@@ -19,7 +19,7 @@ Describe the nature of the business problem
 ### Information System Solution
 
 Describe system objectives, functions, information requirements, and scope.
- Justify implementation of the system in terms of a cost-benefit analysis.
+ Justify implementation of the system in terms of a [net present value](https://en.wikipedia.org/wiki/Net_present_value) cost-benefit analysis.
  Demonstrate in a "to-be" process diagram how the system simplifies the original "as-is" process.
  Describe any ways the system introduces efficiencies into the process. Describe the manner and methodology (e.g. Traditional/Waterfall vs Agile) by which the system will be developed, implemented, and adopted.
 
