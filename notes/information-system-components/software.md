@@ -29,6 +29,10 @@ Contrasted against the general purpose OS, application software often plays a mo
 
 ## Considerations
 
+### Programming Languages
+
+See [server-side programming languages](/notes/internet-technologies.md#server-side).
+
 ### Licensing
 
 **Proprietary software** has "... restrictions on its use, copy, and modification".
@@ -43,9 +47,17 @@ When developing your own software, [choose a license](http://choosealicense.com/
 
 ### Version Control
 
+ + [Git](https://git-scm.com/)
+ + [GitHub](https://github.com/) Git client
+ + [Bitbucket](https://bitbucket.org/) Git client (offers free private repositories)
+
 ### Project Management
 
-### Programming Languages
+ + [Pivotal Tracker](https://www.pivotaltracker.com/)
+ + [Basecamp](https://basecamp.com/)
+ + [Trello](https://trello.com/)
+ + [GitHub Issues](https://guides.github.com/features/issues/)
+ + [Waffle](https://waffle.io/)
 
 
 

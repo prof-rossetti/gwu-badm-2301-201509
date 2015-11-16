@@ -192,10 +192,12 @@ Assignment(s):
 
 duration (mins) | usage
 --- | ---
-20 | Networks and Protocols Lecture
-30 | Software Lecture
+15 | [Software](/notes/information-system-components/software.md) Lecture
+15 | [Hardware](/notes/information-system-components/hardware.md) Lecture
+15 | [Networks and Protocols](/notes/information-system-components/networks-and-protocols.md) Lecture
+15 | [Internet Technologies](/notes/internet-technologies.md) Lecture
 10 | Break
-90 | HTML, CSS, and JavaScript Lab
+80 | Internet Technologies Lab I (HTML, CSS, and JavaScript)
 
 Assignment(s):
 
@@ -206,10 +208,12 @@ Assignment(s):
 
 duration (mins) | usage
 --- | ---
-50 | Hardware Lecture (including Security and Privacy)
+30 | [Information System Security and Privacy](/notes/information-security-and-privacy.md) Lecture
+40 | Command-line Computing Lab
 10 | Break
-45 | Command-line Computing Lab
-45 | SSH Lab
+40 | Internet Technologies Lab II (SSH)
+30 | Website Hosting Lab
+
 
 Assignment(s): TBA
 
@@ -221,7 +225,7 @@ Assignment(s): TBA
 
 duration (mins) | usage
 --- | ---
-70 | TBA - Interfaces or Data Visualization
+70 | Data Visualization Lab
 10 | Break
 70 | Group Project Support
 
@@ -253,3 +257,6 @@ Assignment(s):
 ### 12/9/15
 
 No Class. No Final Exam. Last day to submit/revise assignments.
+
++ [Meetup Assignment](assignments/meetups.md) (Due)
++ [Personal Website Lab Assignment](assignments/lab/personal-website.md) (Due)

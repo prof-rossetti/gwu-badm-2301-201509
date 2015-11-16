@@ -25,9 +25,9 @@ Components of a computer-based IS generally include:
 
  + [Datastores](information-system-components/datastores.md)
  + [Hardware](information-system-components/hardware.md)
- + [Networks](information-system-components/networks.md)
+ + [Networks](information-system-components/networks-and-protocols.md)
  + [Software](information-system-components/software.md)
- + People
+ + People, and Interfaces
 
 Presence of one or more IS components does not necessarily constitute an IS.
 

@@ -4,7 +4,7 @@ A **computer network** is a "system (of) connect(ed) computers and (computer har
  which use "communications media" to transmit data
   to other members in the network.
 
-## Communications Media
+## Network Communications Media
 
 **Communications media** refer to the pathways, or methods, by which data are transmitted.
  Cable media transmit information over physical wires or cables, whereas broadcast media transmit information through electromagnetic waves.
@@ -30,7 +30,7 @@ Cable media are described by their physical composition and each have advantages
  + Satellite radio
  + Wireless Broadband
 
-## Network Size
+## Network Sizes
 
 Computer networks are often described in terms of size:
 
@@ -40,11 +40,34 @@ Personal Area Network (PAN) | Two ore more devices in a very limited geographica
 Local Area Network (LAN) | "two or more devices in a limited geographical region, usually within the same building" | a home WiFi network
 Wide Area Network (WAN) | "covers a large geographic region; typically connects multiple LANs" | a university network (e.g. GWireless); the Internet
 
-The **Internet** is a very very large computer network.
+The **Internet** is a very very large WAN computer network.
 
 ## Network Protocols
 
-Computers connected to the Internet communicate according to a "common set of rules and procedures", or [protocols](protocols.md).
+Computers connected to the Internet communicate according to a "common set of rules and procedures", or protocols.
+
+abbreviation | name | description
+--- | --- | ---
+[HTTP](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol)  | Hyper Text Transfer Protocol | The foundation protocol for the Internet.
+[HTTPS](https://en.wikipedia.org/wiki/HTTPS)  | Secure Hyper Text Transfer Protocol | A widely-used Internet protocol for secure network communication over HTTP within a connection encrypted by SSL/TLS.
+[SSL/TLS](https://en.wikipedia.org/wiki/Transport_Layer_Security) | Transport Layer Security (formerly and still known as Secure Sockets Layer) | For providing communication security over a network.
+[TCP/IP](#https://en.wikipedia.org/wiki/Transmission_Control_Protocol) | Transmission Control Protocol, which compliments the Internet Protocol | Provides reliable, ordered, and error-checked delivery of a stream of octets between applications running on hosts communicating over an IP network.
+[FTP](https://en.wikipedia.org/wiki/File_Transfer_Protocol) | File Transfer Protocol | For transmitting large files between computers.
+[SMTP](https://en.wikipedia.org/wiki/Simple_Mail_Transfer_Protocol) | Simple Mail Transfer Protocol | For transmitting electronic mail between computers.
+[SSH](https://en.wikipedia.org/wiki/Secure_Shell) | Secure Shell | A cryptographic (encrypted) network protocol to allow remote login and other network services to operate securely over an unsecured network.
+[SFTP](https://en.wikipedia.org/wiki/SSH_File_Transfer_Protocol) | SSH/Secure File Transfer Protocol | For transferring files over SSH.
+
+... etc.
+
+
+
+
+
+
+
+
+
+
 
 ## Network Security
 
@@ -66,3 +89,6 @@ Additional Resources:
  + https://en.wikipedia.org/wiki/Computer_network
  + http://study.com/academy/lesson/types-of-networks-lan-wan-wlan-man-san-pan-epn-vpn.html
  + http://www.edinformatics.com/inventions_inventors/fiber_optics.htm
+ + http://fcit.usf.edu/network/chap2/chap2.htm
+ + http://flask.pocoo.org/docs/0.10/htmlfaq/
+ + https://en.wikipedia.org/wiki/Lists_of_network_protocols
