@@ -2,6 +2,8 @@
 
 ## Client-side
 
+Also known as "front-end" technologies.
+
 ### Languages
 
 + [HTML](http://www.w3schools.com/html/)
@@ -28,6 +30,8 @@ Popular open source JavaScript libraries:
  + [Bower](http://bower.io/) for HTML, CSS, and JavaScript libraries and frameworks
 
 ## Server-side
+
+Also known as "back-end" technologies.
 
 ### Languages
 

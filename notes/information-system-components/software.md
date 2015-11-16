@@ -31,7 +31,7 @@ Contrasted against the general purpose OS, application software often plays a mo
 
 ### Programming Languages
 
-See [server-side programming languages](/notes/internet-technologies.md#server-side).
+See [Internet programming languages](/notes/internet-technologies.md).
 
 ### Licensing
 
@@ -48,8 +48,8 @@ When developing your own software, [choose a license](http://choosealicense.com/
 ### Version Control
 
  + [Git](https://git-scm.com/)
- + [GitHub](https://github.com/) Git client
- + [Bitbucket](https://bitbucket.org/) Git client (offers free private repositories)
+ + [GitHub](https://github.com/) a Git client
+ + [Bitbucket](https://bitbucket.org/) a Git client (offers free private repositories)
 
 ### Project Management
 

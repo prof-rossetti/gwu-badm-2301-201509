@@ -192,12 +192,12 @@ Assignment(s):
 
 duration (mins) | usage
 --- | ---
-15 | [Software](/notes/information-system-components/software.md) Lecture
 15 | [Hardware](/notes/information-system-components/hardware.md) Lecture
 15 | [Networks and Protocols](/notes/information-system-components/networks-and-protocols.md) Lecture
+15 | [Software](/notes/information-system-components/software.md) Lecture
 15 | [Internet Technologies](/notes/internet-technologies.md) Lecture
 10 | Break
-80 | [Internet Technologies Lab I](/assignments/lab/software-version-control.md) (HTML, CSS, and JavaScript)
+80 | [Internet Technologies Lab I](/assignments/lab/software-version-control.md) (Software, HTML, CSS, JavaScript, Version Control, Hosting)
 
 Assignment(s):
 
@@ -208,11 +208,11 @@ Assignment(s):
 
 duration (mins) | usage
 --- | ---
-30 | [Information System Security and Privacy](/notes/information-security-and-privacy.md) Lecture
+30 | HTML Practice
 40 | Command-line Computing Lab
 10 | Break
-40 | Internet Technologies Lab II (SSH)
-30 | Website Hosting Lab
+15 | [Information System Security and Privacy](/notes/information-security-and-privacy.md) Lecture
+55 | [Internet Technologies Lab II](assignments/lab/networks-and-protocols.md) (Networks, Protocols, SSH, Servers, Cloud Computing, Cryptography, Hardware, SCP)
 
 
 Assignment(s): TBA
@@ -253,6 +253,14 @@ Assignment(s):
 
  + [Group Project Final Deliverable](assignments/group-project/final-deliverable.md) (Due)
  + [Group Project Final Presentations](assignments/group-project/final-presentation.md) (Due)
+
+
+
+
+
+
+
+
 
 ### 12/9/15
 
