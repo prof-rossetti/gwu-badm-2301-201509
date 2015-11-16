@@ -197,7 +197,7 @@ duration (mins) | usage
 15 | [Networks and Protocols](/notes/information-system-components/networks-and-protocols.md) Lecture
 15 | [Internet Technologies](/notes/internet-technologies.md) Lecture
 10 | Break
-80 | Internet Technologies Lab I (HTML, CSS, and JavaScript)
+80 | [Internet Technologies Lab I](/assignments/lab/software-version-control.md) (HTML, CSS, and JavaScript)
 
 Assignment(s):
 
