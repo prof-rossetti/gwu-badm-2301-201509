@@ -1,0 +1,41 @@
+criteria:,0.9 for need to increase size of cardinality and optionality markers; else 0.9 for need to clarify connection points/attributes; else 0.9 for using unrecognized symbols without a legend; 0.85 for truncated/obfuscated names; 0.8 for a shape per attribute; else between 0.95 and 0.8 for line jump(s); else 0.6 for separate diagrams; else 0.5 for non-digital diagram generation,"0.95 for a single snake case entity name; 0.9 for capitalized but pluralized entity names; else 0.9 for singular snake-case names; else 0.8 for pluralized and/or underscored and/or lowercase and/or missing entity name(s); else 0.8 for incorrect attribute names; else 0.6 for representing entities of a freestyle, somewhat-related database design; else 0.4 for missing entities and/or including improper entities",1 (bonus weight) for presence of textual description containing a verb in the diagram; else NULL (not used in calculation of averages),0.8 for one or more misrepresentations; else 0 for no distinguishment of cardinality differences,1 (bonus weight) for all proper optionalities; else NULL (not used in calculation of averages),,
+student_id,clarity,entities,rship_descrips,cardinalities,optionalities,erd_grade,erd_comment
+38,0.9,1,,1,,96.7%,improve by avoiding line jumps and clear space between different cardinality markers
+28,1,0.9,1,0.8,1,94.0%,check cardinalities;
+39,0.95,0.9,1,0.9,,93.8%,double-check assumption of relationship between Listener and Listener Account on the basis of name attributes; check stated assumptions; add missing cardinalities
+2,0.95,0.8,1,1,,93.8%,check your assumptions - some are problematic; check entity names
+16,0.9,0.9,,1,,93.3%,"no need to link Listener Account with Play - one direct relationship is between Listener and Listener Account, and the other is between Listener and Play"
+24,0.9,0.9,1,0.8,,90.0%,restrict to a single printed page to improve clarity; check cardinalities
+20,1,0.85,,0.8,,88.3%,check relationships: there is no direct relationship between Listener and Skip;
+23,0.8,0.9,1,0.8,,87.5%,the relationship between Song and Listener is not a direct relationship - instead each is related directly with Play; check cardinalities
+25,0.9,0.8,,0.8,1,87.5%,check entity names and cardinalities
+18,1,0.8,,0.8,,86.7%,check cardinalities
+7,1,0.8,,0.8,,86.7%,good attention to detail regarding cc_holder_name; check cardinalities
+27,1,0.8,,0.8,,86.7%,no need to relate Listener Account with Play because that direct relationship is between Listener and Play; check cardinalities
+33,0.8,1,,0.8,,86.7%,check cardinalities; reduce/remove line jumps to improve clarity
+35,1,0.8,,0.8,,86.7%,check relationships: need relationship between Play and Listener; the relationship between Listener Account and Skip is indirect
+11,0.9,0.9,,0.8,,86.7%,check cardinalities
+21,0.9,0.9,,0.8,,86.7%,check cardinalities
+17,0.85,0.9,,0.8,,85.0%,check cardinalities; increase clarity with which relationships are identified; only represent direct relationships
+31,0.95,0.8,,0.8,,85.0%,check entity names and cardinalities
+12,0.9,0.8,,0.8,,83.3%,good use of colors to provide additional clarity for line-skips - at the same time recognize some people are color-blind; 
+1,0.8,0.8,,0.8,,80.0%,check entity names; no need to draw relationships between indirect entities like between Skip and Thumb - they each have a direct relationship with Play and you can link them together on that basis; check cardinalities
+4,0.5,0.8,,0.8,,70.0%,produce an ERD which does not include table data or resemble a table; check cardinalities
+13,0.8,0.4,,0,,40.0%,"in this case you can roughly map the tables to one entity each, and the column names to attributes of the given entity. denote cardinalities using familiar notation or use a legend"
+10,0,0,,0,,0.0%,
+6,0,0,,0,,0.0%,
+26,0,0,,0,,0.0%,
+3,0,0,,0,,0.0%,
+8,0,0,,0,,0.0%,
+15,0,0,,0,,0.0%,
+34,0,0,,0,,0.0%,
+32,0,0,,0,,0.0%,
+19,0,0,,0,,0.0%,
+37,0,0,,0,,0.0%,
+9,0,0,,0,,0.0%,
+14,0,0,,0,,0.0%,
+5,0,0,,0,,0.0%,
+36,0,0,,0,,0.0%,
+22,0,0,,0,,0.0%,
+30,0,0,,0,,0.0%,you diagrammed the wrong prompt? but your entities are named well
+29,0,0,,0,,0.0%,
