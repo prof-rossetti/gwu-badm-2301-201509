@@ -208,11 +208,11 @@ Assignment(s):
 
 duration (mins) | usage
 --- | ---
-30 | HTML Practice
-40 | Command-line Computing Lab
+40 | HTML Practice
+30 | Group Project Database Inspection
 10 | Break
-15 | [Information System Security and Privacy](/notes/information-security-and-privacy.md) Lecture
-55 | [Internet Technologies Lab II](assignments/lab/networks-and-protocols.md) (Networks, Protocols, SSH, Servers, Cloud Computing, Cryptography, Hardware, SCP)
+30 | Group Project and Assignment Support
+40 | [Information System Security and Privacy](/notes/information-security-and-privacy.md) Lecture
 
 
 Assignment(s): TBA
@@ -225,9 +225,10 @@ Assignment(s): TBA
 
 duration (mins) | usage
 --- | ---
-70 | Data Visualization Lab
+30 | Command-line Computing Lab
+40 | [Internet Technologies Lab II](assignments/lab/networks-and-protocols.md) (Networks, Protocols, SSH, Servers, Cloud Computing, Cryptography, Hardware, SCP)
 10 | Break
-70 | Group Project Support
+70 | Group Project and Assignment Support
 
 Assignment(s): TBA
 
