@@ -33,12 +33,18 @@ When generating your key pair,
 
 #### Share Public Key with Server Administrator
 
-After generating a key-pair, share your public key with an instructor.
+After generating a key-pair, copy the contents of your public key, and paste into an email or chat message to an instructor.
+
+Mac OS:
 
 ```` sh
 pbcopy < ~/.ssh/gw_id_rsa.pub
-# ... copies the contents of the gw_id_rsa.pub file to your clipboard
-# ... so you can paste into an email or chat message
+````
+
+Windows OS:
+
+```` sh
+type path/to/gw_id_rsa.pub | clip
 ````
 
 After receiving your public key, the instructor will add it to the server's list of authorized keys.
@@ -91,10 +97,16 @@ Demonstrate to an instructor or copy and paste the results into an email or chat
 
 Bonus:
 
+Use the SCP protocol to download a file from the remote server.
+
+```` sh
+scp -i ~/.ssh/gw_id_rsa.pub sammy_student@54.175.158.91:/home/sammy_student/inbox/secret_message.txt ~/Desktop/
+````
+
 Use the SCP protocol to upload a file to the remote server.
 
 ```` sh
-scp ~/Desktop/my_data.csv sammy_student@54.88.47.221:outbox -i ~/.ssh/gw_id_rsa.pub
+scp -i ~/.ssh/gw_id_rsa.pub ~/Desktop/my_data.csv sammy_student@54.175.158.91:/home/sammy_student/outbox/
 ````
 
 Bonus:
