@@ -208,29 +208,23 @@ Assignment(s):
 
 duration (mins) | usage
 --- | ---
-40 | HTML Practice
-30 | Group Project Database Inspection
+70 | HTML and CSS Practice
 10 | Break
-30 | Group Project and Assignment Support
-40 | [Information System Security and Privacy](/notes/information-security-and-privacy.md) Lecture
+70 | Group Project and Assignment Support
 
-
-Assignment(s): TBA
-
-
-
-
+Assignment(s): None Due
 
 ### Week 14 - 11/30/15
 
 duration (mins) | usage
 --- | ---
-30 | Command-line Computing Lab
-40 | [Internet Technologies Lab II](assignments/lab/networks-and-protocols.md) (Networks, Protocols, SSH, Servers, Cloud Computing, Cryptography, Hardware, SCP)
+20 | [Information System Security and Privacy](/notes/information-security-and-privacy.md) Lecture
+50 | [Command-line Computing](/assignments/lab/command-line-computing.md) Lab Exercise
 10 | Break
-70 | Group Project and Assignment Support
+40 | [Network Computing](/assignments/lab/network-computing.md) Lab Exercise
+30 | Group Project and Assignment Support
 
-Assignment(s): TBA
+Assignment(s): None Due
 
 
 

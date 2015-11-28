@@ -23,7 +23,7 @@ Information Systems may or may not leverage technology.
 
 Components of a computer-based IS generally include:
 
- + [Datastores](information-system-components/datastores.md)
+ + [Datastores](information-system-components/datastore.md)
  + [Hardware](information-system-components/hardware.md)
  + [Networks](information-system-components/networks-and-protocols.md)
  + [Software](information-system-components/software.md)
