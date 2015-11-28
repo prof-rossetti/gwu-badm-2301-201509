@@ -218,10 +218,11 @@ Assignment(s): None Due
 
 duration (mins) | usage
 --- | ---
-20 | [Information System Security and Privacy](/notes/information-security-and-privacy.md) Lecture
 50 | [Command-line Computing](/assignments/lab/command-line-computing.md) Lab Exercise
+20 | [Information System Security and Privacy](/notes/information-security-and-privacy.md) Lecture
+20 | [Network Computing](/assignments/lab/network-computing.md) Lab Exercise (Part I)
 10 | Break
-40 | [Network Computing](/assignments/lab/network-computing.md) Lab Exercise
+20 | Network Computing Lab Exercise (Part II)
 30 | Group Project and Assignment Support
 
 Assignment(s): None Due

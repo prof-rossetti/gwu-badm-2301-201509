@@ -142,7 +142,7 @@ dir
 Change directories (specifying absolute file path).
 
 ```` sh
-cd ~/Desktop
+cd C:\Users\YOURUSERNAME\Desktop\
 ````
 
 Make a new directory.
