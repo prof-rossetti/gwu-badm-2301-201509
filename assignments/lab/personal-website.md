@@ -31,7 +31,7 @@ The site should contain at least one of each of the following HTML elements:
  + at least one [HTML5 semantic element](http://www.w3schools.com/html/html5_semantic_elements.asp) like `<header>`, `<footer>`, `<nav>`, etc.
  + rich media embeds (optional)
 
-HTML elements may be assigned `id` and `class` attribute values as appropriate to produce proper form and function.
+HTML elements may need to be assigned `id`, `class`, and other attribute values as appropriate to produce proper form and function.
 
 ## Submission Instructions
 

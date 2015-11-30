@@ -19,5 +19,11 @@ Push your changes to a new branch called "gh-pages" and visit your website onlin
 
 Additional Resources:
 
- + https://guides.github.com/introduction/flow/
- + https://pages.github.com/
+  + https://guides.github.com/introduction/flow/
+  + https://pages.github.com/
+
+Browser-only Instructions:
+
+  + https://github.com/blog/1327-creating-files-on-github
+  + http://stackoverflow.com/questions/20865752/upload-images-to-github-from-the-browser
+  + https://help.github.com/articles/creating-and-deleting-branches-within-your-repository/

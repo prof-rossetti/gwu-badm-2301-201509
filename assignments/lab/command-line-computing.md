@@ -87,6 +87,13 @@ Copy a file.
 cp ~/Desktop/my_message.txt ~/Desktop/my_folder
 ````
 
+Copy contents of a file into the clipboard for pasting.
+
+```` sh
+pbcopy < ~/Desktop/my_folder/my_message.txt
+# ... then just paste as you normally would after copying some text
+````
+
 Congratulations, you are ready for [remote computing](/assignments/lab/network-computing.md).
 
 
@@ -203,7 +210,24 @@ Copy a file.
 xcopy C:\Users\YOURUSERNAME\Desktop\my_message.txt C:\Users\YOURUSERNAME\Desktop\my_folder
 ````
 
+Copy contents of a file into the clipboard for pasting.
+
+```` sh
+type C:\Users\YOURUSERNAME\Desktop\my_folder\my_message.txt | clip
+# ... then just paste as you normally would after copying some text
+````
+
 Congratulations, you are ready for [remote computing](/assignments/lab/network-computing.md).
+
+
+
+
+
+
+
+
+
+
 
 <hr>
 
