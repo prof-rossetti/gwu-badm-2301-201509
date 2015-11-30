@@ -25,7 +25,7 @@ If you are using Mac OS,
   follow these [key generation instructions](https://help.github.com/articles/generating-ssh-keys/).
 
 Else if you are using Windows OS and not the GitHub Desktop Application:
-  use the [PuTTY](http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html) PuttyGen program, as demonstrated by an instructor.
+  use the [PuTTY](http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html) PuttyGen program, as demonstrated by an instructor and detailed in this [tutorial](https://docs.joyent.com/public-cloud/getting-started/ssh-keys/generating-an-ssh-key-manually/manually-generating-your-ssh-key-in-windows).
 
 When generating your key pair,
  choose to name the files `gw_id_rsa` and `gw_id_rsa.pub`,
