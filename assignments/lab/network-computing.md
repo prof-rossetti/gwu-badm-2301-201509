@@ -101,6 +101,13 @@ Use the `ssh` command to login as your username ("sammy_student") to a server ("
 ssh sammy_student@54.88.47.221 -i ~/.ssh/gw_id_rsa.pub
 ````
 
+If you get an error like "WARNING: UNPROTECTED PRIVATE KEY FILE. Permissions 0644 ... are too open.", change private key file permissions before re-attemting to access the server.
+
+```` sh
+chmod 400 ~/.ssh/gw_id_rsa
+ssh sammy_student@54.88.47.221 -i ~/.ssh/gw_id_rsa.pub
+````
+
 Windows OS:
 
 Use the PuTTY application, as demonstrated in this [PuTTY SSH tutorial](https://docs.joyent.com/public-cloud/instances/connecting/ssh-from-windows).
