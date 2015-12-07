@@ -30,9 +30,7 @@ Submit presentation .pdf to [Blackboard](https://blackboard.gwu.edu/webapps/assi
 
 ## Evaluation Methodology
 
-Students, instructors, and possible guest judges will evaluate each presentation in terms of content and delivery. Students may not evaluate their own presentations.
-
-Evaluators will assign each presentation an integer grade from 0 to 100.
+Students, instructors, and possible guest judges will evaluate each presentation in terms of content and delivery.
 
 Evaluations will be averaged to produce a single group grade for each presentation. This provides a baseline for the final grade.
 
