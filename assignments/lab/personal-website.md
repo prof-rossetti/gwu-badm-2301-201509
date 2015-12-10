@@ -1,6 +1,6 @@
 # Personal Website Lab Assignment
 
-Refer to Internet Technology [notes](/notes/internet-technologies.md) and [resources](/resources/internet-technologies/client-side/).
+Refer to Internet Technology [notes](/notes/internet-technologies.md) and [resources](/resources/internet-technologies/client-side/), and this [example student site](https://github.com/gwu-business/student-site/).
 
 ## Description
 
