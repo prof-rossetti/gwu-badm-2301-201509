@@ -1,0 +1,40 @@
+student_id,initial_submission_grade,final_submission_grade,revision_comments
+16,100,100,N/A
+12,100,100,N/A
+17,100,100,N/A
+13,0,100,"good identification of system names, inputs, and outputs; good comparison"
+23,100,100,N/A
+32,100,100,N/A
+37,0,100,"good identification of system names, inputs, and outputs; good comparison"
+21,100,100,N/A
+14,50,100,good addition of specific systems instead of general categories of system; good discussion of info inputs and outputs
+31,87,100,good identification of a lower tech system than previous submission
+29,0,100,"good system identification, info input and output identification, and system comparison"
+2,87,100,good revision of naming specific systems
+38,87,93,"good addition of digital camera metadata discussion; good terminology revision to ""network-based emailing systems""; could specify a better INFORMATION output of the food ordering system as perhaps a ""receipt"" than the food itself,"
+24,87,93,"good addition of an exec summary; self-checkout INFORMATION outputs are probably better described as a ""receipt"" than the items themselves; good thoroughness of analysis;"
+8,75,93,"good terminology revisions; need to identify an INFORMATION output of the coffee ordering system, which is probably more likely to be a receipt or written information than the drink itself"
+1,87,93,could benefit from a specific example of a GPS. could benefit from more explicit identification of the INFORMATION outputs of a personal shopper than the clothes themselves.
+15,87,93,"could still benefit from identification of a specific implementation of the ""Dewey Decimal System""; would the INFORMATION output of DDS be the ""location of the book"" instead of the physical book itself?"
+35,87,93,"good terminology revisions; could still be more careful about identifying the INFORMATION output of the deli ordering system - it's probably more appropriate to identify a ""receipt"" or ""written price"" than the actual food."
+9,87,93,"good re-identification of a low-tech system; could still use a more careful identification than ""Microsoft Word"""
+22,87,93,"could still be more careful and precise with language in terms of the definition of an info system, as well as what the INFORMATION outputs of Uber are..."
+30,75,93,looking for non-tech system info output identification
+7,87,90,"good explicit input and output description revisions for two of the systems; could specify a better INFORMATION output of the food delivery system as perhaps a ""receipt"" than the food itself, and similar feedback for the second system's info outputs as well"
+11,87,90,"could be more explicit with language that identifies information outputs - i.e. describe a ""report"" or an ""alert notification"" instead of describing what a ""user may do"" to interact with the output; also could better describe the INFORMATION output of the deli order system as a ""receipt"" or ""written price"" instead of the food itself"
+10,87,87,N/A
+28,75,87,"be careful about using general language like ""all systems""; could benefit from identification of an INFORMATION output of the gallery ordering system as a ""receipt"" instead of the food itself; same feedback about the Uber ""ride"" not being an INFORMATION output"
+26,75,87,could be more careful in identifying system names and outputs - the car ride and the sandwich are not necessarily INFORMATION outputs
+39,50,87,"good identification of specific systems instead of general categories of system; could benefit from identifying a lower-tech system than one which uses pedometers, which you describe/define using the word ""technology"""
+3,87,87,N/A
+34,87,87,N/A
+33,87,87,N/A
+19,50,87,"good identification of specific systems; could be more explicit in identifying the info inputs and outputs, although in some cases you do mention the kinds of information that the system produces as a result of processing the inputs and in other cases you describe general system functions which require some inference to identify inputs and outputs"
+20,75,87,could use more explicit descriptions of amazon.com system's information outputs
+25,75,87,"be careful about making general claims like ""all businesses do something""; could still be more careful and precise with language, especially when identifying info systems and inputs and outputs - ""spreadsheets"" are a general category of software, which may be components of an IS"
+5,87,87,N/A
+36,0,87,"be careful about making general claims like ""all businesses do something""; need to identify the INFORMATION outputs of GW Deli and other systems; could be more explicit with system comparisons"
+27,75,75,N/A
+4,0,75,"need to identify specific systems, not general categories of system for your tech systems; could be more careful than when you describe the INFORMATION output of the starbucks ordering system as the drink itself"
+18,0,70,"good terminology revisions; could still be more careful about identifying the INFORMATION output of the deli ordering system - its probably more appropriate to identify a ""receipt"" or ""written price"" than the actual food."
+6,50,66,"please identify specific systems instead of general categories of system; ""printers, copiers, and fax machines"" are hardware, not systems themselves; ""networks"" are networks, not necessarily systems; could use explicit identification of info inputs and outputs for all systems"
