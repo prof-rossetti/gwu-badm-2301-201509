@@ -1,0 +1,41 @@
+criteria:,1 for summary of analytical findings at the top; else 0.7 for summary at the bottom;  else 0.7 for factual findings presented but not summarized; else 0.7 for want of thoroughness; else 0.5 for dataset description or other summary;,1 for description of manual processes as well as accompanying error-free SQL which directly produces justification for factual findings; else 0.8 for errors; else 0.8 for minor want of additional link between SQL results and factual findings; else 0.7 for repeatable queries but no factual findings; else 0.5 for gaps between SQL results and factual findings; else 0.5 for major errors; else 0.5 for unidentified dataset,"1 for all clauses (SELECT, FROM, WHERE, GROUP BY, ORDER BY, and either LIMIT or TOP); else 0.9 for missing a TOP or LIMIT; else 0.8 for missing a GROUP BY; else 0.6 for missing GROUP BY and TOP/LIMIT); else 0.5 for missing GROUP BY, ORDER BY, and TOP/LIMIT",,,
+student_id,exec_summary,repeatable,all_clauses,dba_grade,shared_dba_grade,dba_comment
+23,1,1,1,1.00,1.00,----- graded resubmission
+1,1,1,1,1.00,1.00,----- graded resubmission
+35,1,1,1,1.00,1.00,----- graded resubmission
+14,1,1,1,1.00,1.00,----- graded resubmission
+31,1,1,1,1.00,1.00,----- graded resubmission
+16,1,0.9,1,0.97,0.97,----- graded
+11,1,1,0.9,0.97,0.97,----- graded resubmission
+32,1,0.8,1,0.93,0.93,----- graded
+38,1,0.8,1,0.93,0.93,----- graded resubmission
+39,1,0.8,1,0.93,0.93,----- graded resubmission
+29,1,0.8,1,0.93,0.93,----- graded resubmission
+2,1,0.8,1,0.93,0.93,----- graded resubmission
+22,1,0.8,0.8,0.87,0.87,----- graded resubmission
+25,1,0.7,0.8,0.83,0.83,----- graded
+30,1,0.7,0.8,0.83,0.83,----- graded
+17,0.9,0.8,0.7,0.80,0.80,----- graded resubmission
+13,1,0.8,0.6,0.80,0.80,----- graded resubmission
+7,0.7,1,0.6,0.77,0.77,----- graded
+15,1,0.8,0.5,0.77,0.77,----- graded
+34,1,0.5,0.8,0.77,0.77,----- graded
+21,0.9,0.5,0.9,0.77,0.77,----- graded
+12,1,0.8,0.5,0.77,0.77,----- graded resubmission
+4,0.5,0.8,1,0.77,0.77,----- graded resubmission
+18,0.5,0.8,0.8,0.70,0.70,----- graded resubmission
+33,0.5,1,0.5,0.67,0.67,----- graded
+9,0,1,1,0.67,0.67,----- graded resubmission
+8,0,1,0.9,0.63,0.63,----- graded
+5,0.7,0.5,0.6,0.60,0.60,----- graded
+3,0,0.8,0.8,0.53,0.53,----- graded
+37,1,0.8,0.6,0.80,0.40,------- looks familiar (b)
+36,1,0.8,0.6,0.80,0.40,------- looks familiar (b)
+20,0,0,0.5,0.17,0.17,----- graded resubmission
+24,1,0.8,1,0.93,0.16,------- looks familiar (r)
+28,1,0.8,1,0.93,0.16,------- looks familiar (r)
+6,1,0.8,1,0.93,0.16,------- looks familiar (r)
+27,1,0.8,1,0.93,0.16,------- looks familiar (r)
+26,1,0.8,0.9,0.90,0.15,------- looks familiar (r)
+19,1,0.8,0.9,0.90,0.15,------- looks familiar (r)
+10,0,0,0,0.00,0.00,----- graded
