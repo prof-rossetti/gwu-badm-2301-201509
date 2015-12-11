@@ -1,0 +1,41 @@
+criteria:,0.9 for need to increase size of cardinality and optionality markers; else 0.9 for need to clarify connection points/attributes; else 0.9 for using unrecognized symbols without a legend; 0.85 for truncated/obfuscated names or blurry image; 0.8 for a shape per attribute; else between 0.95 and 0.8 for line jump(s); else 0.6 for separate diagrams; else 0.5 for non-digital diagram generation.,"0.95 for a single snake case entity name; else 0.9 for capitalized but pluralized entity names; else 0.9 for singular snake-case names; else 0.8 for pluralized and/or underscored and/or lowercase and/or missing entity name(s); else 0.8 for incorrect attribute names; else 0.6 for representing entities of a freestyle, somewhat-related database design; else 0.4 for missing entities and/or including improper entities",1 (bonus weight) for presence of textual description containing a verb in the diagram; else NULL (not used in calculation of averages),0.8 for one or more misrepresentations; else 0 for no distinguishment of cardinality differences,1 (bonus weight) for all proper optionalities; else NULL (not used in calculation of averages),,
+student_id,clarity,entities,rship_descrips,cardinalities,optionalities,erd_grade,erd_comment
+38,0.9,1,,1,,96.7%,----- graded
+11,0.95,0.9,,1,,95.0%,----- graded re-submission
+28,1,0.9,1,0.8,1,94.0%,----- graded
+39,0.95,0.9,1,0.9,,93.8%,----- graded
+2,0.95,0.8,1,1,,93.8%,----- graded
+16,0.9,0.9,,1,,93.3%,----- graded
+32,0.8,1,,1,,93.3%,----- graded re-submission
+14,1,1,,0.8,,93.3%,----- graded
+31,1,0.8,,1,,93.3%,----- graded re-submission
+29,1,1,,0.8,,93.3%,----- graded re-submission
+3,1,0.9,1,0.8,,92.5%,----- graded re-submission
+13,1,0.9,,0.8,,90.0%,----- graded re-submission
+23,0.8,0.9,1,0.8,1,90.0%,----- graded re-submission
+27,1,0.9,,0.8,,90.0%,----- graded re-submission
+15,1,0.9,,0.8,,90.0%,----- graded
+9,1,0.9,,0.8,,90.0%,----- graded re-submission
+24,0.9,0.9,1,0.8,,90.0%,----- graded
+26,0.9,0.9,1,0.8,,90.0%,----- graded re-submission
+20,1,0.85,,0.8,,88.3%,----- graded
+25,0.9,0.8,,0.8,1,87.5%,----- graded
+18,1,0.8,,0.8,,86.7%,----- graded
+7,1,0.8,,0.8,,86.7%,----- graded re-submission
+8,0.9,0.9,,0.8,,86.7%,----- graded re-submission
+33,0.8,1,,0.8,,86.7%,----- graded
+35,1,0.8,,0.8,,86.7%,----- graded
+21,0.9,0.9,,0.8,,86.7%,----- graded
+30,1,0.8,,0.8,,86.7%,----- graded re-submission
+17,0.85,0.9,,0.8,,85.0%,----- graded
+12,0.9,0.8,,0.8,,83.3%,----- graded
+22,0.8,0.9,,0.8,,83.3%,----- graded re-submission
+34,0.85,0.8,,0.8,,81.7%,----- graded
+6,0.8,0.8,,0.8,,80.0%,----- graded re-submission
+1,0.8,0.8,,0.8,,80.0%,----- graded
+37,0.8,0.8,,0.8,,80.0%,----- graded re-submission
+36,0.8,0.8,,0.8,,80.0%,----- graded re-submission
+4,0.5,0.9,,0.8,,73.3%,----- graded re-submission
+19,0.5,0.9,,0.8,,73.3%,----- graded re-submission
+5,0.5,0.9,1,0,,60.0%,----- graded
+10,0,0,,0,,0.0%,----- graded
