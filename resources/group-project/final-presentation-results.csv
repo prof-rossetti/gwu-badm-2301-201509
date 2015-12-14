@@ -1,0 +1,12 @@
+,criteria:,see accompanying file for student evaluation scoring methodology,"top marks for screenshots, mockups, and confident speakers",
+group_id,group_title,student_eval_score,professor_eval_score,final_presentation_grade
+S,Group S (startups/investors),1.0000,0.97,0.9850
+W,Group W (ad targeting),0.9091,0.93,0.9195
+Z,Group Z (retail),0.9318,0.87,0.9009
+U,Group U (delivery tracking),0.8561,0.93,0.8930
+Q,Group Q (commodities),0.9091,0.87,0.8895
+T,Group T (ride-share car recognition),0.8864,0.87,0.8782
+V,Group V (office supply mgmt),0.8864,0.87,0.8782
+Y,Group Y (project mgmt),0.8788,0.87,0.8744
+R,Group R (wait-times),0.8485,0.87,0.8592
+X,Group X (office item resale/reuse),0.8485,0.87,0.8592
