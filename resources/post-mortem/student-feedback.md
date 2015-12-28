@@ -49,6 +49,9 @@ Some students expressed a desire for greater link between lecture material and a
 
 > Lectures need to contain ... material to build up to projects and the final assignment.
 
+> ... I understood what was going on in class but it was very difficult for me to implement it on my own for homework.
+
+
 #### Pace and Scheduling
 
 Some students expressed desire for more repetition of concepts.
