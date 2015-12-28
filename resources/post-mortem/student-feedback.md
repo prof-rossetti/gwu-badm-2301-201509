@@ -23,12 +23,19 @@ Some students expressed satisfaction with their "one-on-one" interactions with t
 
 > ... professor is very good working with students one on one
 
+#### Course Success
 
+Many students indicated the course was a success, and that they accomplished their learning objectives.
 
+> Through the course, I became significantly more comfortable using tech systems and I would like to continue my learning. The course was challenging but I wouldn't have done anything differently.
 
+> The class was very different in the way it was organized and taught. It was a little confusing at times but overall it was a good experience.
 
+> I learned a lot about programs that I never heard about, like Visio and Access. The labs helped me get a better understanding for what information systems really is all about.
 
+> I definitely learned how to use excel more proficiently, and I have expanded my knowledge of database use.
 
+> I accomplished my goal of having a basic understanding of how websites are developed.
 
 ### Cons
 
@@ -77,3 +84,13 @@ Some students expressed a desire for simpler subject matter explanations.
 > Understand that not everyone has a basic understanding of how to use some of the software we use in class
 
 > Assume that students have no idea about the course material when teaching it.
+
+#### More Focus on Spreadsheets
+
+Some students expressed a desire to spend more time working with spreadsheets.
+
+> I would have liked to focus more on using MS Excel in business settings
+
+> Wanted to work more with excel and get a better handle on it
+
+> I wanted to learn more about microsoft excel, powerpoint & word that I would use more often than SQL or making a website
