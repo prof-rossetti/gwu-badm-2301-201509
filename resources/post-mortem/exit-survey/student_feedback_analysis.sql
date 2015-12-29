@@ -19,11 +19,96 @@ RETURN CASE
   WHEN s = "Never heard of" THEN 0
 END;
 
+/*
+
+ORIGINAL RESPONSES
+
+*/
+
+DROP TABLE IF EXISTS badm_2301._responses;
+CREATE TABLE badm_2301._responses as (
+  SELECT
+    g.student_id
+    ,comfort_response_to_int(comms_bboard) AS comms_bboard -- Collaboration and Productivity Tool Usage [Blackboard]
+    ,comfort_response_to_int(comms_email) AS comms_email -- Collaboration and Productivity Tool Usage [Email]
+    ,comfort_response_to_int(comms_gchat) AS comms_gchat -- Collaboration and Productivity Tool Usage [GChat]
+    ,comfort_response_to_int(comms_hipchat) AS comms_hipchat -- Collaboration and Productivity Tool Usage [HipChat]
+    ,comfort_response_to_int(comms_irc) AS comms_irc -- Collaboration and Productivity Tool Usage [IRC]
+    ,comfort_response_to_int(comms_slack) AS comms_slack -- Collaboration and Productivity Tool Usage [Slack]
+    ,comfort_response_to_int(tools_aws) AS tools_aws -- Collaboration and Productivity Tool Usage [AWS]
+    ,comfort_response_to_int(tools_bitbucket) AS tools_bitbucket -- Collaboration and Productivity Tool Usage [Bitbucket]
+    ,comfort_response_to_int(tools_gh) AS tools_gh -- Collaboration and Productivity Tool Usage [GitHub]
+    ,comfort_response_to_int(data_csv) AS data_csv -- Programming Language, Framework, and Technology Usage [CSV]
+    ,comfort_response_to_int(data_json) AS data_json -- Programming Language, Framework, and Technology Usage [JSON]
+    ,comfort_response_to_int(data_xml) AS data_xml -- Programming Language, Framework, and Technology Usage [XML]
+    ,comfort_response_to_int(os_android) AS os_android -- Operating System Usage [Android OS]
+    ,comfort_response_to_int(os_ios) AS os_ios -- Operating System Usage [iOS]
+    ,comfort_response_to_int(os_mac) AS os_mac -- Operating System Usage [Mac OS]
+    ,comfort_response_to_int(os_windows) AS os_windows -- Operating System Usage [Windows OS]
+    ,comfort_response_to_int(lang_c) AS lang_c -- Programming Language, Framework, and Technology Usage [C]
+    ,comfort_response_to_int(lang_cpp) AS lang_cpp -- Programming Language, Framework, and Technology Usage [C++]
+    ,comfort_response_to_int(lang_csh) AS lang_csh -- Programming Language, Framework, and Technology Usage [C#]
+    ,comfort_response_to_int(lang_css) AS lang_css -- Programming Language, Framework, and Technology Usage [CSS]
+    ,comfort_response_to_int(lang_dotnet) AS lang_dotnet -- Programming Language, Framework, and Technology Usage [.NET]
+    ,comfort_response_to_int(lang_html) AS lang_html -- Programming Language, Framework, and Technology Usage [HTML]
+    ,comfort_response_to_int(lang_java) AS lang_java -- Programming Language, Framework, and Technology Usage [Java]
+    ,comfort_response_to_int(lang_js) AS lang_js -- Programming Language, Framework, and Technology Usage [JavaScript]
+    ,comfort_response_to_int(lang_objc) AS lang_objc -- Programming Language, Framework, and Technology Usage [Objective C]
+    ,comfort_response_to_int(lang_perl) AS lang_perl -- Programming Language, Framework, and Technology Usage [Perl]
+    ,comfort_response_to_int(lang_php) AS lang_php -- Programming Language, Framework, and Technology Usage [PHP]
+    ,comfort_response_to_int(lang_py) AS lang_py -- Programming Language, Framework, and Technology Usage [Python]
+    ,comfort_response_to_int(lang_r) AS lang_r -- Programming Language, Framework, and Technology Usage [R]
+    ,comfort_response_to_int(lang_ruby) AS lang_ruby -- Programming Language, Framework, and Technology Usage [Ruby]
+    ,comfort_response_to_int(lang_sql) AS lang_sql -- Programming Language, Framework, and Technology Usage [SQL]
+    ,comfort_response_to_int(lang_vb) AS lang_vb -- Programming Language, Framework, and Technology Usage [Visual Basic]
+    ,comfort_response_to_int(dbms_access) AS dbms_access -- Software Usage [MS Access]
+    ,comfort_response_to_int(soft_excel) AS soft_excel -- Software Usage [MS Excel]
+    ,comfort_response_to_int(soft_gdocs) AS soft_gdocs -- Software Usage [Google Docs]
+    ,comfort_response_to_int(soft_gsheets) AS soft_gsheets -- Software Usage [Google Sheets]
+    ,comfort_response_to_int(soft_gslides) AS soft_gslides -- Software Usage [Google Slides]
+    ,comfort_response_to_int(soft_lucidchart) AS soft_lucidchart -- Software Usage [Lucidchart]
+    ,comfort_response_to_int(soft_ppt) AS soft_ppt -- Software Usage [MS PowerPoint]
+    ,comfort_response_to_int(soft_visio) AS soft_visio -- Software Usage [MS Visio]
+    ,comfort_response_to_int(soft_word) AS soft_word -- Software Usage [MS Word]
+  FROM gradebook g
+  LEFT JOIN badm_2301.responses_lang l ON g.student_id = l.student_id
+  LEFT JOIN badm_2301.responses_soft s ON g.student_id = s.student_id
+  LEFT JOIN badm_2301.responses_tools t ON g.student_id = t.student_id
+);
+ALTER TABLE badm_2301._responses ADD PRIMARY KEY(student_id);
+SELECT * FROM badm_2301._responses;
 
 
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*
+
+EXIT RESPONSES
+
+*/
 
 
 /* EVALUATIONS OF THE COURSE AND INSTRUCTORS AND LEARNING */
