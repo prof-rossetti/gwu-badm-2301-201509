@@ -131,6 +131,11 @@ CREATE TABLE badm_2301._exit_responses AS (
     ,comfort_response_to_int(lang_css) AS lang_css
     ,comfort_response_to_int(lang_js) AS lang_js
 
+    ,comfort_response_to_int(os_windows) AS os_windows
+    ,comfort_response_to_int(os_mac) AS os_mac
+    ,comfort_response_to_int(os_ios) AS os_ios
+    ,comfort_response_to_int(os_android) AS os_android
+
     ,comfort_response_to_int(soft_word) AS soft_word
     ,comfort_response_to_int(soft_gdocs) AS soft_gdocs
     ,comfort_response_to_int(soft_excel) AS soft_excel
@@ -159,3 +164,41 @@ CREATE TABLE badm_2301._exit_responses AS (
 );
 ALTER TABLE badm_2301._exit_responses ADD PRIMARY KEY(student_id);
 SELECT * FROM badm_2301._exit_responses;
+
+
+/* COMPARISONS */
+
+DROP TABLE IF EXISTS badm_2301._diffs;
+CREATE TABLE badm_2301._diffs as (
+  SELECT
+    r.student_id
+    ,xr.final_letter_grade
+    ,xr.final_grade
+    ,xr.comms_bboard - r.comms_bboard AS diff_comms_bboard
+    ,xr.comms_email - r.comms_email AS diff_comms_email
+    ,xr.comms_slack - r.comms_slack AS diff_comms_slack
+    ,xr.data_csv - r.data_csv AS diff_data_csv
+    ,xr.data_json - r.data_json AS diff_data_json
+    ,xr.data_xml - r.data_xml AS diff_data_xml
+    ,xr.dbms_access - r.dbms_access AS diff_dbms_access
+    ,xr.lang_css - r.lang_css AS diff_lang_css
+    ,xr.lang_html - r.lang_html AS diff_lang_html
+    ,xr.lang_js - r.lang_js AS diff_lang_js
+    ,xr.lang_sql - r.lang_sql AS diff_lang_sql
+    ,xr.os_android - r.os_android AS diff_os_android
+    ,xr.os_ios - r.os_ios AS diff_os_ios
+    ,xr.os_mac - r.os_mac AS diff_os_mac
+    ,xr.os_windows - r.os_windows AS diff_os_windows
+    ,xr.soft_excel - r.soft_excel AS diff_soft_excel
+    ,xr.soft_gdocs - r.soft_gdocs AS diff_soft_gdocs
+    ,xr.soft_gsheets - r.soft_gsheets AS diff_soft_gsheets
+    ,xr.soft_gslides - r.soft_gslides AS diff_soft_gslides
+    ,xr.soft_lucidchart - r.soft_lucidchart AS diff_soft_lucidchart
+    ,xr.soft_ppt - r.soft_ppt AS diff_soft_ppt
+    ,xr.soft_visio - r.soft_visio AS diff_soft_visio
+    ,xr.soft_word - r.soft_word AS diff_soft_word
+    ,xr.tools_gh - r.tools_gh AS diff_tools_gh
+  FROM _responses r
+  LEFT JOIN _exit_responses xr ON r.student_id = xr.student_id
+);
+ALTER TABLE _diffs ADD PRIMARY KEY(student_id);
