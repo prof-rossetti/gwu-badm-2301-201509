@@ -1,3 +1,157 @@
+/* IMPORT CSV FILES */
+
+/*
+CREATE TABLE `xr_full` (
+  `ts` varchar(255) DEFAULT NULL,
+  `student_id` int(11) DEFAULT NULL,
+  `net_id` varchar(255) DEFAULT NULL,
+  `obj_reflect` text,
+  `os_windows` varchar(255) DEFAULT NULL,
+  `os_mac` varchar(255) DEFAULT NULL,
+  `os_ios` varchar(255) DEFAULT NULL,
+  `os_android` varchar(255) DEFAULT NULL,
+  `soft_word` varchar(255) DEFAULT NULL,
+  `soft_gdocs` varchar(255) DEFAULT NULL,
+  `soft_excel` varchar(255) DEFAULT NULL,
+  `soft_gscheets` varchar(255) DEFAULT NULL,
+  `soft_ppt` varchar(255) DEFAULT NULL,
+  `soft_gslides` varchar(255) DEFAULT NULL,
+  `soft_visio` varchar(255) DEFAULT NULL,
+  `soft_lucidchart` varchar(255) DEFAULT NULL,
+  `dbms_access` varchar(255) DEFAULT NULL,
+  `comms_email` varchar(255) DEFAULT NULL,
+  `comms_bboard` varchar(255) DEFAULT NULL,
+  `comms_slack` varchar(255) DEFAULT NULL,
+  `tools_gh` varchar(255) DEFAULT NULL,
+  `data_csv` varchar(255) DEFAULT NULL,
+  `data_json` varchar(255) DEFAULT NULL,
+  `data_xml` varchar(255) DEFAULT NULL,
+  `employment_interest` text,
+  `ta_rec` varchar(255) DEFAULT NULL,
+  `prof_feedback` text,
+  `ta_feedback` varchar(255) DEFAULT NULL,
+  `prof_rec` varchar(255) DEFAULT NULL,
+  `obj_subjectmatter` varchar(255) DEFAULT NULL,
+  `obj_techskills` varchar(255) DEFAULT NULL,
+  `obj_industry` varchar(255) DEFAULT NULL,
+  `obj_creativity` varchar(255) DEFAULT NULL,
+  `obj_pres` varchar(255) DEFAULT NULL,
+  `obj_writing` varchar(255) DEFAULT NULL,
+  `obj_teamwork` varchar(255) DEFAULT NULL,
+  `course_feedback` text,
+  `lang_sql` varchar(255) DEFAULT NULL,
+  `lang_html` varchar(255) DEFAULT NULL,
+  `lang_css` varchar(255) DEFAULT NULL,
+  `lang_js` varchar(255) DEFAULT NULL,
+  `prof_caresmysuccess` varchar(255) DEFAULT NULL,
+  `prof_organized` varchar(255) DEFAULT NULL,
+  `prof_punctual` varchar(255) DEFAULT NULL,
+  `prof_clearcomms` varchar(255) DEFAULT NULL,
+  `prof_prepared` varchar(255) DEFAULT NULL,
+  `prof_available` varchar(255) DEFAULT NULL,
+  `prof_smknowledge` varchar(255) DEFAULT NULL,
+  `prof_smexperience` varchar(255) DEFAULT NULL,
+  `prof_fairdecisions` varchar(255) DEFAULT NULL,
+  `prof_highexpectations` varchar(255) DEFAULT NULL,
+  `prof_wiseclasstime` varchar(255) DEFAULT NULL,
+  `self_comfcommswprof` varchar(255) DEFAULT NULL,
+  `lectures_relevant` varchar(255) DEFAULT NULL,
+  `lectures_engaging` varchar(255) DEFAULT NULL,
+  `lectures_fun` varchar(255) DEFAULT NULL,
+  `assignments_relevant` varchar(255) DEFAULT NULL,
+  `assignments_challenging` varchar(255) DEFAULT NULL,
+  `assignments_engaging` varchar(255) DEFAULT NULL,
+  `assignments_reasonable` varchar(255) DEFAULT NULL,
+  `assignments_fun` varchar(255) DEFAULT NULL,
+  `assignments_expectclear` varchar(255) DEFAULT NULL,
+  `project_relevant` varchar(255) DEFAULT NULL,
+  `project_engaging` varchar(255) DEFAULT NULL,
+  `project_fun` varchar(255) DEFAULT NULL,
+  `project_expectclear` varchar(255) DEFAULT NULL,
+  `research_interest` varchar(255) DEFAULT NULL,
+  `soft_atom` varchar(255) DEFAULT NULL,
+  `soft_nppp` varchar(255) DEFAULT NULL,
+  `soft_ghdesktop` varchar(255) DEFAULT NULL,
+  `os_linux` varchar(255) DEFAULT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+
+CREATE TABLE `exit_responses` (
+  `ts` varchar(255) DEFAULT NULL,
+  `student_id` int(11) NOT NULL DEFAULT '0',
+  `net_id` varchar(255) DEFAULT NULL,
+  `obj_reflect` text,
+  `os_windows` varchar(255) DEFAULT NULL,
+  `os_mac` varchar(255) DEFAULT NULL,
+  `os_ios` varchar(255) DEFAULT NULL,
+  `os_android` varchar(255) DEFAULT NULL,
+  `soft_word` varchar(255) DEFAULT NULL,
+  `soft_gdocs` varchar(255) DEFAULT NULL,
+  `soft_excel` varchar(255) DEFAULT NULL,
+  `soft_gscheets` varchar(255) DEFAULT NULL,
+  `soft_ppt` varchar(255) DEFAULT NULL,
+  `soft_gslides` varchar(255) DEFAULT NULL,
+  `soft_visio` varchar(255) DEFAULT NULL,
+  `soft_lucidchart` varchar(255) DEFAULT NULL,
+  `dbms_access` varchar(255) DEFAULT NULL,
+  `comms_email` varchar(255) DEFAULT NULL,
+  `comms_bboard` varchar(255) DEFAULT NULL,
+  `comms_slack` varchar(255) DEFAULT NULL,
+  `tools_gh` varchar(255) DEFAULT NULL,
+  `data_csv` varchar(255) DEFAULT NULL,
+  `data_json` varchar(255) DEFAULT NULL,
+  `data_xml` varchar(255) DEFAULT NULL,
+  `employment_interest` text,
+  `ta_rec` varchar(255) DEFAULT NULL,
+  `prof_feedback` text,
+  `ta_feedback` varchar(255) DEFAULT NULL,
+  `prof_rec` varchar(255) DEFAULT NULL,
+  `obj_subjectmatter` varchar(255) DEFAULT NULL,
+  `obj_techskills` varchar(255) DEFAULT NULL,
+  `obj_industry` varchar(255) DEFAULT NULL,
+  `obj_creativity` varchar(255) DEFAULT NULL,
+  `obj_pres` varchar(255) DEFAULT NULL,
+  `obj_writing` varchar(255) DEFAULT NULL,
+  `obj_teamwork` varchar(255) DEFAULT NULL,
+  `course_feedback` text,
+  `lang_sql` varchar(255) DEFAULT NULL,
+  `lang_html` varchar(255) DEFAULT NULL,
+  `lang_css` varchar(255) DEFAULT NULL,
+  `lang_js` varchar(255) DEFAULT NULL,
+  `prof_caresmysuccess` varchar(255) DEFAULT NULL,
+  `prof_organized` varchar(255) DEFAULT NULL,
+  `prof_punctual` varchar(255) DEFAULT NULL,
+  `prof_clearcomms` varchar(255) DEFAULT NULL,
+  `prof_prepared` varchar(255) DEFAULT NULL,
+  `prof_available` varchar(255) DEFAULT NULL,
+  `prof_smknowledge` varchar(255) DEFAULT NULL,
+  `prof_smexperience` varchar(255) DEFAULT NULL,
+  `prof_fairdecisions` varchar(255) DEFAULT NULL,
+  `prof_highexpectations` varchar(255) DEFAULT NULL,
+  `prof_wiseclasstime` varchar(255) DEFAULT NULL,
+  `self_comfcommswprof` varchar(255) DEFAULT NULL,
+  `lectures_relevant` varchar(255) DEFAULT NULL,
+  `lectures_engaging` varchar(255) DEFAULT NULL,
+  `lectures_fun` varchar(255) DEFAULT NULL,
+  `assignments_relevant` varchar(255) DEFAULT NULL,
+  `assignments_challenging` varchar(255) DEFAULT NULL,
+  `assignments_engaging` varchar(255) DEFAULT NULL,
+  `assignments_reasonable` varchar(255) DEFAULT NULL,
+  `assignments_fun` varchar(255) DEFAULT NULL,
+  `assignments_expectclear` varchar(255) DEFAULT NULL,
+  `project_relevant` varchar(255) DEFAULT NULL,
+  `project_engaging` varchar(255) DEFAULT NULL,
+  `project_fun` varchar(255) DEFAULT NULL,
+  `project_expectclear` varchar(255) DEFAULT NULL,
+  `research_interest` varchar(255) DEFAULT NULL,
+  `soft_atom` varchar(255) DEFAULT NULL,
+  `soft_nppp` varchar(255) DEFAULT NULL,
+  `soft_ghdesktop` varchar(255) DEFAULT NULL,
+  `os_linux` varchar(255) DEFAULT NULL,
+  PRIMARY KEY (`student_id`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+
+/*
+
 /* RESPONSE TRANSLATION AND QUANTIFICATION FUNCTIONS */
 
 CREATE FUNCTION agreement_response_to_int (s CHAR(20))
@@ -22,9 +176,11 @@ END;
 /* ORIGINAL ONBOARDING RESPONSES */
 
 DROP TABLE IF EXISTS badm_2301._responses;
-CREATE TABLE badm_2301._responses as (
+CREATE TABLE badm_2301._responses AS (
   SELECT
     g.student_id
+    ,g.final_grade
+    ,g.final_letter_grade
     ,comfort_response_to_int(comms_bboard) AS comms_bboard -- Collaboration and Productivity Tool Usage [Blackboard]
     ,comfort_response_to_int(comms_email) AS comms_email -- Collaboration and Productivity Tool Usage [Email]
     ,comfort_response_to_int(comms_gchat) AS comms_gchat -- Collaboration and Productivity Tool Usage [GChat]
@@ -67,18 +223,12 @@ CREATE TABLE badm_2301._responses as (
     ,comfort_response_to_int(soft_visio) AS soft_visio -- Software Usage [MS Visio]
     ,comfort_response_to_int(soft_word) AS soft_word -- Software Usage [MS Word]
   FROM gradebook g
-  LEFT JOIN badm_2301.responses_lang l ON g.student_id = l.student_id
-  LEFT JOIN badm_2301.responses_soft s ON g.student_id = s.student_id
-  LEFT JOIN badm_2301.responses_tools t ON g.student_id = t.student_id
+  LEFT JOIN badm_2301.responses r ON g.student_id = r.student_id
 );
 ALTER TABLE badm_2301._responses ADD PRIMARY KEY(student_id);
 SELECT * FROM badm_2301._responses;
 
-/*
-
-EXIT RESPONSES
-
-*/
+/* EXIT RESPONSES */
 
 DROP TABLE IF EXISTS badm_2301._exit_responses;
 CREATE TABLE badm_2301._exit_responses AS (
@@ -156,11 +306,6 @@ CREATE TABLE badm_2301._exit_responses AS (
 
   FROM badm_2301.gradebook g
   LEFT JOIN badm_2301.exit_responses xr ON g.student_id = xr.student_id
-  LEFT JOIN badm_2301.exit_responses_course xc ON g.student_id = xc.student_id
-  LEFT JOIN badm_2301.exit_responses_instruct xp ON g.student_id = xp.student_id
-  LEFT JOIN badm_2301.exit_responses_lang xl ON g.student_id = xl.student_id
-  LEFT JOIN badm_2301.exit_responses_soft xs ON g.student_id = xs.student_id
-  LEFT JOIN badm_2301.exit_responses_tools xt ON g.student_id = xt.student_id
 );
 ALTER TABLE badm_2301._exit_responses ADD PRIMARY KEY(student_id);
 SELECT * FROM badm_2301._exit_responses;
