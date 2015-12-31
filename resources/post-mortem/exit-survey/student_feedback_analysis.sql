@@ -284,7 +284,7 @@ CREATE TABLE badm_2301._exit_responses AS (
     ,comfort_response_to_int(soft_word) AS soft_word
     ,comfort_response_to_int(soft_gdocs) AS soft_gdocs
     ,comfort_response_to_int(soft_excel) AS soft_excel
-    ,comfort_response_to_int(soft_gsheets) AS soft_gsheets
+    ,comfort_response_to_int(soft_gscheets) AS soft_gsheets
     ,comfort_response_to_int(soft_ppt) AS soft_ppt
     ,comfort_response_to_int(soft_gslides) AS soft_gslides
     ,comfort_response_to_int(soft_visio) AS soft_visio
@@ -341,24 +341,11 @@ CREATE TABLE badm_2301._diffs as (
 ALTER TABLE _diffs ADD PRIMARY KEY(student_id);
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+/* QUERIES FOR TABLEAU */
 
 
 SELECT
   count(distinct student_id) AS student_count
-  ,AVG(final_grade) AS avg_final_grade
   ,AVG(diff_comms_bboard) AS avg_diff_comms_bboard
   ,AVG(diff_comms_email) AS avg_diff_comms_email
   ,AVG(diff_comms_slack) AS avg_diff_comms_slack
@@ -383,9 +370,7 @@ SELECT
   ,AVG(diff_soft_visio) AS avg_diff_soft_visio
   ,AVG(diff_soft_word) AS avg_diff_soft_word
   ,AVG(diff_tools_gh) AS avg_diff_tools_gh
-FROM badm_2301._diffs
-
-
+FROM badm_2301._diffs; -- then transpose these results in a spreadsheet
 
 
 
@@ -459,8 +444,7 @@ SELECT
   ,AVG(prof_wiseclasstime) AS avg_prof_wiseclasstime
   ,AVG(prof_comfcomms) AS avg_prof_comfcomms
 
-
-FROM badm_2301._exit_responses
+FROM badm_2301._exit_responses; -- then transpose these results in a spreadsheet
 
 
 SELECT
@@ -513,4 +497,4 @@ SELECT
   ,AVG(dbms_access) AS avg_dbms_access
   ,AVG(soft_gsheets) AS avg_soft_gsheets
 
-FROM badm_2301._responses
+FROM badm_2301._responses; -- then transpose these results in a spreadsheet
