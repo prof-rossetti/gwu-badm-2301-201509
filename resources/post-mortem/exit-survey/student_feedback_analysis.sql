@@ -178,9 +178,7 @@ END;
 DROP TABLE IF EXISTS badm_2301._responses;
 CREATE TABLE badm_2301._responses AS (
   SELECT
-    g.student_id
-    ,g.final_grade
-    ,g.final_letter_grade
+    student_id
     ,comfort_response_to_int(comms_bboard) AS comms_bboard -- Collaboration and Productivity Tool Usage [Blackboard]
     ,comfort_response_to_int(comms_email) AS comms_email -- Collaboration and Productivity Tool Usage [Email]
     ,comfort_response_to_int(comms_gchat) AS comms_gchat -- Collaboration and Productivity Tool Usage [GChat]
@@ -222,8 +220,7 @@ CREATE TABLE badm_2301._responses AS (
     ,comfort_response_to_int(soft_ppt) AS soft_ppt -- Software Usage [MS PowerPoint]
     ,comfort_response_to_int(soft_visio) AS soft_visio -- Software Usage [MS Visio]
     ,comfort_response_to_int(soft_word) AS soft_word -- Software Usage [MS Word]
-  FROM gradebook g
-  LEFT JOIN badm_2301.responses r ON g.student_id = r.student_id
+  FROM badm_2301.responses
 );
 ALTER TABLE badm_2301._responses ADD PRIMARY KEY(student_id);
 SELECT * FROM badm_2301._responses;
@@ -233,9 +230,7 @@ SELECT * FROM badm_2301._responses;
 DROP TABLE IF EXISTS badm_2301._exit_responses;
 CREATE TABLE badm_2301._exit_responses AS (
   SELECT
-    g.student_id
-    ,g.final_grade
-    ,g.final_letter_grade
+    student_id
     ,agreement_response_to_int(obj_subjectmatter) AS subject_matter -- Learning Objectives [I expanded my subject matter knowledge]
     ,agreement_response_to_int(obj_techskills) AS tech_skills -- Learning Objectives [I improved my technology skills]
     ,agreement_response_to_int(obj_industry) AS industry_insights -- Learning Objectives [I learned more about contemporary industry practices and challenges]
@@ -304,8 +299,7 @@ CREATE TABLE badm_2301._exit_responses AS (
     ,comfort_response_to_int(comms_slack) AS comms_slack
     ,comfort_response_to_int(tools_gh) AS tools_gh
 
-  FROM badm_2301.gradebook g
-  LEFT JOIN badm_2301.exit_responses xr ON g.student_id = xr.student_id
+  FROM badm_2301.exit_responses
 );
 ALTER TABLE badm_2301._exit_responses ADD PRIMARY KEY(student_id);
 SELECT * FROM badm_2301._exit_responses;
@@ -317,8 +311,6 @@ DROP TABLE IF EXISTS badm_2301._diffs;
 CREATE TABLE badm_2301._diffs as (
   SELECT
     r.student_id
-    ,xr.final_letter_grade
-    ,xr.final_grade
     ,xr.comms_bboard - r.comms_bboard AS diff_comms_bboard
     ,xr.comms_email - r.comms_email AS diff_comms_email
     ,xr.comms_slack - r.comms_slack AS diff_comms_slack
@@ -347,3 +339,125 @@ CREATE TABLE badm_2301._diffs as (
   LEFT JOIN _exit_responses xr ON r.student_id = xr.student_id
 );
 ALTER TABLE _diffs ADD PRIMARY KEY(student_id);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SELECT
+  count(distinct student_id) AS student_count
+  ,AVG(final_grade) AS avg_final_grade
+  ,AVG(diff_comms_bboard) AS avg_diff_comms_bboard
+  ,AVG(diff_comms_email) AS avg_diff_comms_email
+  ,AVG(diff_comms_slack) AS avg_diff_comms_slack
+  ,AVG(diff_data_csv) AS avg_diff_data_csv
+  ,AVG(diff_data_json) AS avg_diff_data_json
+  ,AVG(diff_data_xml) AS avg_diff_data_xml
+  ,AVG(diff_dbms_access) AS avg_diff_dbms_access
+  ,AVG(diff_lang_css) AS avg_diff_lang_css
+  ,AVG(diff_lang_html) AS avg_diff_lang_html
+  ,AVG(diff_lang_js) AS avg_diff_lang_js
+  ,AVG(diff_lang_sql) AS avg_diff_lang_sql
+  ,AVG(diff_os_android) AS avg_diff_os_android
+  ,AVG(diff_os_ios) AS avg_diff_os_ios
+  ,AVG(diff_os_mac) AS avg_diff_os_mac
+  ,AVG(diff_os_windows) AS avg_diff_os_windows
+  ,AVG(diff_soft_excel) AS avg_diff_soft_excel
+  ,AVG(diff_soft_gdocs) AS avg_diff_soft_gdocs
+  ,AVG(diff_soft_gsheets) AS avg_diff_soft_gsheets
+  ,AVG(diff_soft_gslides) AS avg_diff_soft_gslides
+  ,AVG(diff_soft_lucidchart) AS avg_diff_soft_lucidchart
+  ,AVG(diff_soft_ppt) AS avg_diff_soft_ppt
+  ,AVG(diff_soft_visio) AS avg_diff_soft_visio
+  ,AVG(diff_soft_word) AS avg_diff_soft_word
+  ,AVG(diff_tools_gh) AS avg_diff_tools_gh
+FROM badm_2301._diffs
+
+
+
+
+
+SELECT
+  count(DISTINCT student_id) AS response_count
+
+  ,AVG(comms_email) AS avg_comms_email
+  ,AVG(comms_bboard) AS avg_comms_bboard
+  ,AVG(comms_slack) AS avg_comms_slack
+  ,AVG(tools_gh) AS avg_tools_gh
+
+  ,AVG(os_windows) AS avg_os_windows
+  ,AVG(os_mac) AS avg_os_mac
+  ,AVG(os_ios) AS avg_os_ios
+  ,AVG(os_android) AS avg_os_android
+
+  ,AVG(lang_sql) AS avg_lang_sql
+  ,AVG(lang_html) AS avg_lang_html
+  ,AVG(lang_css) AS avg_lang_css
+  ,AVG(lang_js) AS avg_lang_js
+
+  ,AVG(data_csv) AS avg_data_csv
+  ,AVG(data_json) AS avg_data_json
+  ,AVG(data_xml) AS avg_data_xml
+
+  ,AVG(soft_word) AS avg_soft_word
+  ,AVG(soft_gdocs) AS avg_soft_gdocs
+  ,AVG(soft_excel) AS avg_soft_excel
+  ,AVG(soft_ppt) AS avg_soft_ppt
+  ,AVG(soft_gslides) AS avg_soft_gslides
+  ,AVG(soft_visio) AS avg_soft_visio
+  ,AVG(soft_lucidchart) AS avg_soft_lucidchart
+  ,AVG(dbms_access) AS avg_dbms_access
+  ,AVG(soft_atom) AS avg_soft_atom
+  ,AVG(soft_nppp) AS avg_soft_nppp
+  ,AVG(soft_ghdesktop) AS avg_soft_ghdesktop
+  ,AVG(soft_gsheets) AS avg_soft_gsheets
+
+  ,AVG(tech_skills) AS avg_tech_skills
+  ,AVG(industry_insights) AS avg_industry_insights
+  ,AVG(tech_creativity) AS avg_tech_creativity
+  ,AVG(presentation_comms) AS avg_presentation_comms
+  ,AVG(writing) AS avg_writing
+  ,AVG(teamwork) AS avg_teamwork
+  ,AVG(subject_matter) AS avg_subject_matter
+
+  ,AVG(lectures_relevant) AS avg_lectures_relevant
+  ,AVG(lectures_engaging) AS avg_lectures_engaging
+  ,AVG(lectures_fun) AS avg_lectures_fun
+  ,AVG(assignments_relevant) AS avg_assignments_relevant
+  ,AVG(assignments_challenging) AS avg_assignments_challenging
+  ,AVG(assignments_engaging) AS avg_assignments_engaging
+  ,AVG(assignments_reasonable) AS avg_assignments_reasonable
+  ,AVG(assignments_fun) AS avg_assignments_fun
+  ,AVG(assignments_expectclear) AS avg_assignments_expectclear
+  ,AVG(project_relevant) AS avg_project_relevant
+  ,AVG(project_engaging) AS avg_project_engaging
+  ,AVG(project_fun) AS avg_project_fun
+  ,AVG(project_expectclear) AS avg_project_expectclear
+
+  ,AVG(prof_caresmysuccess) AS avg_prof_caresmysuccess
+  ,AVG(prof_organized) AS avg_prof_organized
+  ,AVG(prof_punctual) AS avg_prof_punctual
+  ,AVG(prof_clearcomms) AS avg_prof_clearcomms
+  ,AVG(prof_prepared) AS avg_prof_prepared
+  ,AVG(prof_available) AS avg_prof_available
+  ,AVG(prof_smknowledge) AS avg_prof_smknowledge
+  ,AVG(prof_smexperience) AS avg_prof_smexperience
+  ,AVG(prof_fairdecisions) AS avg_prof_fairdecisions
+  ,AVG(prof_highexpectations) AS avg_prof_highexpectations
+  ,AVG(prof_wiseclasstime) AS avg_prof_wiseclasstime
+  ,AVG(prof_comfcomms) AS avg_prof_comfcomms
+
+
+FROM badm_2301._exit_responses
