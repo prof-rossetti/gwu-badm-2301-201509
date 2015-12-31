@@ -461,3 +461,56 @@ SELECT
 
 
 FROM badm_2301._exit_responses
+
+
+SELECT
+  count(DISTINCT student_id) AS response_count
+
+  ,AVG(comms_email) AS avg_comms_email
+  ,AVG(comms_bboard) AS avg_comms_bboard
+  ,AVG(comms_gchat) AS avg_comms_gchat
+  ,AVG(comms_hipchat) AS avg_comms_hipchat
+  ,AVG(comms_irc) AS avg_comms_irc
+  ,AVG(comms_slack) AS avg_comms_slack
+  ,AVG(tools_gh) AS avg_tools_gh
+  ,AVG(tools_aws) AS avg_tools_aws
+  ,AVG(tools_bitbucket) AS avg_tools_bitbucket
+
+  ,AVG(os_windows) AS avg_os_windows
+  ,AVG(os_mac) AS avg_os_mac
+  ,AVG(os_ios) AS avg_os_ios
+  ,AVG(os_android) AS avg_os_android
+
+  ,AVG(lang_sql) AS avg_lang_sql
+  ,AVG(lang_html) AS avg_lang_html
+  ,AVG(lang_css) AS avg_lang_css
+  ,AVG(lang_js) AS avg_lang_js
+  ,AVG(lang_c) AS avg_lang_c
+  ,AVG(lang_cpp) AS avg_lang_cpp
+  ,AVG(lang_csh) AS avg_lang_csh
+  ,AVG(lang_css) AS avg_lang_css
+  ,AVG(lang_dotnet) AS avg_lang_dotnet
+  ,AVG(lang_java) AS avg_lang_java
+  ,AVG(lang_objc) AS avg_lang_objc
+  ,AVG(lang_perl) AS avg_lang_perl
+  ,AVG(lang_php) AS avg_lang_php
+  ,AVG(lang_py) AS avg_lang_py
+  ,AVG(lang_r) AS avg_lang_r
+  ,AVG(lang_ruby) AS avg_lang_ruby
+  ,AVG(lang_vb) AS avg_lang_vb
+
+  ,AVG(data_csv) AS avg_data_csv
+  ,AVG(data_json) AS avg_data_json
+  ,AVG(data_xml) AS avg_data_xml
+
+  ,AVG(soft_word) AS avg_soft_word
+  ,AVG(soft_gdocs) AS avg_soft_gdocs
+  ,AVG(soft_excel) AS avg_soft_excel
+  ,AVG(soft_ppt) AS avg_soft_ppt
+  ,AVG(soft_gslides) AS avg_soft_gslides
+  ,AVG(soft_visio) AS avg_soft_visio
+  ,AVG(soft_lucidchart) AS avg_soft_lucidchart
+  ,AVG(dbms_access) AS avg_dbms_access
+  ,AVG(soft_gsheets) AS avg_soft_gsheets
+
+FROM badm_2301._responses
