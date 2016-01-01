@@ -6,19 +6,23 @@
 
 ### Student Learning
 
+Student learning was measured by both surveys and grades.
+
+#### Baseline Survey
+
 On the first day of class, students took a baseline technology comfort survey.
 
 ![](exit-survey/tech-baseline.png)
 
 It revealed a strong foundation in documents, presentation, and spreadsheet software, as well as opportunities to learn diagramming software, database management software, and programming languages.
 
+#### Exit Survey
+
 On the last day of class, students responded to an exit survey which included a follow-up section on technology comfort levels.
 
 ![](exit-survey/tech-eval.png)
 
-The follow-up revealed gains across all categories, primarily with using diagramming software, database management software, text editors, and web development languages.
-
-When contrasted against the baseline survey, these perceived improvements are made clear.
+The follow-up revealed moderate levels of comfort in technology categories where previously there had been little or none. This is primarily the case with diagramming software, database management software, text editors, and web development languages.
 
 ![](exit-survey/tech-improvements.png)
 
@@ -30,11 +34,12 @@ These technology skill improvements were confirmed by students when they indicat
 
 On average, students said they improved most in learning technology skills, subject matter knowledge, and the ability to work in teams, while on average they said they did not improve their writing skills.
 
+#### Final Grades
+
 This student learning and performance was reflected by their final letter grades, where 35 out of 39 (~90%) earned an A or B. On average, students earned a B+, with a mean final grade of 87.92 and a median of 89.69.
 
 ![](exit-survey/letter-grades.png)
 
-Overall, students met expectations.
 
 ### Instructor Performance
 
@@ -49,7 +54,7 @@ Ultimately, 25 out of 39 students (64%) recommended the professor for teaching t
 ![](exit-survey/prof-rec.png)
 
 
-### Course Planning and Administration
+### Course Administration
 
 When given an opportunity to give feedback on the course itself, students highlighted several areas of improvement.
 
