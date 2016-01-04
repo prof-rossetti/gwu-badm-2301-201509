@@ -2,11 +2,11 @@
 
 ## Results
 
-
-
 ### Student Learning
 
 Student learning was measured by both surveys and grades.
+
+<p style="page-break-after:always;"></p>
 
 #### Baseline Survey
 
@@ -15,6 +15,8 @@ On the first day of class, students took a baseline technology comfort survey.
 ![](exit-survey/tech-baseline.png)
 
 It revealed a strong foundation in documents, presentation, and spreadsheet software, as well as opportunities to learn diagramming software, database management software, and programming languages.
+
+<p style="page-break-after:always;"></p>
 
 #### Exit Survey
 
